@@ -1,0 +1,201 @@
+Food,MealType,DietType,Calories,Protein,Fat,Price
+Dal,Dinner,non-Veg,231,8,5,218
+Rice Bowl,Lunch,non-Veg,684,28,1,153
+Burger,Dinner,veg,471,26,7,62
+Smoothie,Lunch,non-Veg,547,25,5,126
+Rice Bowl,Breakfast,non-Veg,175,9,8,236
+Idli,Dinner,veg,490,25,28,78
+Salad,Breakfast,non-Veg,506,14,21,119
+Fruit Bowl,Lunch,non-Veg,386,18,6,290
+Dal,Lunch,non-Veg,516,23,11,299
+Dosa,Breakfast,veg,371,30,27,289
+Salad,Lunch,non-Veg,614,8,10,183
+Dosa,Lunch,veg,532,3,12,233
+Burger,Dinner,non-Veg,418,12,23,287
+Paneer Tikka,Breakfast,veg,184,34,12,135
+Chicken Curry,Dinner,non-Veg,533,19,12,72
+Burger,Dinner,veg,679,21,6,119
+Veg Sandwich,Dinner,non-Veg,434,5,3,298
+Smoothie,Lunch,veg,228,11,4,38
+Pancake,Dinner,non-Veg,129,4,18,116
+Burger,Dinner,non-Veg,403,14,5,287
+Dal,Dinner,non-Veg,429,6,15,76
+Veg Sandwich,Dinner,veg,108,12,5,176
+Burger,Lunch,non-Veg,444,19,20,106
+Paneer Tikka,Breakfast,non-Veg,696,34,25,197
+Dal,Breakfast,non-Veg,126,10,7,107
+Burger,Lunch,veg,174,7,1,276
+Dosa,Lunch,veg,546,17,20,101
+Soup,Lunch,non-Veg,527,18,16,286
+Grilled Fish,Lunch,veg,238,9,9,108
+Soup,Dinner,veg,599,21,28,148
+Dal,Dinner,non-Veg,243,30,3,146
+Pasta,Dinner,veg,652,17,28,181
+Smoothie,Lunch,non-Veg,687,3,25,89
+Idli,Dinner,veg,169,19,7,285
+Burger,Dinner,veg,337,6,7,94
+Chole,Lunch,non-Veg,346,15,26,146
+Dosa,Dinner,veg,548,23,12,196
+Pizza,Breakfast,veg,495,20,16,211
+Chicken Curry,Lunch,veg,387,29,9,24
+Omelette,Dinner,non-Veg,592,3,11,33
+Pizza,Breakfast,veg,230,20,19,127
+Chicken Curry,Lunch,veg,631,31,7,84
+Dosa,Lunch,veg,205,17,21,135
+Omelette,Breakfast,veg,540,14,22,256
+Dal,Dinner,veg,629,34,6,220
+Paneer Tikka,Dinner,veg,536,21,27,98
+Idli,Lunch,veg,583,6,21,105
+Rice Bowl,Lunch,veg,622,35,14,92
+Dosa,Lunch,veg,474,10,26,152
+Omelette,Lunch,veg,428,35,22,186
+Grilled Fish,Lunch,non-Veg,221,18,6,27
+Idli,Dinner,non-Veg,302,17,10,113
+Veg Sandwich,Dinner,veg,361,8,17,120
+Smoothie,Dinner,veg,409,8,21,222
+Omelette,Dinner,non-Veg,495,32,9,286
+Burger,Breakfast,non-Veg,652,9,27,204
+Paneer Tikka,Breakfast,veg,616,22,3,204
+Pancake,Breakfast,veg,136,15,16,234
+Paneer Tikka,Breakfast,veg,166,17,7,262
+Soup,Dinner,non-Veg,570,15,11,104
+Omelette,Breakfast,non-Veg,267,25,29,184
+Chicken Curry,Lunch,non-Veg,443,15,19,58
+Pasta,Breakfast,non-Veg,286,33,22,59
+Smoothie,Lunch,non-Veg,277,5,30,71
+Dal,Dinner,veg,198,5,15,117
+Idli,Breakfast,non-Veg,107,15,18,120
+Soup,Dinner,non-Veg,678,4,2,91
+Burger,Dinner,non-Veg,167,23,22,175
+Burger,Breakfast,non-Veg,476,24,22,158
+Veg Sandwich,Lunch,non-Veg,354,19,30,121
+Omelette,Lunch,non-Veg,693,7,6,189
+Rice Bowl,Dinner,non-Veg,130,22,28,160
+Burger,Breakfast,veg,539,8,17,221
+Pizza,Dinner,veg,622,18,17,83
+Paneer Tikka,Lunch,veg,503,30,11,118
+Salad,Lunch,veg,287,22,10,199
+Dosa,Breakfast,non-Veg,376,32,15,84
+Pizza,Dinner,veg,254,10,29,243
+Rice Bowl,Breakfast,veg,539,24,14,68
+Burger,Breakfast,non-Veg,100,15,24,165
+Pasta,Lunch,non-Veg,314,35,2,258
+Rice Bowl,Lunch,veg,296,9,20,157
+Fruit Bowl,Dinner,veg,654,17,12,26
+Grilled Fish,Dinner,non-Veg,104,28,27,85
+Pancake,Breakfast,non-Veg,142,19,1,67
+Rice Bowl,Breakfast,veg,499,7,22,126
+Smoothie,Lunch,veg,196,4,10,260
+Dosa,Lunch,veg,215,30,23,96
+Grilled Fish,Dinner,non-Veg,644,24,5,75
+Grilled Fish,Dinner,veg,433,13,29,65
+Paneer Tikka,Breakfast,non-Veg,626,6,17,143
+Chicken Curry,Dinner,veg,661,8,21,256
+Rice Bowl,Lunch,non-Veg,679,12,12,81
+Omelette,Lunch,non-Veg,377,13,21,255
+Chicken Curry,Breakfast,non-Veg,552,24,27,132
+Fruit Bowl,Dinner,veg,266,4,23,282
+Paneer Tikka,Lunch,veg,198,31,13,79
+Chicken Curry,Lunch,veg,582,32,14,295
+Salad,Lunch,veg,537,21,28,241
+Chicken Curry,Lunch,veg,184,17,22,238
+Pizza,Lunch,veg,517,18,17,271
+Dal,Lunch,veg,373,30,11,90
+Fruit Bowl,Dinner,non-Veg,548,23,29,290
+Soup,Lunch,veg,254,7,7,106
+Chole,Breakfast,veg,694,5,11,205
+Pancake,Dinner,non-Veg,515,5,10,81
+Chole,Breakfast,non-Veg,657,25,10,29
+Smoothie,Lunch,non-Veg,434,25,25,227
+Idli,Breakfast,veg,375,11,18,256
+Chole,Lunch,non-Veg,567,9,24,106
+Smoothie,Breakfast,veg,133,3,23,24
+Burger,Lunch,non-Veg,691,26,20,203
+Rice Bowl,Breakfast,veg,526,34,29,128
+Dosa,Dinner,non-Veg,625,10,19,151
+Rice Bowl,Breakfast,non-Veg,155,14,24,292
+Smoothie,Breakfast,veg,465,19,28,116
+Dal,Breakfast,non-Veg,377,29,17,257
+Pizza,Breakfast,veg,592,14,11,173
+Soup,Breakfast,non-Veg,146,33,2,92
+Pizza,Dinner,non-Veg,469,13,7,71
+Fruit Bowl,Breakfast,non-Veg,568,7,9,232
+Rice Bowl,Breakfast,veg,540,9,14,266
+Veg Sandwich,Dinner,veg,461,14,23,138
+Pasta,Lunch,non-Veg,682,9,30,261
+Chicken Curry,Dinner,veg,668,12,4,129
+Veg Sandwich,Breakfast,non-Veg,178,20,19,221
+Idli,Dinner,non-Veg,265,21,16,264
+Dosa,Lunch,veg,548,16,27,169
+Pasta,Dinner,veg,223,30,13,221
+Veg Sandwich,Breakfast,non-Veg,306,23,30,62
+Pizza,Dinner,veg,626,16,23,167
+Salad,Dinner,veg,351,21,10,134
+Rice Bowl,Lunch,non-Veg,377,33,26,243
+Paneer Tikka,Lunch,veg,513,25,6,225
+Grilled Fish,Breakfast,veg,355,29,8,137
+Veg Sandwich,Breakfast,veg,460,10,16,38
+Dal,Dinner,non-Veg,292,18,11,174
+Chicken Curry,Lunch,veg,245,23,14,261
+Dosa,Lunch,veg,308,3,4,125
+Pizza,Lunch,non-Veg,463,33,8,183
+Chicken Curry,Breakfast,veg,397,24,2,266
+Chicken Curry,Dinner,non-Veg,236,4,2,240
+Soup,Breakfast,non-Veg,184,10,10,167
+Pasta,Breakfast,non-Veg,553,32,8,168
+Pasta,Breakfast,non-Veg,425,4,2,29
+Salad,Lunch,non-Veg,172,6,12,180
+Omelette,Lunch,non-Veg,374,23,1,292
+Dosa,Dinner,non-Veg,422,31,13,26
+Chole,Lunch,veg,102,34,11,212
+Pasta,Dinner,non-Veg,343,8,7,57
+Dosa,Breakfast,veg,442,23,2,104
+Fruit Bowl,Lunch,non-Veg,610,18,2,122
+Veg Sandwich,Dinner,non-Veg,388,33,13,256
+Dosa,Dinner,veg,590,8,23,227
+Chicken Curry,Lunch,veg,383,3,27,189
+Burger,Breakfast,veg,404,9,6,143
+Salad,Breakfast,non-Veg,193,11,1,80
+Fruit Bowl,Lunch,veg,104,9,11,204
+Omelette,Lunch,non-Veg,155,27,14,165
+Pasta,Lunch,non-Veg,699,15,11,179
+Paneer Tikka,Breakfast,veg,635,16,10,252
+Dosa,Lunch,veg,499,34,23,283
+Soup,Breakfast,veg,418,26,29,291
+Omelette,Dinner,non-Veg,668,34,1,82
+Dal,Breakfast,non-Veg,390,28,10,293
+Smoothie,Breakfast,non-Veg,310,23,16,38
+Idli,Dinner,veg,217,31,4,209
+Rice Bowl,Lunch,veg,552,33,10,166
+Salad,Lunch,veg,171,21,21,171
+Pancake,Dinner,veg,639,8,12,54
+Burger,Lunch,veg,153,3,22,71
+Omelette,Dinner,non-Veg,100,13,9,84
+Burger,Lunch,veg,648,31,22,175
+Fruit Bowl,Breakfast,non-Veg,498,21,7,272
+Idli,Dinner,non-Veg,426,27,24,191
+Paneer Tikka,Breakfast,veg,335,9,5,49
+Chole,Dinner,non-Veg,498,32,15,55
+Fruit Bowl,Breakfast,veg,277,29,12,249
+Pizza,Lunch,veg,230,16,7,293
+Dosa,Breakfast,veg,400,35,26,161
+Grilled Fish,Dinner,non-Veg,416,29,26,75
+Pizza,Lunch,non-Veg,665,33,12,276
+Omelette,Lunch,veg,486,4,17,136
+Fruit Bowl,Breakfast,non-Veg,565,19,2,63
+Grilled Fish,Breakfast,veg,594,19,12,117
+Pancake,Breakfast,non-Veg,557,16,9,107
+Burger,Breakfast,non-Veg,296,9,30,99
+Veg Sandwich,Dinner,veg,318,15,3,159
+Smoothie,Dinner,veg,350,32,25,282
+Omelette,Breakfast,non-Veg,378,30,3,246
+Omelette,Dinner,non-Veg,416,32,13,33
+Pancake,Breakfast,non-Veg,655,4,13,106
+Soup,Breakfast,non-Veg,271,7,25,281
+Smoothie,Breakfast,non-Veg,511,35,4,194
+Omelette,Lunch,non-Veg,496,25,25,275
+Idli,Dinner,non-Veg,213,33,2,224
+Paneer Tikka,Dinner,non-Veg,530,20,17,110
+Pizza,Dinner,non-Veg,348,9,4,153
+Pizza,Lunch,non-Veg,275,33,4,186
+Pizza,Dinner,non-Veg,570,23,5,100

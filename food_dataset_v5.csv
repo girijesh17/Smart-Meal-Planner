@@ -1,0 +1,501 @@
+Food,MealType,DietType,Calories,Protein,Fat,Price
+Poha,Breakfast,Veg,205,13,9,57
+Chicken Burger,Lunch,Non-Veg,756,28,24,114
+Chicken Tikka,Dinner,Non-Veg,366,42,33,325
+Masala Dosa,Breakfast,Veg,364,21,20,176
+Rice Bowl,Dinner,Veg,589,12,10,206
+Paneer Butter Masala,Dinner,Veg,367,10,20,34
+Palak Paneer,Dinner,Veg,387,6,9,215
+Palak Paneer,Dinner,Veg,415,19,18,226
+Dal Makhani,Dinner,Veg,250,21,6,240
+Baingan Bharta,Lunch,Veg,595,21,11,107
+Pancake,Breakfast,Veg,500,25,14,245
+Vegetable Cutlet,Breakfast,Veg,164,23,10,163
+Paneer Butter Masala,Lunch,Veg,396,18,8,247
+Fruit Bowl,Breakfast,Veg,430,17,6,182
+Masala Dosa,Breakfast,Veg,245,17,10,74
+Soup,Lunch,Veg,410,19,15,54
+Aloo Gobi,Dinner,Veg,284,15,10,112
+Chicken Pizza,Lunch,Non-Veg,742,39,12,436
+Pancake,Breakfast,Veg,499,12,9,210
+Mutton Rogan Josh,Dinner,Non-Veg,345,30,14,329
+Paneer Tikka,Lunch,Veg,152,6,12,114
+Dal Makhani,Dinner,Veg,530,21,17,224
+Fish Curry,Lunch,Non-Veg,632,30,12,277
+Omelette,Breakfast,Non-Veg,564,36,10,172
+Pancake,Breakfast,Veg,208,20,6,197
+Kadai Paneer,Dinner,Veg,517,6,8,207
+Soup,Dinner,Veg,168,10,8,80
+Veg Pizza,Lunch,Veg,204,18,10,244
+Pasta,Lunch,Veg,312,6,18,69
+Appam,Breakfast,Veg,161,16,18,233
+Shahi Paneer,Lunch,Veg,151,18,15,134
+Vegetable Cutlet,Breakfast,Veg,545,15,11,31
+Seekh Kabab,Dinner,Non-Veg,794,32,32,175
+Paratha,Breakfast,Veg,350,19,17,59
+Chicken Pizza,Lunch,Non-Veg,447,26,23,128
+Aloo Gobi,Lunch,Veg,318,13,16,78
+Omelette,Breakfast,Non-Veg,763,28,10,168
+Mutton Rogan Josh,Dinner,Non-Veg,639,23,17,356
+Butter Chicken,Lunch,Non-Veg,517,23,21,182
+Mutton Biryani,Dinner,Non-Veg,603,19,16,303
+Poha,Breakfast,Veg,504,12,18,138
+Bhindi Fry,Dinner,Veg,413,12,9,96
+Poha,Breakfast,Veg,345,7,14,109
+Soup,Dinner,Veg,503,6,20,77
+Vegetable Cutlet,Breakfast,Veg,187,22,14,66
+Dal Makhani,Dinner,Veg,556,6,18,140
+Soup,Lunch,Veg,244,22,7,146
+Thepla,Breakfast,Veg,212,9,12,62
+Chicken Curry,Dinner,Non-Veg,414,38,27,345
+Smoothie,Breakfast,Veg,454,6,12,58
+Upma,Breakfast,Veg,479,11,12,100
+Paneer Tikka,Lunch,Veg,190,22,5,184
+Paneer Butter Masala,Dinner,Veg,447,24,12,180
+Fish Curry,Lunch,Non-Veg,763,22,34,396
+Baingan Bharta,Lunch,Veg,305,17,18,51
+Smoothie,Breakfast,Veg,294,11,16,143
+Omelette,Breakfast,Non-Veg,575,34,34,406
+Chicken Biryani,Lunch,Non-Veg,476,18,24,203
+Pongal,Breakfast,Veg,544,22,13,41
+Appam,Breakfast,Veg,267,21,16,41
+Veg Pizza,Lunch,Veg,305,23,18,51
+Fish Curry,Lunch,Non-Veg,521,42,18,141
+Kadai Paneer,Lunch,Veg,590,12,11,125
+Paneer Butter Masala,Dinner,Veg,374,13,14,115
+Grilled Fish,Dinner,Non-Veg,514,33,22,433
+Mix Veg,Lunch,Veg,597,16,16,130
+Masala Dosa,Breakfast,Veg,441,17,17,159
+Thepla,Breakfast,Veg,265,15,6,174
+Egg Curry,Lunch,Non-Veg,798,28,35,108
+Chicken Biryani,Lunch,Non-Veg,338,39,30,351
+Chicken Burger,Dinner,Non-Veg,724,39,32,401
+Thepla,Breakfast,Veg,183,20,11,237
+Mix Veg,Lunch,Veg,239,21,5,55
+Prawn Curry,Dinner,Non-Veg,658,28,34,186
+Dosa,Breakfast,Veg,346,22,16,196
+Omelette,Breakfast,Non-Veg,330,39,26,237
+Medu Vada,Breakfast,Veg,580,19,12,63
+Shahi Paneer,Lunch,Veg,496,20,15,92
+Paneer Tikka,Lunch,Veg,315,8,17,90
+Dal,Dinner,Veg,159,18,14,169
+Medu Vada,Breakfast,Veg,210,25,7,185
+Pongal,Breakfast,Veg,390,13,14,76
+Puri Bhaji,Breakfast,Veg,567,16,20,250
+Dal Makhani,Lunch,Veg,360,6,7,201
+Mix Veg,Lunch,Veg,336,17,18,217
+Fish Curry,Lunch,Non-Veg,423,38,15,403
+Fish Curry,Dinner,Non-Veg,525,15,31,208
+Chicken Curry,Dinner,Non-Veg,338,39,27,352
+Fish Curry,Dinner,Non-Veg,752,28,12,126
+Masala Dosa,Breakfast,Veg,506,14,7,161
+Aloo Gobi,Lunch,Veg,353,14,13,84
+Soup,Dinner,Veg,420,10,18,46
+Kadai Paneer,Dinner,Veg,413,13,20,192
+Mix Veg,Lunch,Veg,201,23,9,190
+Omelette,Breakfast,Non-Veg,729,24,35,124
+Butter Chicken,Dinner,Non-Veg,379,19,26,370
+Grilled Fish,Lunch,Non-Veg,688,27,31,122
+Grilled Fish,Dinner,Non-Veg,453,30,12,223
+Masala Dosa,Breakfast,Veg,230,8,9,35
+Thepla,Breakfast,Veg,326,12,12,235
+Upma,Breakfast,Veg,441,23,9,197
+Aloo Gobi,Dinner,Veg,527,21,6,231
+Chicken Tikka,Dinner,Non-Veg,455,37,18,389
+Mix Veg,Dinner,Veg,569,5,18,148
+Dal,Lunch,Veg,540,10,10,176
+Aloo Gobi,Dinner,Veg,447,24,11,213
+Thepla,Breakfast,Veg,374,25,10,71
+Paratha,Breakfast,Veg,358,15,5,59
+Idli,Breakfast,Veg,195,8,8,159
+Upma,Breakfast,Veg,222,10,5,200
+Vegetable Cutlet,Breakfast,Veg,159,21,7,229
+Grilled Fish,Lunch,Non-Veg,717,19,18,191
+Mix Veg,Lunch,Veg,186,9,20,73
+Puri Bhaji,Breakfast,Veg,301,6,11,143
+Mix Veg,Dinner,Veg,338,15,20,128
+Tandoori Chicken,Dinner,Non-Veg,738,19,31,156
+Smoothie,Breakfast,Veg,310,7,18,150
+Vegetable Cutlet,Breakfast,Veg,467,12,14,140
+Chicken Burger,Dinner,Non-Veg,347,42,11,191
+Thepla,Breakfast,Veg,492,22,20,201
+Butter Chicken,Lunch,Non-Veg,546,36,31,362
+Poha,Breakfast,Veg,150,15,18,109
+Mutton Rogan Josh,Lunch,Non-Veg,797,36,10,120
+Dosa,Breakfast,Veg,186,24,14,69
+Chicken Burger,Lunch,Non-Veg,699,16,34,199
+Masala Dosa,Breakfast,Veg,386,14,10,187
+Puri Bhaji,Breakfast,Veg,294,6,19,88
+Egg Curry,Dinner,Non-Veg,745,26,10,422
+Fish Curry,Dinner,Non-Veg,685,16,33,418
+Chole Bhature,Breakfast,Veg,333,21,19,33
+Paratha,Breakfast,Veg,332,17,17,169
+Chicken Pizza,Lunch,Non-Veg,756,17,24,242
+Dal,Lunch,Veg,383,19,6,178
+Tandoori Chicken,Dinner,Non-Veg,756,19,16,330
+Paneer Butter Masala,Dinner,Veg,287,10,18,108
+Paneer Tikka,Lunch,Veg,472,6,6,221
+Chicken Burger,Dinner,Non-Veg,473,45,21,413
+Appam,Breakfast,Veg,235,7,11,95
+Mutton Biryani,Lunch,Non-Veg,528,27,17,303
+Grilled Fish,Dinner,Non-Veg,660,22,25,415
+Vegetable Cutlet,Breakfast,Veg,563,7,5,135
+Chicken Burger,Dinner,Non-Veg,787,16,30,233
+Paneer Butter Masala,Dinner,Veg,180,21,16,34
+Baingan Bharta,Dinner,Veg,337,5,13,82
+Baingan Bharta,Dinner,Veg,166,16,5,83
+Pancake,Breakfast,Veg,195,12,5,40
+Pasta,Dinner,Veg,364,17,18,71
+Chicken Biryani,Lunch,Non-Veg,655,20,28,211
+Chicken Biryani,Lunch,Non-Veg,631,34,10,300
+Bhindi Fry,Dinner,Veg,247,9,17,184
+Medu Vada,Breakfast,Veg,534,12,10,43
+Butter Chicken,Lunch,Non-Veg,663,41,12,178
+Chole Bhature,Breakfast,Veg,568,23,18,35
+Masala Dosa,Breakfast,Veg,376,17,17,249
+Paneer Butter Masala,Lunch,Veg,278,14,16,69
+Chole,Lunch,Veg,505,17,19,50
+Pancake,Breakfast,Veg,372,10,8,35
+Mutton Rogan Josh,Lunch,Non-Veg,675,17,32,338
+Butter Chicken,Dinner,Non-Veg,665,23,14,236
+Dal,Dinner,Veg,574,21,18,167
+Appam,Breakfast,Veg,327,22,8,232
+Pancake,Breakfast,Veg,339,16,11,235
+Shahi Paneer,Lunch,Veg,479,14,13,246
+Medu Vada,Breakfast,Veg,355,20,6,57
+Poha,Breakfast,Veg,587,7,16,113
+Grilled Fish,Lunch,Non-Veg,468,20,13,327
+Dosa,Breakfast,Veg,326,21,6,151
+Medu Vada,Breakfast,Veg,359,10,7,237
+Upma,Breakfast,Veg,205,25,9,100
+Malai Kofta,Lunch,Veg,510,18,20,147
+Seekh Kabab,Dinner,Non-Veg,503,33,28,444
+Grilled Fish,Dinner,Non-Veg,577,18,22,290
+Dal Makhani,Lunch,Veg,413,18,9,194
+Veg Pizza,Dinner,Veg,285,10,6,47
+Chole Bhature,Breakfast,Veg,542,14,6,98
+Paneer Tikka,Dinner,Veg,347,9,17,201
+Veg Pizza,Dinner,Veg,233,13,7,33
+Paneer Tikka,Dinner,Veg,358,11,14,203
+Pancake,Breakfast,Veg,501,13,12,192
+Paneer Butter Masala,Lunch,Veg,225,8,9,161
+Rajma Rice,Dinner,Veg,514,11,18,78
+Mutton Biryani,Dinner,Non-Veg,426,15,30,326
+Dal Makhani,Dinner,Veg,558,7,6,53
+Smoothie,Breakfast,Veg,518,7,13,193
+Palak Paneer,Dinner,Veg,201,5,12,136
+Medu Vada,Breakfast,Veg,294,16,11,225
+Poha,Breakfast,Veg,185,7,13,75
+Chicken Biryani,Lunch,Non-Veg,300,32,27,308
+Grilled Fish,Lunch,Non-Veg,766,32,26,389
+Chole Bhature,Breakfast,Veg,459,6,14,230
+Paneer Tikka,Lunch,Veg,542,24,12,215
+Medu Vada,Breakfast,Veg,430,13,9,73
+Masala Dosa,Breakfast,Veg,270,24,13,64
+Palak Paneer,Dinner,Veg,165,15,19,161
+Soup,Dinner,Veg,156,13,18,161
+Aloo Gobi,Dinner,Veg,456,12,20,153
+Egg Curry,Dinner,Non-Veg,643,20,11,427
+Puri Bhaji,Breakfast,Veg,438,10,15,226
+Malai Kofta,Dinner,Veg,439,19,18,56
+Chicken Curry,Lunch,Non-Veg,604,40,31,155
+Appam,Breakfast,Veg,549,22,6,179
+Smoothie,Breakfast,Veg,265,23,5,94
+Dal Makhani,Lunch,Veg,427,19,18,207
+Omelette,Breakfast,Non-Veg,515,34,23,318
+Dal Makhani,Lunch,Veg,401,19,19,209
+Malai Kofta,Dinner,Veg,231,21,15,31
+Tandoori Chicken,Dinner,Non-Veg,484,25,35,319
+Mix Veg,Lunch,Veg,383,24,15,126
+Puri Bhaji,Breakfast,Veg,396,19,6,222
+Dosa,Breakfast,Veg,416,20,12,159
+Smoothie,Breakfast,Veg,246,24,10,95
+Baingan Bharta,Dinner,Veg,237,17,5,127
+Chole,Lunch,Veg,591,16,18,87
+Poha,Breakfast,Veg,290,16,15,61
+Palak Paneer,Dinner,Veg,154,15,18,93
+Aloo Gobi,Lunch,Veg,352,17,14,34
+Dosa,Breakfast,Veg,385,9,8,181
+Seekh Kabab,Dinner,Non-Veg,367,32,15,189
+Chicken Biryani,Lunch,Non-Veg,585,45,15,170
+Pancake,Breakfast,Veg,542,18,18,71
+Paneer Tikka,Lunch,Veg,354,23,14,125
+Egg Curry,Dinner,Non-Veg,415,20,32,355
+Mutton Biryani,Dinner,Non-Veg,501,40,17,358
+Paratha,Breakfast,Veg,152,25,14,78
+Bhindi Fry,Dinner,Veg,177,20,9,120
+Paneer Tikka,Dinner,Veg,165,16,17,34
+Mutton Rogan Josh,Dinner,Non-Veg,666,33,30,270
+Baingan Bharta,Dinner,Veg,201,7,15,141
+Palak Paneer,Dinner,Veg,326,8,20,208
+Dal Makhani,Lunch,Veg,367,10,12,225
+Masala Dosa,Breakfast,Veg,438,24,20,64
+Pongal,Breakfast,Veg,332,14,8,208
+Puri Bhaji,Breakfast,Veg,362,8,12,130
+Pongal,Breakfast,Veg,249,6,10,215
+Chole,Lunch,Veg,575,17,11,193
+Chicken Tikka,Dinner,Non-Veg,597,42,22,184
+Fruit Bowl,Breakfast,Veg,562,9,5,144
+Baingan Bharta,Lunch,Veg,502,16,8,182
+Butter Chicken,Dinner,Non-Veg,508,33,27,428
+Dosa,Breakfast,Veg,526,7,11,127
+Bhindi Fry,Lunch,Veg,498,14,15,31
+Shahi Paneer,Dinner,Veg,369,22,15,87
+Baingan Bharta,Lunch,Veg,322,22,15,211
+Chicken Biryani,Lunch,Non-Veg,417,16,24,154
+Idli,Breakfast,Veg,416,11,18,215
+Rice Bowl,Dinner,Veg,323,10,6,191
+Chicken Curry,Lunch,Non-Veg,701,32,28,219
+Shahi Paneer,Lunch,Veg,275,25,19,114
+Rajma Rice,Lunch,Veg,338,22,8,125
+Kadai Paneer,Lunch,Veg,165,7,12,155
+Rajma Rice,Dinner,Veg,299,12,6,45
+Chicken Biryani,Lunch,Non-Veg,596,39,25,316
+Dosa,Breakfast,Veg,442,25,17,242
+Thepla,Breakfast,Veg,299,24,19,226
+Aloo Gobi,Dinner,Veg,333,24,9,223
+Mutton Rogan Josh,Lunch,Non-Veg,365,29,15,243
+Bhindi Fry,Dinner,Veg,202,20,14,73
+Egg Curry,Lunch,Non-Veg,490,15,22,216
+Mix Veg,Lunch,Veg,357,8,18,53
+Palak Paneer,Dinner,Veg,530,13,17,97
+Egg Curry,Lunch,Non-Veg,677,22,28,206
+Dal Makhani,Lunch,Veg,418,22,11,81
+Bhindi Fry,Lunch,Veg,546,22,14,73
+Veg Pizza,Lunch,Veg,443,24,5,115
+Puri Bhaji,Breakfast,Veg,250,8,8,165
+Fish Curry,Lunch,Non-Veg,577,15,13,330
+Dal,Lunch,Veg,438,12,10,150
+Chicken Biryani,Dinner,Non-Veg,743,35,27,259
+Butter Chicken,Dinner,Non-Veg,346,20,12,236
+Vegetable Cutlet,Breakfast,Veg,257,16,5,74
+Bhindi Fry,Dinner,Veg,381,20,19,210
+Dal Makhani,Lunch,Veg,361,18,7,219
+Baingan Bharta,Dinner,Veg,406,25,18,196
+Puri Bhaji,Breakfast,Veg,593,16,13,72
+Dosa,Breakfast,Veg,494,10,5,52
+Kadai Paneer,Dinner,Veg,482,24,5,105
+Medu Vada,Breakfast,Veg,501,12,9,198
+Soup,Lunch,Veg,580,10,6,100
+Prawn Curry,Dinner,Non-Veg,439,45,16,188
+Vegetable Cutlet,Breakfast,Veg,412,18,12,206
+Rajma Rice,Dinner,Veg,171,8,9,137
+Chicken Tikka,Dinner,Non-Veg,649,27,26,406
+Chole Bhature,Breakfast,Veg,540,12,7,87
+Fruit Bowl,Breakfast,Veg,424,22,5,213
+Pasta,Dinner,Veg,341,10,5,111
+Aloo Gobi,Lunch,Veg,553,16,16,49
+Pasta,Lunch,Veg,244,24,15,143
+Egg Curry,Lunch,Non-Veg,766,32,35,218
+Veg Pizza,Lunch,Veg,227,5,7,68
+Paratha,Breakfast,Veg,546,7,16,146
+Soup,Lunch,Veg,393,6,10,229
+Pasta,Lunch,Veg,464,24,8,80
+Paneer Butter Masala,Lunch,Veg,426,17,18,32
+Paneer Butter Masala,Lunch,Veg,262,24,6,250
+Dal Makhani,Dinner,Veg,486,15,17,172
+Shahi Paneer,Lunch,Veg,392,24,15,101
+Dosa,Breakfast,Veg,193,15,7,204
+Kadai Paneer,Dinner,Veg,258,13,7,107
+Veg Pizza,Dinner,Veg,259,23,10,158
+Rice Bowl,Lunch,Veg,559,20,14,34
+Puri Bhaji,Breakfast,Veg,409,5,13,188
+Malai Kofta,Dinner,Veg,515,16,9,208
+Rajma Rice,Lunch,Veg,204,6,19,170
+Pasta,Lunch,Veg,552,11,12,238
+Dal,Dinner,Veg,154,25,14,226
+Rice Bowl,Dinner,Veg,233,19,7,81
+Dosa,Breakfast,Veg,459,20,15,77
+Veg Pizza,Dinner,Veg,224,7,10,117
+Butter Chicken,Lunch,Non-Veg,326,23,23,280
+Smoothie,Breakfast,Veg,505,11,16,100
+Pasta,Dinner,Veg,302,22,5,123
+Rice Bowl,Dinner,Veg,590,24,7,99
+Fish Curry,Lunch,Non-Veg,561,34,19,346
+Masala Dosa,Breakfast,Veg,320,7,16,179
+Rice Bowl,Lunch,Veg,183,18,5,159
+Veg Pizza,Lunch,Veg,198,9,16,132
+Bhindi Fry,Dinner,Veg,403,9,7,188
+Dal,Lunch,Veg,183,23,8,134
+Paneer Tikka,Dinner,Veg,221,20,12,149
+Chicken Pizza,Dinner,Non-Veg,622,42,29,283
+Egg Curry,Lunch,Non-Veg,662,19,35,103
+Paneer Tikka,Dinner,Veg,167,11,7,102
+Shahi Paneer,Dinner,Veg,406,17,20,131
+Veg Pizza,Lunch,Veg,179,13,6,249
+Mutton Biryani,Dinner,Non-Veg,728,25,19,446
+Mix Veg,Lunch,Veg,196,16,8,71
+Paneer Butter Masala,Dinner,Veg,508,5,9,186
+Chicken Burger,Lunch,Non-Veg,333,37,19,218
+Smoothie,Breakfast,Veg,555,5,12,188
+Egg Curry,Lunch,Non-Veg,778,44,29,303
+Palak Paneer,Dinner,Veg,379,22,16,159
+Mix Veg,Lunch,Veg,427,16,16,99
+Fruit Bowl,Breakfast,Veg,220,18,7,209
+Baingan Bharta,Dinner,Veg,581,15,8,176
+Smoothie,Breakfast,Veg,529,15,19,178
+Omelette,Breakfast,Non-Veg,501,39,24,340
+Malai Kofta,Dinner,Veg,239,6,18,240
+Egg Curry,Lunch,Non-Veg,695,34,26,333
+Puri Bhaji,Breakfast,Veg,533,15,18,238
+Rice Bowl,Dinner,Veg,428,15,16,180
+Chole,Dinner,Veg,281,11,5,236
+Palak Paneer,Dinner,Veg,528,9,6,184
+Chicken Tikka,Dinner,Non-Veg,312,45,12,399
+Chicken Tikka,Dinner,Non-Veg,346,43,21,196
+Vegetable Cutlet,Breakfast,Veg,204,7,8,162
+Thepla,Breakfast,Veg,212,22,10,162
+Fruit Bowl,Breakfast,Veg,419,22,16,48
+Pasta,Lunch,Veg,482,20,7,164
+Butter Chicken,Lunch,Non-Veg,587,25,19,171
+Chole Bhature,Breakfast,Veg,224,13,13,78
+Soup,Dinner,Veg,299,8,8,232
+Dal,Lunch,Veg,199,22,16,116
+Paneer Tikka,Lunch,Veg,544,12,17,147
+Omelette,Breakfast,Non-Veg,593,44,34,375
+Butter Chicken,Lunch,Non-Veg,596,29,32,157
+Paneer Tikka,Dinner,Veg,446,17,15,247
+Aloo Gobi,Lunch,Veg,464,23,10,82
+Mutton Biryani,Dinner,Non-Veg,316,18,35,358
+Rajma Rice,Dinner,Veg,591,5,10,104
+Smoothie,Breakfast,Veg,251,24,20,98
+Pongal,Breakfast,Veg,231,24,6,218
+Appam,Breakfast,Veg,165,8,15,60
+Medu Vada,Breakfast,Veg,253,8,12,73
+Smoothie,Breakfast,Veg,244,17,14,172
+Tandoori Chicken,Dinner,Non-Veg,662,42,12,447
+Masala Dosa,Breakfast,Veg,227,25,14,207
+Rajma Rice,Dinner,Veg,395,17,16,73
+Fish Curry,Dinner,Non-Veg,307,43,32,450
+Pongal,Breakfast,Veg,326,11,10,36
+Appam,Breakfast,Veg,551,6,15,95
+Upma,Breakfast,Veg,192,16,12,250
+Pasta,Lunch,Veg,370,17,7,112
+Appam,Breakfast,Veg,293,24,7,183
+Rice Bowl,Lunch,Veg,435,25,17,220
+Egg Curry,Lunch,Non-Veg,464,26,20,194
+Pasta,Lunch,Veg,425,16,15,130
+Fish Curry,Lunch,Non-Veg,309,19,24,228
+Pongal,Breakfast,Veg,524,25,18,215
+Soup,Lunch,Veg,344,8,8,57
+Dal,Dinner,Veg,383,22,18,110
+Masala Dosa,Breakfast,Veg,346,19,9,174
+Omelette,Breakfast,Non-Veg,519,21,18,233
+Chole,Lunch,Veg,189,24,9,233
+Pasta,Dinner,Veg,413,7,14,155
+Chicken Curry,Dinner,Non-Veg,741,22,24,422
+Omelette,Breakfast,Non-Veg,511,18,33,389
+Mutton Biryani,Lunch,Non-Veg,491,19,33,274
+Masala Dosa,Breakfast,Veg,477,6,16,132
+Dal,Lunch,Veg,467,21,5,215
+Dal,Dinner,Veg,450,9,16,70
+Puri Bhaji,Breakfast,Veg,358,16,12,226
+Dosa,Breakfast,Veg,461,20,15,37
+Dal Makhani,Dinner,Veg,520,21,16,145
+Veg Pizza,Lunch,Veg,208,5,11,139
+Kadai Paneer,Lunch,Veg,152,20,17,52
+Pasta,Lunch,Veg,460,18,6,76
+Paneer Butter Masala,Lunch,Veg,376,22,15,226
+Paneer Butter Masala,Dinner,Veg,380,8,9,67
+Masala Dosa,Breakfast,Veg,439,9,19,56
+Shahi Paneer,Dinner,Veg,440,8,16,123
+Omelette,Breakfast,Non-Veg,510,43,16,280
+Medu Vada,Breakfast,Veg,241,11,20,120
+Upma,Breakfast,Veg,215,12,5,65
+Upma,Breakfast,Veg,190,22,10,133
+Puri Bhaji,Breakfast,Veg,595,13,8,234
+Appam,Breakfast,Veg,573,18,20,150
+Seekh Kabab,Dinner,Non-Veg,683,36,17,278
+Dosa,Breakfast,Veg,287,23,19,54
+Medu Vada,Breakfast,Veg,234,19,6,167
+Pancake,Breakfast,Veg,342,12,15,127
+Rice Bowl,Lunch,Veg,541,12,5,204
+Tandoori Chicken,Dinner,Non-Veg,589,42,33,108
+Baingan Bharta,Lunch,Veg,411,15,14,115
+Bhindi Fry,Dinner,Veg,236,7,13,94
+Butter Chicken,Dinner,Non-Veg,723,29,10,354
+Butter Chicken,Dinner,Non-Veg,791,43,32,189
+Chicken Pizza,Lunch,Non-Veg,373,41,25,129
+Chole,Dinner,Veg,521,17,15,109
+Soup,Dinner,Veg,550,17,6,203
+Pancake,Breakfast,Veg,445,13,8,137
+Mix Veg,Dinner,Veg,513,7,16,175
+Paneer Tikka,Dinner,Veg,204,17,5,235
+Palak Paneer,Lunch,Veg,151,17,17,48
+Veg Pizza,Lunch,Veg,182,11,10,129
+Seekh Kabab,Dinner,Non-Veg,793,19,31,192
+Soup,Lunch,Veg,242,6,18,53
+Pasta,Dinner,Veg,341,18,6,148
+Chicken Curry,Lunch,Non-Veg,708,37,27,169
+Rajma Rice,Lunch,Veg,336,6,17,108
+Puri Bhaji,Breakfast,Veg,360,25,7,194
+Thepla,Breakfast,Veg,318,14,20,179
+Fruit Bowl,Breakfast,Veg,584,5,9,223
+Chole Bhature,Breakfast,Veg,274,12,12,202
+Omelette,Breakfast,Non-Veg,446,26,16,109
+Appam,Breakfast,Veg,179,17,16,225
+Soup,Dinner,Veg,422,6,10,46
+Soup,Lunch,Veg,211,19,12,149
+Fish Curry,Lunch,Non-Veg,623,19,14,205
+Mutton Rogan Josh,Lunch,Non-Veg,493,38,26,273
+Malai Kofta,Lunch,Veg,189,21,7,155
+Chicken Pizza,Lunch,Non-Veg,564,44,22,320
+Poha,Breakfast,Veg,399,22,5,139
+Chicken Pizza,Lunch,Non-Veg,666,18,10,299
+Thepla,Breakfast,Veg,583,18,20,218
+Paneer Butter Masala,Lunch,Veg,408,5,18,153
+Kadai Paneer,Lunch,Veg,553,15,18,181
+Mutton Rogan Josh,Dinner,Non-Veg,407,26,32,163
+Soup,Dinner,Veg,557,5,8,73
+Rajma Rice,Dinner,Veg,516,15,7,232
+Mutton Rogan Josh,Lunch,Non-Veg,465,15,24,256
+Rice Bowl,Dinner,Veg,164,17,10,195
+Medu Vada,Breakfast,Veg,378,13,14,217
+Pancake,Breakfast,Veg,290,16,13,189
+Chicken Pizza,Lunch,Non-Veg,386,25,35,183
+Tandoori Chicken,Dinner,Non-Veg,488,37,11,337
+Dal,Lunch,Veg,458,25,15,160
+Grilled Fish,Dinner,Non-Veg,591,34,13,374
+Idli,Breakfast,Veg,436,18,14,90
+Kadai Paneer,Lunch,Veg,598,8,13,43
+Pancake,Breakfast,Veg,262,11,5,192
+Puri Bhaji,Breakfast,Veg,410,10,6,132
+Appam,Breakfast,Veg,221,15,20,233
+Egg Curry,Lunch,Non-Veg,430,20,25,419
+Dosa,Breakfast,Veg,504,10,14,171
+Paneer Tikka,Lunch,Veg,328,9,19,133
+Pongal,Breakfast,Veg,500,5,20,145
+Shahi Paneer,Dinner,Veg,421,8,9,177
+Masala Dosa,Breakfast,Veg,435,22,17,228
+Pancake,Breakfast,Veg,464,25,17,105
+Paratha,Breakfast,Veg,446,19,7,61
+Pasta,Dinner,Veg,591,7,12,67
+Appam,Breakfast,Veg,409,14,20,165
+Paneer Tikka,Lunch,Veg,397,17,19,222
+Bhindi Fry,Dinner,Veg,323,7,10,124
+Appam,Breakfast,Veg,449,19,14,157
+Mutton Rogan Josh,Dinner,Non-Veg,302,35,35,214
+Chicken Curry,Lunch,Non-Veg,527,25,27,267
+Smoothie,Breakfast,Veg,472,21,11,168
+Pongal,Breakfast,Veg,161,10,5,79
+Bhindi Fry,Lunch,Veg,204,8,10,132
+Fruit Bowl,Breakfast,Veg,224,16,18,192
+Paneer Tikka,Lunch,Veg,492,13,17,233
+Puri Bhaji,Breakfast,Veg,423,10,7,58
+Mutton Biryani,Dinner,Non-Veg,652,33,15,211
+Soup,Dinner,Veg,596,21,14,95
+Palak Paneer,Dinner,Veg,494,7,8,135
+Smoothie,Breakfast,Veg,204,10,12,80
+Rajma Rice,Lunch,Veg,570,23,5,177
+Chicken Pizza,Dinner,Non-Veg,626,29,35,192
+Chole,Lunch,Veg,426,20,17,139
+Palak Paneer,Lunch,Veg,432,8,7,235
+Aloo Gobi,Dinner,Veg,298,10,5,49
+Fruit Bowl,Breakfast,Veg,386,18,18,73
+Chole Bhature,Breakfast,Veg,271,21,18,50
+Pasta,Lunch,Veg,235,19,5,176
+Appam,Breakfast,Veg,588,9,8,213
+Bhindi Fry,Lunch,Veg,394,11,8,144
+Poha,Breakfast,Veg,453,21,6,211
+Rajma Rice,Lunch,Veg,183,11,9,158
+Palak Paneer,Lunch,Veg,433,24,20,120

@@ -1,0 +1,2501 @@
+Food,MealType,DietType,Calories,Protein,Fat,Price
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,790,54,28,238
+Paneer Roll,Fast Food,Veg,560,21,20,153
+Veg Noodles,Fast Food,Veg,525,15,17,104
+Mutton Seekh Roll,Fast Food,Non-Veg,603,36,21,222
+Paniyaram + Chutney,Breakfast,Veg,332,11,10,101
+Sundal (Kadala/Peas),Snacks,Veg,180,12,8,46
+Paneer Roll,Fast Food,Veg,584,21,16,129
+Thengai Paal Dosai,Breakfast,Veg,293,9,10,117
+Chicken Noodles,Fast Food,Non-Veg,495,31,23,198
+Kara Pongal + Chutney,Breakfast,Veg,365,12,13,61
+Dosai + Chicken Curry,Dinner,Non-Veg,495,38,20,185
+Chappatti + Dal Fry,Lunch,Veg,398,18,10,70
+Keerai Dosai,Breakfast,Veg,290,11,14,56
+Egg Fried Rice,Fast Food,Non-Veg,507,32,23,150
+Aappam + Veg Stew,Dinner,Veg,331,14,9,132
+Masala Dosai,Breakfast,Veg,401,11,18,121
+Tomato Rice,Lunch,Veg,447,11,13,109
+French Fries,Fast Food,Veg,324,4,16,122
+Sambar Rice,Lunch,Veg,358,15,10,104
+Idly + Chicken Kurma,Dinner,Non-Veg,555,36,17,130
+Rava Dosai,Breakfast,Veg,311,8,16,64
+Chicken Biryani,Dinner,Non-Veg,754,54,24,192
+Parotta + Mutton Salna,Lunch,Non-Veg,907,55,42,343
+Plain Dosai + Chutney,Dinner,Veg,220,10,10,58
+Pongal + Sambar + Chutney,Breakfast,Veg,458,9,15,92
+Parotta + Kurma,Breakfast,Veg,528,14,26,118
+Fish Curry + Rice,Dinner,Non-Veg,677,50,14,140
+Kottu Parotta (Chicken),Dinner,Non-Veg,584,52,34,208
+Idiyappam + Coconut Milk,Breakfast,Veg,411,6,11,102
+Masala Vada Pav,Fast Food,Veg,347,11,17,108
+Parotta + Mutton Salna,Lunch,Non-Veg,883,45,28,261
+Puttu + Kadala Curry,Breakfast,Veg,411,12,15,130
+Parotta + Mutton Salna,Lunch,Non-Veg,877,52,43,251
+Vada + Sambar,Snacks,Veg,360,13,22,97
+Fish Biryani,Dinner,Non-Veg,872,56,26,220
+Fish Fry + Rice,Lunch,Non-Veg,542,55,17,276
+Fresh Fruit Juice,Breakfast,Veg,150,3,0,46
+Margherita Pizza,Fast Food,Veg,648,23,29,240
+Aappam + Veg Stew,Dinner,Veg,363,10,8,152
+Masala Vada Pav,Fast Food,Veg,375,7,21,106
+Aloo Bonda,Snacks,Veg,308,5,13,48
+Paneer Roll,Fast Food,Veg,444,22,22,149
+Fresh Fruit Juice,Breakfast,Veg,112,3,0,48
+Idiyappam + Kurma,Dinner,Veg,360,11,7,132
+Bonda + Chutney,Snacks,Veg,319,5,17,43
+Fish Fry + Rice,Lunch,Non-Veg,592,37,16,212
+Kara Pongal + Chutney,Breakfast,Veg,352,15,13,98
+Tomato Rice,Lunch,Veg,369,12,16,110
+Kottu Parotta (Mutton),Lunch,Non-Veg,901,59,35,320
+Fish and Chips,Fast Food,Non-Veg,585,29,29,479
+Fish Bajji,Snacks,Non-Veg,412,23,19,118
+Chicken Biryani,Dinner,Non-Veg,893,38,20,181
+Chicken Burger,Fast Food,Non-Veg,530,37,28,245
+Tomato Rice,Lunch,Veg,333,7,10,69
+Rava Dosai,Breakfast,Veg,330,9,11,70
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,200,8,12,31
+Samosa,Snacks,Veg,316,7,17,32
+Bread + Omelette,Breakfast,Veg,395,13,11,78
+Meals (Full Thali),Lunch,Veg,889,21,16,186
+Parotta + Veg Salna,Dinner,Veg,497,15,35,139
+Jigarthanda,Snacks,Veg,381,7,9,140
+Fish Biryani,Lunch,Non-Veg,771,58,32,252
+Vada + Sambar,Snacks,Veg,370,12,13,54
+Idiyappam + Coconut Milk,Breakfast,Veg,353,7,6,118
+Paal Pongal,Breakfast,Veg,459,13,13,64
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,276,12,7,53
+Bajji (Onion/Plantain),Snacks,Veg,207,8,22,30
+Kozhukattai,Snacks,Veg,209,5,3,69
+Aappam + Veg Stew,Dinner,Veg,351,8,9,126
+Paneer Tikka Pizza,Fast Food,Veg,967,33,39,520
+Chicken Fried Rice,Fast Food,Non-Veg,621,36,16,304
+Fresh Fruit Juice,Breakfast,Veg,119,2,0,76
+Parotta + Chicken Salna,Dinner,Non-Veg,784,36,31,137
+Nannari Sherbet,Breakfast,Veg,93,1,0,63
+Mutton Samosa,Snacks,Non-Veg,414,23,23,38
+Parotta + Chicken Salna,Lunch,Non-Veg,808,48,37,122
+Set Dosai + Sambar,Breakfast,Veg,352,11,9,91
+Pongal + Chutney,Dinner,Veg,397,12,14,106
+Parotta + Veg Salna,Dinner,Veg,660,12,30,116
+Poha (Aval) + Chutney,Snacks,Veg,241,7,5,35
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,600,36,27,220
+Sugarcane Juice,Breakfast,Veg,126,2,1,60
+Puttu + Kadala Curry,Breakfast,Veg,472,18,13,150
+Idiyappam + Coconut Milk,Breakfast,Veg,336,6,12,130
+Fish and Chips,Fast Food,Non-Veg,602,28,22,471
+Mutton Biryani,Lunch,Non-Veg,993,43,28,268
+Corn Chaat,Snacks,Veg,254,7,4,100
+Cheese Veg Burger,Fast Food,Veg,616,19,27,203
+Parotta + Veg Salna,Lunch,Veg,686,15,29,130
+Chicken Zinger Burger,Fast Food,Non-Veg,694,35,25,160
+Parotta + Kurma,Breakfast,Veg,452,18,24,148
+Thengai Paal Dosai,Breakfast,Veg,338,9,17,108
+Keema Parotta,Breakfast,Non-Veg,746,31,25,226
+Chicken Burger,Fast Food,Non-Veg,696,32,20,150
+Paneer Tikka Pizza,Fast Food,Veg,788,32,25,591
+Variety Rice (Festival Special),Lunch,Veg,552,15,11,96
+Vada + Sambar,Snacks,Veg,261,11,19,75
+Margherita Pizza,Fast Food,Veg,811,27,32,299
+Fresh Lemon Juice,Snacks,Veg,75,1,0,27
+Chicken Puff,Snacks,Non-Veg,302,29,23,84
+Mutton Meals (Full),Lunch,Non-Veg,970,63,40,233
+French Fries,Fast Food,Veg,433,7,16,116
+Parotta + Mutton Salna,Dinner,Non-Veg,882,45,44,180
+Aappam + Veg Stew,Dinner,Veg,341,13,10,140
+Tomato Rice,Lunch,Veg,463,12,12,118
+Prawn Masala + Rice,Lunch,Non-Veg,572,51,23,479
+Plain Dosai + Chutney,Dinner,Veg,320,10,10,41
+Egg Curry + Rice,Dinner,Non-Veg,512,27,20,146
+Prawn Masala + Rice,Lunch,Non-Veg,678,36,17,346
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,97,2,5,80
+Bread + Omelette,Breakfast,Veg,370,9,15,85
+Mutton Seekh Roll,Fast Food,Non-Veg,733,45,23,370
+Kottu Parotta (Chicken),Lunch,Non-Veg,746,52,32,237
+Plain Dosai + Chutney,Dinner,Veg,205,10,11,40
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,567,45,20,218
+Mutton Biryani,Dinner,Non-Veg,826,49,43,255
+Parotta + Veg Salna,Breakfast,Veg,685,15,24,141
+Meals (Full Thali),Lunch,Veg,906,24,12,236
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,726,38,27,342
+Egg Fried Rice,Fast Food,Non-Veg,593,23,24,227
+Chicken Burger,Fast Food,Non-Veg,576,43,23,139
+Chicken Fried Rice,Fast Food,Non-Veg,583,31,15,181
+Bajji (Onion/Plantain),Snacks,Veg,240,7,14,36
+Samosa,Snacks,Veg,222,5,20,20
+Veg Burger,Fast Food,Veg,492,18,22,213
+Murukku,Snacks,Veg,382,5,22,44
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,283,10,9,23
+Egg Fried Rice,Fast Food,Non-Veg,599,32,20,209
+Paneer Tikka Pizza,Fast Food,Veg,821,28,34,334
+Parotta + Veg Salna,Dinner,Veg,555,15,36,101
+Fish Fry + Rice,Lunch,Non-Veg,639,36,30,264
+Thengai Paal Dosai,Breakfast,Veg,326,6,17,63
+Idiyappam + Kurma,Dinner,Veg,378,13,14,132
+Paneer Roll,Fast Food,Veg,438,25,16,132
+Chettinad Chicken + Rice,Dinner,Non-Veg,623,38,22,189
+Masala Vada Pav,Fast Food,Veg,312,8,13,62
+Meals (Light),Dinner,Veg,465,20,14,145
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,428,16,8,62
+Curd Rice + Pickle,Dinner,Veg,368,8,10,119
+Fish Biryani,Lunch,Non-Veg,736,53,29,292
+Puttu + Kadala Curry,Breakfast,Veg,470,14,10,127
+Chicken Momos,Fast Food,Non-Veg,426,29,17,194
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,742,17,14,135
+Chicken 65,Snacks,Non-Veg,489,31,16,213
+Sugarcane Juice,Breakfast,Veg,87,0,0,34
+Paneer Roll,Fast Food,Veg,454,19,22,209
+Kozhukattai,Snacks,Veg,261,8,8,42
+Fish Bajji,Snacks,Non-Veg,285,27,24,116
+Fish and Chips,Fast Food,Non-Veg,674,39,40,337
+Margherita Pizza,Fast Food,Veg,756,28,36,466
+Medu Vada + Sambar,Breakfast,Veg,283,12,21,65
+Fish Bajji,Snacks,Non-Veg,429,29,17,108
+Fish and Chips,Fast Food,Non-Veg,630,45,39,392
+Egg Pongal,Breakfast,Non-Veg,488,19,12,79
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,694,39,32,245
+Chicken Kadai + Idly,Breakfast,Non-Veg,423,34,16,236
+Veg Briyani,Lunch,Veg,641,15,21,177
+Chicken Lollipop,Snacks,Non-Veg,433,28,21,125
+Bajji (Onion/Plantain),Snacks,Veg,207,7,15,21
+Meals (Full Thali),Lunch,Veg,834,20,19,242
+Dosai + Chicken Curry,Dinner,Non-Veg,450,39,20,137
+Chappatti + Kurma,Dinner,Veg,366,11,18,117
+Fish Curry + Rice,Lunch,Non-Veg,496,43,15,201
+Kottu Parotta (Mutton),Lunch,Non-Veg,905,43,29,347
+Poori + Kurma,Breakfast,Veg,493,11,23,87
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,747,55,29,214
+Chicken Burger,Fast Food,Non-Veg,468,39,26,159
+Fish Curry + Rice,Lunch,Non-Veg,553,38,20,250
+Margherita Pizza,Fast Food,Veg,843,24,29,490
+Thengai Paal Dosai,Breakfast,Veg,327,8,10,100
+Idly + Chicken Kurma,Dinner,Non-Veg,478,31,24,144
+Parotta + Veg Salna,Breakfast,Veg,530,15,21,85
+Veg Burger,Fast Food,Veg,514,11,15,100
+Squid Fry + Rice,Lunch,Non-Veg,610,34,14,268
+Crab Curry + Rice,Lunch,Non-Veg,688,32,13,351
+Meals (Light),Dinner,Veg,590,15,10,139
+Rose Milk,Snacks,Veg,279,9,7,57
+Poha (Aval) + Chutney,Snacks,Veg,257,5,13,42
+Parotta + Veg Salna,Breakfast,Veg,574,14,25,156
+Chicken Burger,Fast Food,Non-Veg,464,45,27,209
+Parotta + Mutton Salna,Lunch,Non-Veg,864,40,44,191
+Bread + Omelette,Breakfast,Veg,280,9,12,105
+Veg Momos,Fast Food,Veg,357,10,7,151
+Cheese Veg Burger,Fast Food,Veg,575,18,22,159
+Prawn Masala + Rice,Lunch,Non-Veg,684,47,16,485
+Fresh Sugarcane Juice,Snacks,Veg,106,0,0,22
+Murukku,Snacks,Veg,359,8,21,35
+Rose Milk,Snacks,Veg,226,10,8,40
+Mutton Samosa,Snacks,Non-Veg,329,24,24,35
+Rasam Rice,Lunch,Veg,402,11,7,68
+Pongal + Chutney,Dinner,Veg,385,10,16,92
+Aappam + Veg Stew,Dinner,Veg,443,13,6,143
+Mango Juice,Breakfast,Veg,207,1,1,56
+Veg Burger,Fast Food,Veg,493,13,15,120
+Parotta + Chicken Salna,Dinner,Non-Veg,808,44,39,140
+Tender Coconut Water,Snacks,Veg,50,1,1,40
+Pongal + Sambar + Chutney,Breakfast,Veg,457,11,15,105
+Veg Momos,Fast Food,Veg,360,12,6,137
+Rose Milk,Snacks,Veg,238,8,4,31
+Prawn Masala + Rice,Dinner,Non-Veg,486,39,19,409
+Masala Dosai,Breakfast,Veg,418,14,9,85
+Kottu Parotta (Veg),Lunch,Veg,600,15,15,154
+Samosa,Snacks,Veg,272,4,19,42
+Mutton Samosa,Snacks,Non-Veg,386,16,21,46
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,338,11,5,61
+Omelette + Bread,Breakfast,Non-Veg,296,22,22,60
+Fish Bajji,Snacks,Non-Veg,308,29,13,137
+Fish and Chips,Fast Food,Non-Veg,750,34,26,417
+Samosa,Snacks,Veg,214,5,15,53
+Samosa,Snacks,Veg,203,7,17,26
+Paneer Tikka Pizza,Fast Food,Veg,887,28,27,344
+Parotta + Kurma,Breakfast,Veg,538,14,26,114
+Parotta + Veg Salna,Breakfast,Veg,483,11,21,154
+Kozhukattai,Snacks,Veg,253,5,7,53
+Parotta + Mutton Salna,Lunch,Non-Veg,723,54,50,347
+Jigarthanda,Snacks,Veg,332,11,15,118
+Tomato Rice,Dinner,Veg,465,11,12,71
+Paneer Roll,Snacks,Veg,475,18,17,138
+Jigarthanda,Snacks,Veg,414,11,9,124
+Chicken Lollipop,Snacks,Non-Veg,376,25,19,214
+Ghee Dosai,Breakfast,Veg,475,10,26,104
+Fish and Chips,Fast Food,Non-Veg,707,32,35,426
+Ven Pongal,Breakfast,Veg,356,10,17,82
+Chicken Biryani,Dinner,Non-Veg,619,46,28,161
+Keerai Dosai,Breakfast,Veg,282,6,10,102
+Egg Fried Rice,Fast Food,Non-Veg,500,31,12,187
+Chicken Noodles,Fast Food,Non-Veg,703,40,26,151
+Curd Rice + Pickle,Dinner,Veg,377,11,12,59
+Jigarthanda,Snacks,Veg,313,8,13,108
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,140,1,4,54
+Mutton Samosa,Snacks,Non-Veg,335,16,28,30
+Paneer Roll,Snacks,Veg,472,19,21,155
+Aappam + Veg Stew,Dinner,Veg,388,7,6,119
+Sugarcane Juice,Breakfast,Veg,112,1,0,33
+Parotta + Kurma,Breakfast,Veg,554,14,29,96
+Mutton Samosa,Snacks,Non-Veg,394,21,26,57
+Veg Momos,Fast Food,Veg,395,9,9,114
+Paneer Roll,Snacks,Veg,515,16,22,100
+Kottu Parotta (Veg),Dinner,Veg,651,15,16,122
+Fresh Fruit Juice,Breakfast,Veg,101,2,0,82
+Sambar Rice,Lunch,Veg,491,20,9,78
+Variety Rice (Festival Special),Lunch,Veg,477,11,11,140
+Kottu Parotta (Chicken),Lunch,Non-Veg,595,46,26,219
+Mango Juice,Breakfast,Veg,153,1,0,75
+Margherita Pizza,Fast Food,Veg,614,28,28,428
+Idiyappam + Coconut Milk,Breakfast,Veg,381,10,10,121
+Parotta + Veg Salna,Dinner,Veg,550,15,35,123
+Chappatti + Kurma,Dinner,Veg,499,11,13,76
+Mutton Biryani,Lunch,Non-Veg,734,55,33,434
+Curd Rice + Pickle,Lunch,Veg,359,11,7,66
+Mango Juice,Breakfast,Veg,209,3,2,113
+Fish Biryani,Lunch,Non-Veg,848,58,27,214
+Veg Momos,Fast Food,Veg,324,12,10,85
+Paniyaram + Chutney,Breakfast,Veg,381,12,18,70
+Chicken Momos,Fast Food,Non-Veg,358,33,19,150
+Egg Curry + Rice,Dinner,Non-Veg,527,22,15,131
+Fish and Chips,Fast Food,Non-Veg,580,40,26,245
+Aappam + Veg Stew,Dinner,Veg,371,13,12,88
+Masala Vada Pav,Fast Food,Veg,385,11,18,57
+Chicken Zinger Burger,Fast Food,Non-Veg,555,40,34,336
+Aappam + Veg Stew,Dinner,Veg,373,12,15,143
+Set Dosai + Sambar,Breakfast,Veg,423,10,14,98
+Kottu Parotta (Mutton),Lunch,Non-Veg,881,42,25,346
+Mutton Samosa,Snacks,Non-Veg,324,15,14,74
+Pongal + Sambar + Chutney,Breakfast,Veg,354,11,16,87
+Paal Pongal,Breakfast,Veg,326,10,17,108
+Rasam Rice,Lunch,Veg,280,15,10,84
+Chicken Lollipop,Snacks,Non-Veg,323,23,16,152
+Prawn Masala + Rice,Lunch,Non-Veg,677,46,19,380
+Mutton Samosa,Snacks,Non-Veg,294,16,16,62
+Plain Dosai + Chutney,Breakfast,Veg,293,6,6,66
+Chappatti + Dal Fry,Lunch,Veg,420,22,12,139
+Omelette + Bread,Breakfast,Non-Veg,401,19,20,110
+Veg Burger,Fast Food,Veg,386,17,21,106
+Mutton Meals (Full),Lunch,Non-Veg,860,61,34,272
+Chicken Zinger Burger,Fast Food,Non-Veg,698,40,35,253
+Parotta + Mutton Salna,Lunch,Non-Veg,791,44,33,254
+Keerai Dosai,Breakfast,Veg,267,10,9,63
+Kottu Parotta (Veg),Dinner,Veg,566,10,24,103
+Corn Chaat,Snacks,Veg,254,8,3,97
+Keerai Dosai,Breakfast,Veg,227,10,11,86
+Jigarthanda,Snacks,Veg,362,10,13,105
+Chicken Biryani,Dinner,Non-Veg,790,47,29,267
+Rose Milk,Snacks,Veg,183,6,7,55
+Mutton Seekh Roll,Fast Food,Non-Veg,762,51,18,266
+Paneer Roll,Fast Food,Veg,457,19,20,229
+French Fries,Fast Food,Veg,321,4,17,182
+Aappam + Stew,Breakfast,Veg,331,7,6,115
+Prawn Bajji,Snacks,Non-Veg,442,21,26,180
+Samosa,Snacks,Veg,331,5,16,21
+Plain Dosai + Chutney,Dinner,Veg,206,6,13,64
+Fish Bajji,Snacks,Non-Veg,318,23,21,110
+Egg Biryani,Lunch,Non-Veg,592,35,26,214
+Fish Fry + Rice,Lunch,Non-Veg,521,52,24,256
+Fresh Lemon Juice,Snacks,Veg,64,1,0,33
+Chicken Noodles,Fast Food,Non-Veg,628,30,16,201
+Samosa,Snacks,Veg,226,6,13,36
+Prawn Bajji,Snacks,Non-Veg,420,24,19,126
+Kozhukattai,Snacks,Veg,235,7,6,59
+Paneer Roll,Fast Food,Veg,487,21,25,160
+Coconut Rice,Lunch,Veg,500,11,21,99
+Paneer Tikka Pizza,Fast Food,Veg,766,26,36,317
+Tamarind Rice (Puliyodharai),Lunch,Veg,409,10,10,102
+Chicken Burger,Fast Food,Non-Veg,575,32,19,232
+Bonda + Chutney,Snacks,Veg,289,6,10,40
+Keema Parotta,Breakfast,Non-Veg,679,34,36,132
+French Fries,Fast Food,Veg,357,6,24,153
+Kottu Parotta (Chicken),Dinner,Non-Veg,737,35,29,217
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,584,58,20,256
+Prawn Masala + Rice,Dinner,Non-Veg,614,36,22,343
+Paneer Tikka Pizza,Fast Food,Veg,879,26,39,472
+Set Dosai + Sambar,Breakfast,Veg,448,8,8,68
+Rasam Rice,Lunch,Veg,320,9,5,83
+Paniyaram + Chutney,Breakfast,Veg,321,13,16,84
+Idly + Sambar,Dinner,Veg,298,8,3,52
+Aloo Bonda,Snacks,Veg,315,5,20,26
+Chicken Fried Rice,Fast Food,Non-Veg,701,35,24,301
+Chicken Tikka Pizza,Fast Food,Non-Veg,855,39,41,671
+Variety Rice (Festival Special),Lunch,Veg,501,8,21,83
+Parotta + Chicken Salna,Lunch,Non-Veg,719,33,33,235
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,207,12,8,31
+Fish Biryani,Lunch,Non-Veg,830,53,18,241
+French Fries,Fast Food,Veg,371,6,22,194
+Corn Chaat,Snacks,Veg,295,8,3,42
+Rava Dosai,Breakfast,Veg,349,5,8,72
+Nannari Sherbet,Breakfast,Veg,142,0,1,43
+Kottu Parotta (Chicken),Dinner,Non-Veg,623,39,20,223
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,715,52,29,153
+Chicken Meals (Full),Lunch,Non-Veg,914,45,31,239
+Fresh Fruit Juice,Breakfast,Veg,125,3,1,54
+Plain Dosai + Chutney,Dinner,Veg,203,10,5,61
+Samosa,Snacks,Veg,295,8,17,25
+Chicken Zinger Burger,Fast Food,Non-Veg,706,39,31,293
+Chicken Lollipop,Snacks,Non-Veg,353,23,26,128
+Prawn Bajji,Snacks,Non-Veg,347,27,20,134
+Sambar Rice,Dinner,Veg,496,20,10,97
+French Fries,Fast Food,Veg,374,5,22,182
+Fish Bajji,Snacks,Non-Veg,417,19,16,122
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,260,12,5,46
+Omelette + Bread,Breakfast,Non-Veg,348,20,24,120
+Parotta + Kurma,Breakfast,Veg,544,14,18,135
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,679,31,21,195
+Prawn Bajji,Snacks,Non-Veg,440,28,18,82
+Tomato Rice,Dinner,Veg,359,6,8,87
+Chettinad Chicken + Rice,Dinner,Non-Veg,774,58,21,253
+Veg Momos,Fast Food,Veg,359,13,12,141
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,799,61,38,239
+Fish Biryani,Dinner,Non-Veg,852,38,23,220
+Cheese Veg Burger,Fast Food,Veg,641,18,24,181
+Sambar Rice,Lunch,Veg,373,17,13,65
+Rava Dosai,Breakfast,Veg,255,10,13,62
+Plain Dosai + Chutney,Dinner,Veg,254,7,5,74
+Plain Dosai + Chutney,Dinner,Veg,255,8,8,58
+Poori + Kurma,Breakfast,Veg,513,13,22,95
+Paal Pongal,Breakfast,Veg,411,8,22,98
+Parotta + Veg Salna,Lunch,Veg,520,16,23,129
+Chicken Burger,Fast Food,Non-Veg,604,37,18,158
+Rava Dosai,Breakfast,Veg,292,6,11,92
+Onion Dosai,Breakfast,Veg,252,7,14,73
+Idiyappam + Kurma,Dinner,Veg,427,10,15,127
+Peas Pulao + Raita,Lunch,Veg,569,17,15,175
+Masala Vada Pav,Fast Food,Veg,431,9,12,90
+Fish Bajji,Snacks,Non-Veg,413,24,14,106
+Fresh Fruit Juice,Breakfast,Veg,118,2,2,61
+Parotta + Mutton Salna,Dinner,Non-Veg,776,47,46,229
+Kottu Parotta (Chicken),Dinner,Non-Veg,681,36,23,187
+Fish Curry + Rice,Dinner,Non-Veg,472,34,21,234
+Parotta + Veg Salna,Lunch,Veg,613,10,31,142
+Paneer Roll,Snacks,Veg,381,22,16,158
+Sugarcane Juice,Breakfast,Veg,90,1,1,39
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,101,1,6,73
+Curd Rice + Pickle,Dinner,Veg,365,9,12,115
+Kottu Parotta (Veg),Lunch,Veg,669,12,24,179
+Curd Rice + Pickle,Dinner,Veg,312,10,8,61
+Curd Rice + Pickle,Lunch,Veg,365,9,6,89
+Margherita Pizza,Fast Food,Veg,734,24,28,234
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,66,2,6,42
+Filter Coffee,Breakfast,Veg,83,1,3,39
+Veg Burger,Fast Food,Veg,515,12,14,113
+Parotta + Mutton Salna,Lunch,Non-Veg,981,41,37,340
+Variety Rice (Festival Special),Lunch,Veg,388,12,20,97
+Peas Pulao + Raita,Lunch,Veg,409,12,18,111
+Corn Chaat,Snacks,Veg,286,5,9,54
+Idiyappam + Coconut Milk,Breakfast,Veg,323,5,5,111
+Sundal (Kadala/Peas),Snacks,Veg,214,10,4,43
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,785,49,32,209
+Paal Pongal,Breakfast,Veg,368,10,14,69
+Tender Coconut Water,Snacks,Veg,69,2,1,66
+Veg Noodles,Fast Food,Veg,538,10,22,168
+Chicken Lollipop,Snacks,Non-Veg,381,30,18,141
+Filter Coffee,Breakfast,Veg,97,2,6,58
+Chicken Zinger Burger,Fast Food,Non-Veg,693,46,26,218
+Prawn Bajji,Snacks,Non-Veg,352,21,15,111
+Cheese Veg Burger,Fast Food,Veg,655,19,21,205
+Chicken Meals (Full),Lunch,Non-Veg,786,47,24,220
+Fresh Sugarcane Juice,Snacks,Veg,112,0,0,51
+Plain Dosai + Chutney,Dinner,Veg,229,9,10,53
+Bonda + Chutney,Snacks,Veg,318,10,20,29
+Chicken 65,Snacks,Non-Veg,519,39,30,151
+Medu Vada + Sambar,Breakfast,Veg,343,7,19,90
+Idly + Chicken Kurma,Dinner,Non-Veg,445,41,13,162
+Squid Fry + Rice,Lunch,Non-Veg,592,45,15,255
+Fish and Chips,Fast Food,Non-Veg,769,40,38,424
+Chappatti + Kurma,Breakfast,Veg,350,17,8,63
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,724,36,21,151
+Fresh Sugarcane Juice,Snacks,Veg,109,0,0,39
+Chicken Noodles,Fast Food,Non-Veg,630,40,19,244
+Kozhukattai,Snacks,Veg,270,8,6,76
+Puttu + Kadala Curry,Breakfast,Veg,469,20,14,107
+Cheese Veg Burger,Fast Food,Veg,452,22,19,264
+Keerai Dosai,Breakfast,Veg,347,12,13,93
+Pongal + Vada + Sambar,Dinner,Veg,446,14,17,83
+Veg Burger,Fast Food,Veg,479,14,21,182
+Parotta + Mutton Salna,Dinner,Non-Veg,922,50,50,318
+Corn Chaat,Snacks,Veg,238,4,4,40
+Chicken 65,Snacks,Non-Veg,355,30,26,155
+Dosai + Chicken Curry,Dinner,Non-Veg,624,31,19,128
+Curd Rice + Pickle,Lunch,Veg,418,11,7,82
+Peas Pulao + Raita,Lunch,Veg,539,17,14,159
+Vada + Sambar,Snacks,Veg,305,11,16,82
+Set Dosai + Sambar,Breakfast,Veg,455,10,10,110
+Dosai + Chicken Curry,Dinner,Non-Veg,626,43,15,233
+Chicken Tikka Pizza,Fast Food,Non-Veg,983,41,31,420
+Paneer Tikka Pizza,Fast Food,Veg,978,29,39,318
+Chappatti + Kurma,Breakfast,Veg,460,13,14,66
+Upma + Chutney,Breakfast,Veg,264,9,8,81
+Veg Fried Rice,Fast Food,Veg,597,11,14,175
+Parotta + Chicken Salna,Dinner,Non-Veg,843,45,23,172
+Veg Burger,Fast Food,Veg,444,16,15,160
+Plain Dosai + Chutney,Breakfast,Veg,267,6,6,79
+Chicken 65,Snacks,Non-Veg,459,38,25,214
+Vada + Sambar,Snacks,Veg,285,7,14,96
+Bonda + Chutney,Snacks,Veg,307,5,10,41
+Filter Coffee,Breakfast,Veg,106,1,4,59
+Fish Curry + Rice,Dinner,Non-Veg,644,41,23,231
+Margherita Pizza,Fast Food,Veg,602,21,31,364
+Omelette + Bread,Breakfast,Non-Veg,400,26,15,114
+Sundal (Kadala/Peas),Snacks,Veg,206,13,7,50
+Cheese Veg Burger,Fast Food,Veg,644,19,33,254
+Chettinad Chicken + Rice,Dinner,Non-Veg,611,54,34,269
+Fish and Chips,Fast Food,Non-Veg,735,38,25,436
+Chappatti + Dal Fry,Lunch,Veg,428,14,8,83
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,239,9,3,38
+Paneer Roll,Snacks,Veg,430,20,24,115
+Chicken Momos,Fast Food,Non-Veg,460,24,12,139
+Chicken Puff,Snacks,Non-Veg,359,28,26,118
+Chicken Tikka Pizza,Fast Food,Non-Veg,1032,34,45,572
+Kottu Parotta (Chicken),Lunch,Non-Veg,578,37,22,257
+Bajji (Onion/Plantain),Snacks,Veg,221,7,18,23
+Veg Noodles,Fast Food,Veg,391,13,13,133
+Rose Milk,Snacks,Veg,255,5,7,61
+Thengai Paal Dosai,Breakfast,Veg,386,9,16,110
+Peas Pulao + Raita,Lunch,Veg,524,12,9,137
+Rose Milk,Snacks,Veg,186,6,5,66
+Meals (Light),Dinner,Veg,669,19,9,72
+Parotta + Veg Salna,Dinner,Veg,573,11,21,118
+Idly + Chicken Kurma,Dinner,Non-Veg,506,42,21,210
+Mutton Biryani,Lunch,Non-Veg,957,48,43,408
+Bread + Omelette,Breakfast,Veg,391,11,14,67
+Veg Briyani,Lunch,Veg,662,11,18,214
+Kozhukattai,Snacks,Veg,244,7,10,77
+Bajji (Onion/Plantain),Snacks,Veg,230,7,13,40
+Chicken Burger,Fast Food,Non-Veg,621,31,22,219
+Bread + Omelette,Breakfast,Veg,400,8,17,70
+Veg Briyani,Lunch,Veg,521,16,15,217
+Kottu Parotta (Veg),Dinner,Veg,655,12,14,127
+Cheese Veg Burger,Fast Food,Veg,536,17,19,295
+Jigarthanda,Snacks,Veg,381,8,8,124
+Sambar Rice,Dinner,Veg,371,13,10,106
+Masala Vada Pav,Fast Food,Veg,329,10,13,84
+Chettinad Chicken + Rice,Dinner,Non-Veg,656,52,33,159
+Idly + Sambar,Dinner,Veg,271,14,5,47
+Sambar Rice,Dinner,Veg,494,18,14,129
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,255,9,2,55
+Dosai + Chicken Curry,Dinner,Non-Veg,603,34,23,172
+Fish Fry + Rice,Lunch,Non-Veg,645,53,23,243
+Meals (Full Thali),Lunch,Veg,925,22,21,142
+Egg Puff,Snacks,Non-Veg,340,13,20,33
+Egg Biryani,Lunch,Non-Veg,691,23,15,189
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,643,52,24,208
+Vada + Sambar,Snacks,Veg,292,12,12,58
+Paneer Roll,Fast Food,Veg,493,26,21,150
+Mutton Seekh Roll,Fast Food,Non-Veg,746,41,29,248
+Fresh Sugarcane Juice,Snacks,Veg,87,2,1,57
+Chicken Biryani,Dinner,Non-Veg,740,46,19,212
+Pesarattu + Ginger Chutney,Dinner,Veg,353,11,14,89
+Parotta + Veg Salna,Lunch,Veg,653,16,33,97
+Nannari Sherbet,Breakfast,Veg,114,1,1,66
+Kottu Parotta (Mutton),Lunch,Non-Veg,806,44,39,204
+Mutton Samosa,Snacks,Non-Veg,361,24,20,62
+Curd Rice + Pickle,Dinner,Veg,428,13,8,62
+Mutton Meals (Full),Lunch,Non-Veg,877,61,31,361
+Chicken Burger,Fast Food,Non-Veg,530,41,25,235
+Tomato Rice,Lunch,Veg,324,9,14,55
+Chicken Zinger Burger,Fast Food,Non-Veg,696,38,33,232
+Cheese Veg Burger,Fast Food,Veg,628,17,34,150
+Medu Vada + Sambar,Breakfast,Veg,328,10,17,88
+Paneer Tikka Pizza,Fast Food,Veg,906,28,34,441
+Dosai + Chicken Curry,Dinner,Non-Veg,572,29,26,227
+Masala Omelette + Parotta,Breakfast,Non-Veg,534,29,27,172
+Egg Puff,Snacks,Non-Veg,282,17,16,39
+Prawn Masala + Rice,Dinner,Non-Veg,541,41,15,383
+Poha (Aval) + Chutney,Snacks,Veg,270,10,6,54
+Parotta + Veg Salna,Dinner,Veg,569,15,30,104
+Cheese Veg Burger,Fast Food,Veg,462,17,18,150
+Margherita Pizza,Fast Food,Veg,798,25,29,377
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,732,53,31,235
+Chicken Noodles,Fast Food,Non-Veg,554,40,26,286
+Tomato Rice,Dinner,Veg,432,10,10,107
+Vada + Sambar,Snacks,Veg,327,13,14,41
+Veg Briyani,Lunch,Veg,501,11,22,211
+Mutton Biryani,Dinner,Non-Veg,974,44,35,435
+Chappatti + Kurma,Dinner,Veg,462,14,11,71
+Fresh Sugarcane Juice,Snacks,Veg,150,1,0,21
+Filter Coffee,Breakfast,Veg,82,3,4,53
+Idly + Sambar,Dinner,Veg,213,13,4,74
+Kottu Parotta (Chicken),Dinner,Non-Veg,651,48,29,225
+Chicken Lollipop,Snacks,Non-Veg,431,31,27,154
+Kottu Parotta (Veg),Lunch,Veg,540,12,15,152
+Chappatti + Kurma,Breakfast,Veg,369,13,14,125
+Aappam + Veg Stew,Dinner,Veg,468,9,6,138
+Chicken Lollipop,Snacks,Non-Veg,347,31,23,148
+Chicken Puff,Snacks,Non-Veg,385,29,30,111
+Chicken Burger,Fast Food,Non-Veg,604,37,17,152
+Parotta + Veg Salna,Dinner,Veg,656,12,36,82
+Rose Milk,Snacks,Veg,236,6,8,34
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,769,38,31,216
+Chicken Tikka Pizza,Fast Food,Non-Veg,869,45,38,638
+Veg Momos,Fast Food,Veg,262,12,7,165
+Idly + Sambar,Dinner,Veg,294,10,3,68
+Fresh Fruit Juice,Breakfast,Veg,97,2,2,71
+Puttu + Kadala Curry,Breakfast,Veg,517,19,13,144
+Curd Rice + Pickle,Dinner,Veg,444,8,10,116
+Veg Noodles,Fast Food,Veg,405,10,14,144
+French Fries,Fast Food,Veg,499,4,23,127
+Kottu Parotta (Chicken),Lunch,Non-Veg,772,36,25,170
+Poori + Kurma,Breakfast,Veg,545,14,18,65
+Parotta + Veg Salna,Breakfast,Veg,695,18,33,84
+Bonda + Chutney,Snacks,Veg,205,9,16,21
+Aappam + Veg Stew,Dinner,Veg,379,14,16,125
+Meals (Light),Dinner,Veg,672,19,12,86
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,790,45,21,285
+Mutton Seekh Roll,Fast Food,Non-Veg,789,42,22,182
+Veg Noodles,Fast Food,Veg,388,10,19,104
+Paneer Roll,Snacks,Veg,391,21,21,136
+Fish and Chips,Fast Food,Non-Veg,582,44,31,282
+Mango Juice,Breakfast,Veg,186,1,0,50
+Fresh Lemon Juice,Snacks,Veg,78,0,0,35
+Meals (Full Thali),Lunch,Veg,993,21,21,211
+Rava Dosai,Breakfast,Veg,358,5,13,100
+Mutton Biryani,Lunch,Non-Veg,877,54,41,379
+Sundal (Kadala/Peas),Snacks,Veg,202,13,10,31
+Poori + Kurma,Breakfast,Veg,433,9,25,65
+Aappam + Veg Stew,Dinner,Veg,330,11,12,144
+Sambar Rice,Lunch,Veg,473,14,13,86
+Egg Pongal,Breakfast,Non-Veg,420,28,14,138
+Meals (Light),Dinner,Veg,581,13,11,80
+Chicken Burger,Fast Food,Non-Veg,630,39,14,276
+Veg Noodles,Fast Food,Veg,418,12,14,104
+Poori + Kurma,Breakfast,Veg,504,9,19,86
+Meals (Full Thali),Lunch,Veg,909,18,22,247
+Peas Pulao + Raita,Lunch,Veg,465,16,17,89
+Lemon Rice,Lunch,Veg,372,9,14,86
+Egg Puff,Snacks,Non-Veg,313,15,16,71
+Kottu Parotta (Veg),Dinner,Veg,673,14,25,182
+Parotta + Veg Salna,Breakfast,Veg,565,13,31,125
+Pongal + Sambar + Chutney,Breakfast,Veg,398,15,17,50
+French Fries,Fast Food,Veg,366,8,24,191
+Chicken Lollipop,Snacks,Non-Veg,413,27,18,260
+Mango Juice,Breakfast,Veg,139,3,0,86
+Sambar Rice,Dinner,Veg,476,17,6,86
+Parotta + Chicken Salna,Lunch,Non-Veg,783,48,24,172
+Margherita Pizza,Fast Food,Veg,879,20,24,333
+Sambar Rice,Dinner,Veg,416,15,9,119
+Egg Curry + Rice,Dinner,Non-Veg,525,29,18,135
+Prawn Masala + Rice,Dinner,Non-Veg,674,47,26,345
+Set Dosai + Sambar,Breakfast,Veg,398,9,7,70
+Prawn Biryani,Lunch,Non-Veg,693,44,22,444
+Bread + Omelette,Breakfast,Veg,302,10,11,56
+Peas Pulao + Raita,Lunch,Veg,458,17,9,165
+Chettinad Chicken + Rice,Dinner,Non-Veg,623,41,28,279
+Prawn Biryani,Lunch,Non-Veg,881,51,19,492
+Idiyappam + Coconut Milk,Breakfast,Veg,372,10,11,88
+Poha (Aval) + Chutney,Snacks,Veg,203,7,7,35
+Veg Noodles,Fast Food,Veg,521,11,13,107
+Chicken Zinger Burger,Fast Food,Non-Veg,599,33,27,277
+Upma + Chutney,Breakfast,Veg,304,6,13,81
+Fresh Lemon Juice,Snacks,Veg,60,1,1,30
+Poriyal + Rice + Dal,Lunch,Veg,517,18,13,91
+Egg Dosai,Breakfast,Non-Veg,380,23,14,133
+Chicken Zinger Burger,Fast Food,Non-Veg,785,36,27,205
+Medu Vada + Sambar,Breakfast,Veg,362,7,17,92
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,139,3,3,67
+Chicken Lollipop,Snacks,Non-Veg,416,22,16,243
+Chettinad Chicken + Rice,Dinner,Non-Veg,606,44,22,151
+Prawn Biryani,Lunch,Non-Veg,675,59,31,468
+Pongal + Sambar + Chutney,Breakfast,Veg,354,13,12,104
+Paal Pongal,Breakfast,Veg,387,8,19,65
+Chappatti + Kurma,Dinner,Veg,398,16,18,114
+Chicken Noodles,Fast Food,Non-Veg,566,38,23,174
+Chicken 65,Snacks,Non-Veg,428,35,28,203
+Mutton Seekh Roll,Fast Food,Non-Veg,563,40,34,189
+Chicken Momos,Fast Food,Non-Veg,473,24,22,218
+Fresh Lemon Juice,Snacks,Veg,74,1,0,22
+Poha (Aval) + Chutney,Snacks,Veg,220,8,5,59
+Veg Noodles,Fast Food,Veg,554,11,13,208
+Bonda + Chutney,Snacks,Veg,269,7,20,50
+Chicken Burger,Fast Food,Non-Veg,582,38,24,178
+French Fries,Fast Food,Veg,420,8,26,110
+Chicken Noodles,Fast Food,Non-Veg,690,28,16,266
+Fish Fry + Rice,Lunch,Non-Veg,710,55,23,259
+Chicken Zinger Burger,Fast Food,Non-Veg,611,45,37,174
+Prawn Masala + Rice,Lunch,Non-Veg,596,37,18,330
+Lemon Rice,Lunch,Veg,399,7,9,89
+Tender Coconut Water,Snacks,Veg,82,2,1,74
+Variety Rice (Festival Special),Lunch,Veg,555,8,12,121
+Veg Burger,Fast Food,Veg,397,18,17,115
+Chappatti + Kurma,Breakfast,Veg,362,10,18,110
+Ghee Dosai,Breakfast,Veg,416,7,17,83
+Fish Fry + Rice,Lunch,Non-Veg,661,38,25,208
+Omelette + Bread,Breakfast,Non-Veg,379,19,20,78
+Masala Vada Pav,Fast Food,Veg,372,9,15,91
+Jigarthanda,Snacks,Veg,403,9,16,97
+Egg Dosai,Breakfast,Non-Veg,364,19,11,93
+Pani Puri (TN Style),Snacks,Veg,193,7,5,67
+French Fries,Fast Food,Veg,384,6,15,140
+Fish Curry + Rice,Lunch,Non-Veg,594,48,18,190
+Upma + Chutney,Breakfast,Veg,260,10,12,49
+Tamarind Rice (Puliyodharai),Lunch,Veg,381,6,16,80
+Kottu Parotta (Chicken),Lunch,Non-Veg,662,55,19,159
+Chicken 65,Snacks,Non-Veg,402,40,22,206
+Medu Vada + Sambar,Breakfast,Veg,348,10,19,72
+Sundal (Kadala/Peas),Snacks,Veg,215,10,8,58
+Bonda + Chutney,Snacks,Veg,223,10,11,24
+Veg Burger,Fast Food,Veg,515,16,15,204
+Pongal + Vada + Sambar,Dinner,Veg,526,20,17,138
+Chicken Meals (Full),Lunch,Non-Veg,803,46,29,274
+Chicken Puff,Snacks,Non-Veg,402,23,23,103
+Pongal + Sambar + Chutney,Breakfast,Veg,306,13,14,54
+Veg Briyani,Lunch,Veg,555,12,10,160
+Egg Fried Rice,Fast Food,Non-Veg,598,29,22,192
+Chappatti + Dal Fry,Lunch,Veg,481,17,8,119
+Plain Dosai + Chutney,Dinner,Veg,293,9,11,59
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,297,6,11,16
+Paneer Tikka Pizza,Fast Food,Veg,771,29,24,362
+Chicken Tikka Pizza,Fast Food,Non-Veg,1015,46,48,430
+Parotta + Veg Salna,Dinner,Veg,649,16,25,152
+Dosai + Chicken Curry,Dinner,Non-Veg,553,31,15,192
+Parotta + Chicken Salna,Dinner,Non-Veg,835,41,25,216
+Fresh Lemon Juice,Snacks,Veg,75,1,1,43
+Sundal (Kadala/Peas),Snacks,Veg,162,15,8,46
+Meals (Full Thali),Lunch,Veg,882,26,17,134
+Sugarcane Juice,Breakfast,Veg,146,2,1,35
+Rose Milk,Snacks,Veg,205,8,8,56
+Parotta + Kurma,Breakfast,Veg,560,14,29,95
+Chicken Zinger Burger,Fast Food,Non-Veg,682,36,21,185
+Veg Burger,Fast Food,Veg,476,15,19,129
+Aappam + Stew,Breakfast,Veg,397,10,16,144
+Veg Noodles,Fast Food,Veg,469,8,19,165
+Crab Curry + Rice,Lunch,Non-Veg,710,46,14,496
+Vada + Sambar,Snacks,Veg,370,7,21,82
+Kottu Parotta (Chicken),Dinner,Non-Veg,711,49,24,221
+Vada + Sambar,Snacks,Veg,341,10,11,77
+Chicken Meals (Full),Lunch,Non-Veg,954,54,34,161
+Kottu Parotta (Veg),Dinner,Veg,626,14,16,133
+Idly + Chicken Kurma,Dinner,Non-Veg,521,29,14,127
+Chicken Meals (Full),Lunch,Non-Veg,994,54,25,196
+Chicken Noodles,Fast Food,Non-Veg,647,39,14,177
+Keerai Dosai,Breakfast,Veg,332,9,11,88
+Poori + Kurma,Breakfast,Veg,510,13,24,105
+Poriyal + Rice + Dal,Lunch,Veg,538,15,11,114
+Kozhukattai,Snacks,Veg,254,6,4,37
+Onion Dosai,Breakfast,Veg,330,6,10,73
+Coconut Rice,Lunch,Veg,464,8,18,66
+Veg Noodles,Fast Food,Veg,551,10,15,218
+Chicken Puff,Snacks,Non-Veg,362,19,19,111
+Filter Coffee,Breakfast,Veg,89,1,6,56
+Set Dosai + Sambar,Breakfast,Veg,321,10,13,105
+Fish and Chips,Fast Food,Non-Veg,646,35,23,323
+Sundal (Kadala/Peas),Snacks,Veg,246,9,7,40
+Paneer Roll,Fast Food,Veg,569,18,15,178
+Ven Pongal,Breakfast,Veg,369,14,18,70
+Egg Puff,Snacks,Non-Veg,394,11,16,47
+Chicken 65,Snacks,Non-Veg,484,40,30,100
+Chicken Zinger Burger,Fast Food,Non-Veg,722,41,27,307
+Fish Bajji,Snacks,Non-Veg,303,19,12,116
+Parotta + Chicken Salna,Lunch,Non-Veg,667,42,27,240
+Pongal + Sambar + Chutney,Breakfast,Veg,386,12,12,74
+Peas Pulao + Raita,Lunch,Veg,474,16,14,104
+Bread + Omelette,Breakfast,Veg,372,10,16,78
+Fish and Chips,Fast Food,Non-Veg,640,42,24,375
+Ghee Dosai,Breakfast,Veg,393,9,28,129
+Chicken Meals (Full),Lunch,Non-Veg,737,41,20,164
+French Fries,Fast Food,Veg,335,4,16,103
+Tomato Rice,Dinner,Veg,348,9,12,120
+Veg Noodles,Fast Food,Veg,516,10,19,170
+Rasam Rice,Lunch,Veg,291,9,7,87
+Kottu Parotta (Mutton),Lunch,Non-Veg,712,52,24,370
+Idiyappam + Kurma,Dinner,Veg,431,13,6,162
+Fish Biryani,Lunch,Non-Veg,700,55,23,222
+Curd Rice + Pickle,Lunch,Veg,436,11,10,92
+Parotta + Veg Salna,Lunch,Veg,743,13,26,126
+Jigarthanda,Snacks,Veg,345,9,15,104
+Poha (Aval) + Chutney,Snacks,Veg,299,8,7,45
+Mutton Seekh Roll,Fast Food,Non-Veg,723,49,19,338
+Pongal + Sambar + Chutney,Breakfast,Veg,422,10,8,72
+Plain Dosai + Chutney,Breakfast,Veg,255,9,6,62
+Meals (Light),Dinner,Veg,476,17,10,138
+Idly + Sambar,Dinner,Veg,311,8,4,43
+Mutton Meals (Full),Lunch,Non-Veg,1009,64,32,201
+Chappatti + Kurma,Breakfast,Veg,396,11,11,101
+Aappam + Stew,Breakfast,Veg,415,7,9,82
+Fresh Lemon Juice,Snacks,Veg,89,1,1,49
+Sambar Rice,Lunch,Veg,515,20,8,71
+Corn Chaat,Snacks,Veg,282,6,6,63
+Crab Curry + Rice,Lunch,Non-Veg,695,33,18,576
+Kottu Parotta (Chicken),Dinner,Non-Veg,588,55,21,152
+Fish and Chips,Fast Food,Non-Veg,621,30,24,361
+Egg Curry + Rice,Dinner,Non-Veg,614,22,19,138
+Margherita Pizza,Fast Food,Veg,844,24,34,416
+Aloo Bonda,Snacks,Veg,288,5,19,41
+Parotta + Mutton Salna,Dinner,Non-Veg,734,50,48,296
+Idly + Sambar,Dinner,Veg,213,13,7,40
+Masala Omelette + Parotta,Breakfast,Non-Veg,520,29,29,155
+Veg Momos,Fast Food,Veg,337,11,6,146
+Pongal + Vada + Sambar,Dinner,Veg,462,12,22,97
+Jigarthanda,Snacks,Veg,313,9,16,90
+Prawn Biryani,Lunch,Non-Veg,869,52,31,383
+Paneer Roll,Snacks,Veg,541,22,20,175
+Squid Fry + Rice,Lunch,Non-Veg,592,46,25,206
+Rava Dosai,Breakfast,Veg,324,9,12,60
+Veg Burger,Fast Food,Veg,373,13,15,153
+Thengai Paal Dosai,Breakfast,Veg,394,11,17,89
+Paneer Roll,Snacks,Veg,440,23,16,100
+Chicken Noodles,Fast Food,Non-Veg,544,38,24,250
+Poori + Kurma,Breakfast,Veg,430,8,22,79
+Fish and Chips,Fast Food,Non-Veg,691,36,37,327
+Paal Pongal,Breakfast,Veg,446,11,10,99
+Sambar Rice,Lunch,Veg,393,13,12,77
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,309,12,18,32
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,346,17,6,65
+Veg Burger,Fast Food,Veg,378,14,18,115
+Bajji (Onion/Plantain),Snacks,Veg,327,7,21,43
+Mutton Samosa,Snacks,Non-Veg,326,24,15,67
+Aappam + Veg Stew,Dinner,Veg,427,12,8,112
+Idiyappam + Coconut Milk,Breakfast,Veg,377,5,4,68
+Mutton Biryani,Dinner,Non-Veg,767,61,41,411
+Chicken Fried Rice,Fast Food,Non-Veg,654,44,23,208
+Meals (Full Thali),Lunch,Veg,880,27,13,135
+Squid Fry + Rice,Lunch,Non-Veg,511,30,20,289
+Sambar Rice,Lunch,Veg,376,15,7,121
+Parotta + Veg Salna,Breakfast,Veg,612,12,24,92
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,735,51,31,229
+Aappam + Stew,Breakfast,Veg,440,10,6,137
+French Fries,Fast Food,Veg,453,4,27,175
+Veg Momos,Fast Food,Veg,362,9,13,150
+Aloo Bonda,Snacks,Veg,359,4,18,35
+Chicken Tikka Pizza,Fast Food,Non-Veg,907,38,38,633
+Set Dosai + Sambar,Breakfast,Veg,395,8,14,101
+Murukku,Snacks,Veg,388,6,18,32
+Pani Puri (TN Style),Snacks,Veg,254,7,7,48
+Parotta + Chicken Salna,Dinner,Non-Veg,726,38,40,152
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,302,7,11,14
+Lemon Rice,Lunch,Veg,338,10,18,64
+Idiyappam + Coconut Milk,Breakfast,Veg,317,6,10,62
+Cheese Veg Burger,Fast Food,Veg,451,18,19,245
+Thengai Paal Dosai,Breakfast,Veg,404,8,13,104
+Filter Coffee,Breakfast,Veg,118,2,5,20
+Curd Rice + Pickle,Lunch,Veg,415,15,9,51
+Pongal + Chutney,Dinner,Veg,422,9,13,75
+Pongal + Vada + Sambar,Dinner,Veg,460,16,24,137
+Chicken Fried Rice,Fast Food,Non-Veg,634,44,21,290
+Kozhukattai,Snacks,Veg,297,4,10,43
+Kottu Parotta (Chicken),Dinner,Non-Veg,634,38,28,156
+Mutton Samosa,Snacks,Non-Veg,340,14,17,71
+Chicken 65,Snacks,Non-Veg,356,34,17,142
+Kottu Parotta (Chicken),Lunch,Non-Veg,777,47,24,285
+Chicken Puff,Snacks,Non-Veg,429,27,26,68
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,514,17,8,136
+Set Dosai + Sambar,Breakfast,Veg,428,11,14,79
+Jigarthanda,Snacks,Veg,362,6,16,102
+Idly + Chicken Kurma,Dinner,Non-Veg,463,35,14,211
+Keema Parotta,Breakfast,Non-Veg,774,32,25,143
+Idly + Chicken Kurma,Dinner,Non-Veg,415,28,20,167
+Meals (Light),Dinner,Veg,619,17,10,85
+Prawn Masala + Rice,Lunch,Non-Veg,629,55,16,319
+Chicken 65,Snacks,Non-Veg,377,41,22,134
+Veg Briyani,Lunch,Veg,452,11,15,168
+Plain Dosai + Chutney,Dinner,Veg,246,5,13,57
+Mutton Biryani,Lunch,Non-Veg,918,45,41,461
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,667,42,27,267
+Chicken Burger,Fast Food,Non-Veg,672,39,16,239
+Mutton Samosa,Snacks,Non-Veg,400,22,14,50
+Parotta + Veg Salna,Dinner,Veg,633,10,33,147
+Samosa,Snacks,Veg,270,5,19,35
+Veg Momos,Fast Food,Veg,263,13,10,153
+Veg Fried Rice,Fast Food,Veg,400,11,16,178
+Egg Fried Rice,Fast Food,Non-Veg,483,26,19,232
+Rava Dosai,Breakfast,Veg,265,10,16,111
+Egg Dosai,Breakfast,Non-Veg,418,18,17,113
+Prawn Masala + Rice,Lunch,Non-Veg,544,39,21,262
+Parotta + Chicken Salna,Lunch,Non-Veg,845,38,22,225
+Veg Burger,Fast Food,Veg,480,14,24,121
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,206,9,2,45
+Paneer Roll,Fast Food,Veg,467,24,18,235
+Parotta + Chicken Salna,Dinner,Non-Veg,717,44,30,164
+Kottu Parotta (Chicken),Lunch,Non-Veg,632,43,33,280
+Rose Milk,Snacks,Veg,182,8,5,34
+Fish and Chips,Fast Food,Non-Veg,796,43,36,444
+Pongal + Chutney,Dinner,Veg,449,12,16,92
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,780,48,20,229
+Vada + Sambar,Snacks,Veg,317,9,10,66
+Paniyaram + Chutney,Breakfast,Veg,378,7,14,101
+Chicken Tikka Pizza,Fast Food,Non-Veg,887,46,48,405
+Parotta + Chicken Salna,Dinner,Non-Veg,681,37,35,249
+Mango Juice,Breakfast,Veg,207,2,1,115
+Parotta + Veg Salna,Breakfast,Veg,569,18,35,118
+Idly + Chicken Kurma,Dinner,Non-Veg,554,35,14,142
+Bread + Omelette,Breakfast,Veg,328,12,14,56
+Kottu Parotta (Veg),Lunch,Veg,461,10,17,196
+Vada + Sambar,Snacks,Veg,305,9,15,78
+Paneer Tikka Pizza,Fast Food,Veg,721,33,28,402
+Kottu Parotta (Chicken),Dinner,Non-Veg,787,45,25,155
+Keema Parotta,Breakfast,Non-Veg,596,41,28,183
+Egg Fried Rice,Fast Food,Non-Veg,457,21,15,130
+Kottu Parotta (Veg),Dinner,Veg,604,10,21,116
+Parotta + Veg Salna,Lunch,Veg,666,12,25,90
+Meals (Light),Dinner,Veg,487,17,16,119
+Chicken Burger,Fast Food,Non-Veg,464,31,19,214
+Tender Coconut Water,Snacks,Veg,68,1,1,42
+Masala Omelette + Parotta,Breakfast,Non-Veg,495,23,24,159
+Medu Vada + Sambar,Breakfast,Veg,334,9,18,58
+Chicken Burger,Fast Food,Non-Veg,479,39,17,132
+Fish Biryani,Dinner,Non-Veg,677,44,29,297
+Aappam + Veg Stew,Dinner,Veg,336,9,15,132
+Pongal + Sambar + Chutney,Breakfast,Veg,378,12,16,68
+Margherita Pizza,Fast Food,Veg,623,20,28,488
+Chicken Puff,Snacks,Non-Veg,420,19,18,91
+Thengai Paal Dosai,Breakfast,Veg,336,8,13,71
+Fish Curry + Rice,Dinner,Non-Veg,521,46,23,211
+Sambar Rice,Dinner,Veg,516,13,10,63
+Plain Dosai + Chutney,Dinner,Veg,283,5,13,64
+Jigarthanda,Snacks,Veg,316,8,8,123
+Aloo Bonda,Snacks,Veg,286,8,11,51
+Chicken 65,Snacks,Non-Veg,374,31,24,121
+Parotta + Mutton Salna,Dinner,Non-Veg,984,44,30,286
+Upma + Chutney,Breakfast,Veg,214,8,13,86
+Pongal + Chutney,Dinner,Veg,434,11,18,70
+Squid Fry + Rice,Lunch,Non-Veg,638,30,24,240
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,745,58,20,250
+Parotta + Veg Salna,Lunch,Veg,604,15,25,148
+Pongal + Sambar + Chutney,Breakfast,Veg,379,12,13,83
+Paniyaram + Chutney,Breakfast,Veg,351,9,8,74
+Aloo Bonda,Snacks,Veg,227,6,19,33
+Medu Vada + Sambar,Breakfast,Veg,281,13,18,63
+Meals (Light),Dinner,Veg,646,18,13,82
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,722,51,25,268
+Parotta + Veg Salna,Lunch,Veg,647,15,34,94
+Meals (Light),Dinner,Veg,551,19,10,135
+Mutton Meals (Full),Lunch,Non-Veg,994,57,33,255
+Mutton Seekh Roll,Fast Food,Non-Veg,788,34,20,207
+Veg Burger,Fast Food,Veg,450,13,16,197
+Margherita Pizza,Fast Food,Veg,773,23,25,451
+Plain Dosai + Chutney,Dinner,Veg,301,8,12,56
+Paneer Tikka Pizza,Fast Food,Veg,909,24,33,416
+Cheese Veg Burger,Fast Food,Veg,465,21,27,290
+Chicken Puff,Snacks,Non-Veg,338,18,27,84
+Idiyappam + Coconut Milk,Breakfast,Veg,398,7,4,115
+Fish Curry + Rice,Dinner,Non-Veg,451,44,21,260
+Veg Briyani,Lunch,Veg,569,10,21,174
+Medu Vada + Sambar,Breakfast,Veg,315,11,16,107
+Peas Pulao + Raita,Lunch,Veg,523,14,11,149
+Idiyappam + Kurma,Dinner,Veg,337,14,9,168
+Bajji (Onion/Plantain),Snacks,Veg,303,4,20,41
+Dosai + Chicken Curry,Dinner,Non-Veg,531,44,19,123
+Pesarattu + Ginger Chutney,Dinner,Veg,314,16,6,118
+Egg Pongal,Breakfast,Non-Veg,365,23,15,86
+Masala Vada Pav,Fast Food,Veg,313,10,19,59
+Parotta + Mutton Salna,Lunch,Non-Veg,933,51,40,195
+Egg Biryani,Lunch,Non-Veg,624,26,19,122
+Kottu Parotta (Chicken),Lunch,Non-Veg,699,44,26,203
+Omelette + Bread,Breakfast,Non-Veg,430,23,14,97
+Prawn Masala + Rice,Lunch,Non-Veg,578,35,21,342
+Mutton Biryani,Dinner,Non-Veg,897,48,32,475
+Thengai Paal Dosai,Breakfast,Veg,382,7,16,122
+Poriyal + Rice + Dal,Lunch,Veg,509,15,8,128
+Plain Dosai + Chutney,Dinner,Veg,259,7,6,51
+Mutton Samosa,Snacks,Non-Veg,301,20,23,56
+Corn Chaat,Snacks,Veg,222,5,7,95
+Parotta + Veg Salna,Lunch,Veg,551,14,32,154
+Parotta + Veg Salna,Lunch,Veg,606,13,30,108
+Puttu + Kadala Curry,Breakfast,Veg,464,15,11,91
+Parotta + Veg Salna,Breakfast,Veg,529,11,20,121
+Idiyappam + Kurma,Dinner,Veg,449,9,14,162
+Aloo Bonda,Snacks,Veg,232,8,13,45
+Poha (Aval) + Chutney,Snacks,Veg,248,5,8,33
+Veg Fried Rice,Fast Food,Veg,459,15,16,146
+Curd Rice + Pickle,Dinner,Veg,319,10,9,81
+Fresh Sugarcane Juice,Snacks,Veg,98,0,1,27
+Veg Noodles,Fast Food,Veg,470,14,19,154
+Fish Biryani,Dinner,Non-Veg,722,38,18,204
+Onion Dosai,Breakfast,Veg,267,10,7,71
+Veg Fried Rice,Fast Food,Veg,520,10,22,169
+Egg Pongal,Breakfast,Non-Veg,486,18,19,144
+Chicken 65,Snacks,Non-Veg,463,37,21,121
+Jigarthanda,Snacks,Veg,396,8,17,130
+Squid Fry + Rice,Lunch,Non-Veg,563,43,21,230
+Sambar Rice,Lunch,Veg,354,17,8,120
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,733,24,14,99
+Pongal + Chutney,Dinner,Veg,405,9,11,82
+Pongal + Vada + Sambar,Dinner,Veg,536,13,15,141
+Paneer Roll,Snacks,Veg,450,25,16,106
+Idiyappam + Kurma,Dinner,Veg,478,15,8,127
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,378,13,7,62
+Dosai + Chicken Curry,Dinner,Non-Veg,503,43,20,175
+Fish Biryani,Lunch,Non-Veg,693,39,31,227
+Egg Fried Rice,Fast Food,Non-Veg,524,31,17,138
+Vada + Sambar,Snacks,Veg,372,12,10,45
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,92,1,2,52
+Fish Bajji,Snacks,Non-Veg,427,30,24,92
+Paneer Roll,Fast Food,Veg,558,19,14,175
+Chicken Noodles,Fast Food,Non-Veg,557,44,21,169
+Vada + Sambar,Snacks,Veg,369,12,20,95
+Veg Noodles,Fast Food,Veg,409,14,14,108
+Prawn Bajji,Snacks,Non-Veg,348,30,18,128
+Veg Fried Rice,Fast Food,Veg,403,11,16,118
+Parotta + Veg Salna,Dinner,Veg,502,18,20,158
+Egg Puff,Snacks,Non-Veg,300,10,23,63
+Chicken Lollipop,Snacks,Non-Veg,333,30,24,175
+Kottu Parotta (Veg),Lunch,Veg,643,15,20,140
+Chicken Kadai + Idly,Breakfast,Non-Veg,510,39,23,221
+Filter Coffee,Breakfast,Veg,69,3,2,50
+Aloo Bonda,Snacks,Veg,291,4,22,31
+Egg Dosai,Breakfast,Non-Veg,365,26,21,127
+French Fries,Fast Food,Veg,368,6,16,155
+Tomato Rice,Lunch,Veg,390,11,9,117
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,281,12,17,17
+Fish Biryani,Dinner,Non-Veg,683,41,22,262
+Jigarthanda,Snacks,Veg,313,8,9,77
+Chicken Biryani,Dinner,Non-Veg,788,47,19,254
+Ven Pongal,Breakfast,Veg,360,14,19,102
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,480,39,27,210
+Vada + Sambar,Snacks,Veg,279,11,13,79
+Aloo Bonda,Snacks,Veg,322,5,22,44
+Fish and Chips,Fast Food,Non-Veg,763,41,32,317
+Idiyappam + Coconut Milk,Breakfast,Veg,310,8,4,123
+Chicken 65,Snacks,Non-Veg,513,31,22,213
+Idly + Sambar,Dinner,Veg,292,7,3,83
+Parotta + Veg Salna,Lunch,Veg,671,10,35,148
+Samosa,Snacks,Veg,339,8,13,53
+Meals (Full Thali),Lunch,Veg,921,29,14,140
+Veg Briyani,Lunch,Veg,517,12,20,150
+Fresh Sugarcane Juice,Snacks,Veg,105,1,0,40
+Veg Noodles,Fast Food,Veg,515,15,14,199
+Bread + Omelette,Breakfast,Veg,364,14,18,93
+Sambar Rice,Dinner,Veg,394,18,12,94
+Kottu Parotta (Mutton),Lunch,Non-Veg,921,49,34,234
+Veg Momos,Fast Food,Veg,317,8,6,128
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,645,55,24,262
+Paneer Roll,Fast Food,Veg,475,21,15,132
+Tamarind Rice (Puliyodharai),Lunch,Veg,342,11,11,112
+Margherita Pizza,Fast Food,Veg,859,22,30,332
+Pongal + Sambar + Chutney,Breakfast,Veg,359,11,8,104
+Idiyappam + Kurma,Dinner,Veg,442,12,9,155
+Chicken Fried Rice,Fast Food,Non-Veg,614,31,24,159
+Jigarthanda,Snacks,Veg,333,10,14,66
+Keerai Dosai,Breakfast,Veg,336,12,14,109
+Chicken Momos,Fast Food,Non-Veg,371,34,12,131
+Bread + Omelette,Breakfast,Veg,381,14,20,83
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,691,55,33,336
+Aappam + Veg Stew,Dinner,Veg,374,10,12,144
+Prawn Masala + Rice,Dinner,Non-Veg,649,55,19,252
+French Fries,Fast Food,Veg,322,8,17,123
+Mutton Meals (Full),Lunch,Non-Veg,817,49,35,328
+Sugarcane Juice,Breakfast,Veg,146,2,1,49
+Parotta + Chicken Salna,Lunch,Non-Veg,803,41,30,222
+French Fries,Fast Food,Veg,301,7,19,144
+Paneer Roll,Fast Food,Veg,442,27,25,252
+Parotta + Mutton Salna,Dinner,Non-Veg,721,53,46,256
+Prawn Masala + Rice,Dinner,Non-Veg,489,44,26,336
+Aappam + Veg Stew,Dinner,Veg,410,8,16,135
+Kozhukattai,Snacks,Veg,277,5,6,32
+Chicken Noodles,Fast Food,Non-Veg,559,29,23,238
+Tender Coconut Water,Snacks,Veg,98,2,0,41
+Murukku,Snacks,Veg,386,8,17,48
+Fish Biryani,Lunch,Non-Veg,871,51,18,267
+Mutton Seekh Roll,Fast Food,Non-Veg,680,38,21,281
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,225,10,18,14
+Chappatti + Kurma,Dinner,Veg,455,15,18,64
+Meals (Full Thali),Lunch,Veg,898,22,17,241
+Parotta + Chicken Salna,Dinner,Non-Veg,821,35,23,212
+Kozhukattai,Snacks,Veg,247,7,7,61
+Mutton Seekh Roll,Fast Food,Non-Veg,619,33,19,306
+Vada + Sambar,Snacks,Veg,354,8,18,68
+Mutton Biryani,Lunch,Non-Veg,820,56,26,437
+Fresh Lemon Juice,Snacks,Veg,86,0,1,44
+Mutton Biryani,Dinner,Non-Veg,767,48,37,439
+Fish Biryani,Dinner,Non-Veg,774,43,21,371
+Meals (Light),Dinner,Veg,568,13,12,107
+Rava Dosai,Breakfast,Veg,299,10,7,72
+Samosa,Snacks,Veg,264,5,17,25
+Mutton Biryani,Dinner,Non-Veg,922,47,41,309
+Sundal (Kadala/Peas),Snacks,Veg,249,13,3,41
+Chicken Fried Rice,Fast Food,Non-Veg,653,34,17,318
+Chappatti + Kurma,Breakfast,Veg,510,15,14,84
+Chicken 65,Snacks,Non-Veg,407,38,30,175
+Masala Vada Pav,Fast Food,Veg,438,12,15,53
+Parotta + Veg Salna,Lunch,Veg,726,10,22,143
+Omelette + Bread,Breakfast,Non-Veg,284,20,21,95
+Kottu Parotta (Chicken),Dinner,Non-Veg,788,47,25,232
+Veg Briyani,Lunch,Veg,601,14,10,119
+Paniyaram + Chutney,Breakfast,Veg,336,10,8,71
+Samosa,Snacks,Veg,234,6,21,43
+Fresh Lemon Juice,Snacks,Veg,95,1,0,23
+Pesarattu + Ginger Chutney,Dinner,Veg,335,15,12,63
+Chicken Meals (Full),Lunch,Non-Veg,713,48,28,220
+Chicken Tikka Pizza,Fast Food,Non-Veg,823,52,29,633
+Pongal + Chutney,Dinner,Veg,364,9,17,109
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,724,42,31,238
+Plain Dosai + Chutney,Dinner,Veg,240,9,7,42
+Lemon Rice,Lunch,Veg,363,7,17,115
+Egg Biryani,Lunch,Non-Veg,727,33,24,181
+Corn Chaat,Snacks,Veg,211,7,10,93
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,423,15,10,86
+Murukku,Snacks,Veg,282,8,19,29
+Kottu Parotta (Veg),Lunch,Veg,590,18,21,149
+Parotta + Veg Salna,Breakfast,Veg,686,18,21,110
+Pongal + Chutney,Dinner,Veg,314,13,12,58
+Paniyaram + Chutney,Breakfast,Veg,417,12,13,110
+Sundal (Kadala/Peas),Snacks,Veg,231,8,5,42
+Paniyaram + Chutney,Breakfast,Veg,325,9,13,70
+Chicken Zinger Burger,Fast Food,Non-Veg,666,39,22,206
+Chicken Fried Rice,Fast Food,Non-Veg,619,35,23,155
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,182,11,7,52
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,109,1,5,44
+Rose Milk,Snacks,Veg,276,6,8,56
+Egg Curry + Rice,Dinner,Non-Veg,538,31,20,116
+Ghee Dosai,Breakfast,Veg,337,8,22,86
+Meals (Light),Dinner,Veg,511,18,16,118
+Squid Fry + Rice,Lunch,Non-Veg,487,47,18,311
+Chicken Kadai + Idly,Breakfast,Non-Veg,507,33,15,129
+Veg Fried Rice,Fast Food,Veg,407,10,15,193
+Dosai + Chicken Curry,Dinner,Non-Veg,526,38,24,148
+Masala Dosai,Breakfast,Veg,312,8,14,98
+Plain Dosai + Chutney,Dinner,Veg,286,9,11,67
+Keema Parotta,Breakfast,Non-Veg,733,39,30,181
+Chicken Biryani,Dinner,Non-Veg,632,44,26,248
+Prawn Biryani,Lunch,Non-Veg,657,41,24,417
+Parotta + Chicken Salna,Dinner,Non-Veg,790,37,39,205
+Paneer Roll,Snacks,Veg,502,16,21,108
+Chicken Puff,Snacks,Non-Veg,378,28,25,119
+Egg Puff,Snacks,Non-Veg,363,10,20,72
+Parotta + Mutton Salna,Dinner,Non-Veg,975,42,46,273
+Chicken Fried Rice,Fast Food,Non-Veg,642,33,23,283
+Prawn Masala + Rice,Lunch,Non-Veg,491,53,24,332
+Tender Coconut Water,Snacks,Veg,47,2,1,57
+Fresh Lemon Juice,Snacks,Veg,57,1,0,36
+Meals (Full Thali),Lunch,Veg,729,28,19,162
+Meals (Light),Dinner,Veg,592,20,13,145
+Idly + Chicken Kurma,Dinner,Non-Veg,549,37,18,140
+Masala Dosai,Breakfast,Veg,282,14,9,127
+Egg Fried Rice,Fast Food,Non-Veg,660,31,19,178
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,275,11,5,63
+Dosai + Chicken Curry,Dinner,Non-Veg,573,33,14,157
+Sundal (Kadala/Peas),Snacks,Veg,150,15,9,59
+Parotta + Mutton Salna,Lunch,Non-Veg,862,38,34,249
+Peas Pulao + Raita,Lunch,Veg,512,14,17,172
+Samosa,Snacks,Veg,231,7,15,47
+Tomato Rice,Dinner,Veg,454,10,13,105
+Chicken Lollipop,Snacks,Non-Veg,364,22,20,198
+Pani Puri (TN Style),Snacks,Veg,170,4,12,74
+Chicken Lollipop,Snacks,Non-Veg,461,34,22,142
+Meals (Light),Dinner,Veg,502,20,10,118
+Onion Dosai,Breakfast,Veg,319,9,8,61
+Chicken Zinger Burger,Fast Food,Non-Veg,638,42,25,262
+Dosai + Chicken Curry,Dinner,Non-Veg,646,28,16,249
+Fish Fry + Rice,Lunch,Non-Veg,530,44,26,160
+Ven Pongal,Breakfast,Veg,404,15,22,89
+Kottu Parotta (Chicken),Dinner,Non-Veg,727,37,23,236
+Tomato Rice,Lunch,Veg,374,11,16,102
+Idiyappam + Kurma,Dinner,Veg,466,12,8,162
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,380,10,3,97
+Pani Puri (TN Style),Snacks,Veg,280,7,8,43
+Fresh Sugarcane Juice,Snacks,Veg,117,2,1,39
+Aloo Bonda,Snacks,Veg,310,6,11,27
+Plain Dosai + Chutney,Dinner,Veg,318,5,11,53
+Chicken 65,Snacks,Non-Veg,403,29,18,108
+Kottu Parotta (Chicken),Lunch,Non-Veg,659,51,20,257
+Sugarcane Juice,Breakfast,Veg,111,2,1,42
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,587,38,27,183
+Chettinad Chicken + Rice,Dinner,Non-Veg,620,44,33,265
+Sundal (Kadala/Peas),Snacks,Veg,236,9,9,23
+Parotta + Veg Salna,Breakfast,Veg,650,14,36,107
+Pani Puri (TN Style),Snacks,Veg,279,6,5,63
+Fish Bajji,Snacks,Non-Veg,403,21,14,90
+Idly + Sambar,Dinner,Veg,259,8,7,54
+Prawn Bajji,Snacks,Non-Veg,378,26,24,143
+Fish Fry + Rice,Lunch,Non-Veg,505,47,26,246
+Egg Fried Rice,Fast Food,Non-Veg,504,32,13,149
+Keema Parotta,Breakfast,Non-Veg,719,34,31,236
+Idiyappam + Kurma,Dinner,Veg,471,11,16,107
+Fish Biryani,Dinner,Non-Veg,815,54,28,290
+Pesarattu + Ginger Chutney,Dinner,Veg,287,18,13,94
+Prawn Biryani,Lunch,Non-Veg,868,53,32,257
+French Fries,Fast Food,Veg,449,4,23,170
+Nannari Sherbet,Breakfast,Veg,118,0,1,67
+Cheese Veg Burger,Fast Food,Veg,613,14,30,254
+Fish Bajji,Snacks,Non-Veg,283,19,15,113
+Tomato Rice,Dinner,Veg,428,7,12,56
+Vada + Sambar,Snacks,Veg,295,10,10,49
+Plain Dosai + Chutney,Dinner,Veg,279,5,11,47
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,604,33,28,189
+Paneer Tikka Pizza,Fast Food,Veg,722,23,39,306
+Prawn Biryani,Lunch,Non-Veg,826,60,32,437
+Mutton Biryani,Lunch,Non-Veg,956,48,43,294
+Tender Coconut Water,Snacks,Veg,82,2,1,67
+Paal Pongal,Breakfast,Veg,388,8,18,87
+Kottu Parotta (Chicken),Dinner,Non-Veg,626,50,25,209
+Chicken Fried Rice,Fast Food,Non-Veg,687,32,22,253
+Paneer Tikka Pizza,Fast Food,Veg,733,27,40,452
+Rasam Rice,Lunch,Veg,293,13,6,57
+Pesarattu + Ginger Chutney,Dinner,Veg,371,15,6,107
+Plain Dosai + Chutney,Dinner,Veg,294,9,11,50
+Set Dosai + Sambar,Breakfast,Veg,344,14,10,89
+Fish and Chips,Fast Food,Non-Veg,654,39,27,402
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,714,53,18,201
+Pongal + Sambar + Chutney,Breakfast,Veg,349,9,16,103
+Mutton Biryani,Lunch,Non-Veg,795,56,34,367
+Mutton Samosa,Snacks,Non-Veg,386,18,17,46
+Rasam Rice,Lunch,Veg,330,12,4,59
+Jigarthanda,Snacks,Veg,341,9,17,116
+Tomato Rice,Dinner,Veg,449,11,8,98
+Tomato Rice,Lunch,Veg,406,7,13,64
+Paneer Roll,Snacks,Veg,553,17,14,130
+Veg Noodles,Fast Food,Veg,458,10,16,152
+Prawn Biryani,Lunch,Non-Veg,723,48,20,366
+Rose Milk,Snacks,Veg,223,5,4,65
+Murukku,Snacks,Veg,314,4,19,25
+Chicken Puff,Snacks,Non-Veg,390,24,23,68
+Egg Fried Rice,Fast Food,Non-Veg,467,24,18,240
+Filter Coffee,Breakfast,Veg,82,2,4,41
+Squid Fry + Rice,Lunch,Non-Veg,588,40,26,299
+Mango Juice,Breakfast,Veg,188,2,0,106
+Vada + Sambar,Snacks,Veg,260,7,16,49
+Chicken Momos,Fast Food,Non-Veg,351,25,13,161
+Paal Pongal,Breakfast,Veg,406,9,16,123
+Pani Puri (TN Style),Snacks,Veg,235,6,11,38
+Murukku,Snacks,Veg,345,7,16,53
+Kottu Parotta (Veg),Lunch,Veg,577,10,14,127
+Fish Biryani,Dinner,Non-Veg,602,45,31,296
+Filter Coffee,Breakfast,Veg,113,2,4,27
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,325,15,10,94
+Chappatti + Kurma,Dinner,Veg,519,12,8,85
+Chappatti + Kurma,Dinner,Veg,353,18,13,90
+Sugarcane Juice,Breakfast,Veg,96,0,1,27
+Bajji (Onion/Plantain),Snacks,Veg,303,5,15,25
+Tomato Rice,Dinner,Veg,409,10,18,79
+Sambar Rice,Dinner,Veg,493,20,9,69
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,449,13,8,67
+Dosai + Chicken Curry,Dinner,Non-Veg,583,37,23,160
+Jigarthanda,Snacks,Veg,447,7,8,118
+Chicken Tikka Pizza,Fast Food,Non-Veg,834,47,35,565
+Masala Omelette + Parotta,Breakfast,Non-Veg,481,22,28,151
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,692,38,25,157
+Paneer Roll,Fast Food,Veg,549,21,22,165
+Tender Coconut Water,Snacks,Veg,65,2,0,79
+Chicken Lollipop,Snacks,Non-Veg,433,33,25,254
+Veg Momos,Fast Food,Veg,325,11,10,177
+Kozhukattai,Snacks,Veg,289,8,5,74
+Parotta + Chicken Salna,Dinner,Non-Veg,779,33,40,151
+Mango Juice,Breakfast,Veg,144,3,1,98
+Veg Noodles,Fast Food,Veg,507,14,17,177
+Chicken Noodles,Fast Food,Non-Veg,576,31,23,245
+Tender Coconut Water,Snacks,Veg,56,2,0,31
+Fish Biryani,Dinner,Non-Veg,610,44,31,295
+Egg Puff,Snacks,Non-Veg,351,12,26,44
+Bajji (Onion/Plantain),Snacks,Veg,219,5,17,39
+Plain Dosai + Chutney,Dinner,Veg,296,8,8,47
+Tomato Rice,Dinner,Veg,431,8,13,58
+Jigarthanda,Snacks,Veg,440,11,16,63
+Veg Fried Rice,Fast Food,Veg,591,10,10,204
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,288,7,17,28
+Egg Curry + Rice,Dinner,Non-Veg,620,23,16,129
+Chicken Fried Rice,Fast Food,Non-Veg,662,38,20,172
+Pani Puri (TN Style),Snacks,Veg,203,6,10,52
+Plain Dosai + Chutney,Dinner,Veg,223,5,7,58
+Pongal + Vada + Sambar,Dinner,Veg,529,18,21,129
+Mutton Meals (Full),Lunch,Non-Veg,1021,60,48,372
+Set Dosai + Sambar,Breakfast,Veg,378,10,8,109
+Mutton Samosa,Snacks,Non-Veg,420,15,17,57
+Vada + Sambar,Snacks,Veg,335,7,19,70
+Egg Pongal,Breakfast,Non-Veg,448,20,12,83
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,782,54,19,259
+Pani Puri (TN Style),Snacks,Veg,154,6,9,46
+Meals (Light),Dinner,Veg,618,16,11,129
+Crab Curry + Rice,Lunch,Non-Veg,499,33,12,389
+Meals (Light),Dinner,Veg,610,18,15,94
+Kara Pongal + Chutney,Breakfast,Veg,388,8,16,106
+Fish and Chips,Fast Food,Non-Veg,777,43,26,433
+Chicken Zinger Burger,Fast Food,Non-Veg,685,45,23,295
+Sambar Rice,Dinner,Veg,378,15,8,67
+Jigarthanda,Snacks,Veg,368,10,16,65
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,184,6,3,50
+Masala Dosai,Breakfast,Veg,386,12,17,60
+Filter Coffee,Breakfast,Veg,71,3,6,28
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,825,57,35,294
+Parotta + Veg Salna,Dinner,Veg,615,12,29,131
+Parotta + Veg Salna,Lunch,Veg,720,12,35,97
+Upma + Chutney,Breakfast,Veg,244,7,14,69
+Paneer Roll,Snacks,Veg,439,24,21,143
+Veg Noodles,Fast Food,Veg,434,9,15,136
+Poha (Aval) + Chutney,Snacks,Veg,309,9,8,55
+Rava Dosai,Breakfast,Veg,322,5,13,96
+Keerai Dosai,Breakfast,Veg,326,6,12,73
+Meals (Full Thali),Lunch,Veg,806,18,16,215
+Pongal + Vada + Sambar,Dinner,Veg,501,13,16,151
+Idly + Sambar,Dinner,Veg,276,13,4,90
+Chicken Noodles,Fast Food,Non-Veg,609,28,18,173
+Idly + Chicken Kurma,Dinner,Non-Veg,439,39,21,169
+Omelette + Bread,Breakfast,Non-Veg,320,21,19,108
+Nannari Sherbet,Breakfast,Veg,111,0,1,61
+French Fries,Fast Food,Veg,379,5,28,135
+Pongal + Sambar + Chutney,Breakfast,Veg,390,13,17,64
+Meals (Full Thali),Lunch,Veg,732,25,23,243
+Thengai Paal Dosai,Breakfast,Veg,344,7,18,123
+Masala Vada Pav,Fast Food,Veg,321,9,13,54
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,547,23,9,160
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,416,16,10,74
+Paneer Roll,Snacks,Veg,470,17,23,156
+Egg Fried Rice,Fast Food,Non-Veg,559,24,24,256
+Pongal + Chutney,Dinner,Veg,335,10,10,50
+Mutton Biryani,Lunch,Non-Veg,708,61,33,359
+Veg Fried Rice,Fast Food,Veg,553,12,10,159
+Veg Burger,Fast Food,Veg,352,10,19,152
+Chappatti + Kurma,Dinner,Veg,373,13,14,66
+Vada + Sambar,Snacks,Veg,364,10,16,89
+Veg Fried Rice,Fast Food,Veg,495,11,19,191
+Fresh Sugarcane Juice,Snacks,Veg,144,0,1,25
+Prawn Bajji,Snacks,Non-Veg,374,26,22,117
+Thengai Paal Dosai,Breakfast,Veg,349,6,15,71
+Fresh Lemon Juice,Snacks,Veg,73,1,1,41
+Variety Rice (Festival Special),Lunch,Veg,542,8,11,121
+Egg Fried Rice,Fast Food,Non-Veg,489,21,20,233
+Onion Dosai,Breakfast,Veg,372,7,6,80
+Fresh Sugarcane Juice,Snacks,Veg,110,1,1,51
+Set Dosai + Sambar,Breakfast,Veg,305,11,10,115
+Paniyaram + Chutney,Breakfast,Veg,322,12,16,58
+Medu Vada + Sambar,Breakfast,Veg,340,10,18,81
+Mutton Samosa,Snacks,Non-Veg,288,24,19,77
+Parotta + Mutton Salna,Dinner,Non-Veg,709,51,49,338
+Medu Vada + Sambar,Breakfast,Veg,350,9,12,106
+Pongal + Sambar + Chutney,Breakfast,Veg,332,14,17,99
+Chicken Zinger Burger,Fast Food,Non-Veg,695,48,28,272
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,250,10,5,46
+Bread + Omelette,Breakfast,Veg,345,10,20,70
+Tomato Rice,Dinner,Veg,369,11,16,74
+Murukku,Snacks,Veg,277,4,18,29
+Chicken Zinger Burger,Fast Food,Non-Veg,768,42,20,231
+Sambar Rice,Dinner,Veg,480,12,14,118
+Corn Chaat,Snacks,Veg,226,7,3,77
+Chicken Puff,Snacks,Non-Veg,359,24,20,69
+Paneer Roll,Snacks,Veg,550,20,20,161
+Egg Fried Rice,Fast Food,Non-Veg,572,22,24,216
+Prawn Masala + Rice,Lunch,Non-Veg,525,42,16,497
+Cheese Veg Burger,Fast Food,Veg,631,16,29,162
+Veg Momos,Fast Food,Veg,260,9,13,118
+Chicken Meals (Full),Lunch,Non-Veg,706,50,35,221
+Masala Vada Pav,Fast Food,Veg,352,12,13,61
+French Fries,Fast Food,Veg,431,5,21,179
+French Fries,Fast Food,Veg,428,5,27,179
+Chicken Fried Rice,Fast Food,Non-Veg,646,43,19,190
+Sambar Rice,Dinner,Veg,410,18,6,80
+Fish Biryani,Dinner,Non-Veg,728,43,23,215
+Chicken Puff,Snacks,Non-Veg,430,30,18,116
+Chappatti + Dal Fry,Lunch,Veg,477,20,13,94
+Idly + Sambar,Dinner,Veg,256,11,5,59
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,753,38,20,203
+Keerai Dosai,Breakfast,Veg,338,10,10,89
+Chicken Fried Rice,Fast Food,Non-Veg,578,43,16,222
+Parotta + Chicken Salna,Dinner,Non-Veg,707,32,22,192
+Bread + Omelette,Breakfast,Veg,364,14,12,99
+Idiyappam + Kurma,Dinner,Veg,427,14,10,106
+Egg Biryani,Lunch,Non-Veg,517,31,18,154
+Chicken Noodles,Fast Food,Non-Veg,612,43,21,153
+Parotta + Veg Salna,Breakfast,Veg,513,17,36,152
+Kottu Parotta (Chicken),Lunch,Non-Veg,577,47,34,173
+Chappatti + Dal Fry,Lunch,Veg,484,15,15,103
+Veg Burger,Fast Food,Veg,358,18,23,174
+Fish Biryani,Dinner,Non-Veg,766,49,27,269
+Parotta + Kurma,Breakfast,Veg,546,11,29,145
+Kozhukattai,Snacks,Veg,286,5,3,35
+Prawn Masala + Rice,Lunch,Non-Veg,649,54,15,426
+Fish Curry + Rice,Dinner,Non-Veg,483,44,15,168
+Veg Fried Rice,Fast Food,Veg,555,9,10,164
+Paneer Tikka Pizza,Fast Food,Veg,794,35,34,520
+Masala Vada Pav,Fast Food,Veg,320,7,10,111
+Paneer Roll,Fast Food,Veg,572,19,18,215
+Paneer Tikka Pizza,Fast Food,Veg,976,24,38,396
+Fish Curry + Rice,Dinner,Non-Veg,496,37,21,186
+Margherita Pizza,Fast Food,Veg,823,26,24,224
+Egg Puff,Snacks,Non-Veg,267,16,23,57
+Idly + Sambar,Dinner,Veg,251,11,7,87
+Idiyappam + Kurma,Dinner,Veg,454,8,13,109
+Parotta + Veg Salna,Breakfast,Veg,512,10,33,132
+Tomato Rice,Dinner,Veg,405,9,10,84
+Chicken Fried Rice,Fast Food,Non-Veg,649,37,22,235
+Margherita Pizza,Fast Food,Veg,641,19,22,435
+Mutton Seekh Roll,Fast Food,Non-Veg,757,39,33,242
+Fish Bajji,Snacks,Non-Veg,419,23,21,69
+Plain Dosai + Chutney,Dinner,Veg,235,9,5,57
+Chicken Biryani,Dinner,Non-Veg,724,42,20,222
+Chettinad Chicken + Rice,Dinner,Non-Veg,765,45,30,208
+Sambar Rice,Lunch,Veg,479,20,9,124
+Chicken Zinger Burger,Fast Food,Non-Veg,666,48,24,318
+Crab Curry + Rice,Lunch,Non-Veg,591,48,20,593
+Tomato Rice,Lunch,Veg,407,7,9,103
+Prawn Bajji,Snacks,Non-Veg,327,26,18,169
+Egg Biryani,Lunch,Non-Veg,627,28,23,220
+Kottu Parotta (Veg),Dinner,Veg,666,15,21,128
+Fresh Sugarcane Juice,Snacks,Veg,144,0,1,20
+Chicken Puff,Snacks,Non-Veg,328,21,17,94
+Margherita Pizza,Fast Food,Veg,762,27,35,301
+Fish Biryani,Dinner,Non-Veg,677,58,19,338
+Idiyappam + Kurma,Dinner,Veg,350,8,15,97
+Tomato Rice,Lunch,Veg,425,6,15,55
+Fish Fry + Rice,Lunch,Non-Veg,662,39,24,237
+Fish Biryani,Lunch,Non-Veg,731,40,27,226
+Samosa,Snacks,Veg,215,7,20,48
+Mutton Biryani,Lunch,Non-Veg,725,61,33,352
+Chicken Biryani,Dinner,Non-Veg,738,49,23,241
+Egg Curry + Rice,Dinner,Non-Veg,605,23,25,119
+Veg Burger,Fast Food,Veg,372,17,20,193
+Parotta + Veg Salna,Lunch,Veg,593,11,23,154
+Parotta + Veg Salna,Lunch,Veg,734,10,36,119
+Fish Curry + Rice,Dinner,Non-Veg,627,34,21,139
+Veg Briyani,Lunch,Veg,622,12,11,140
+Margherita Pizza,Fast Food,Veg,843,18,32,483
+Chicken Zinger Burger,Fast Food,Non-Veg,749,31,37,287
+Kara Pongal + Chutney,Breakfast,Veg,343,14,17,51
+Idly + Chicken Kurma,Dinner,Non-Veg,575,28,20,170
+French Fries,Fast Food,Veg,304,5,18,115
+Keema Parotta,Breakfast,Non-Veg,663,40,38,175
+Mutton Seekh Roll,Fast Food,Non-Veg,736,52,32,252
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,450,12,10,53
+Veg Noodles,Fast Food,Veg,541,10,12,121
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,90,1,3,53
+Kottu Parotta (Veg),Dinner,Veg,647,18,25,107
+Sundal (Kadala/Peas),Snacks,Veg,165,9,7,39
+Chicken Biryani,Dinner,Non-Veg,785,36,23,253
+Thengai Paal Dosai,Breakfast,Veg,423,9,11,128
+Kozhukattai,Snacks,Veg,198,8,7,31
+Parotta + Mutton Salna,Dinner,Non-Veg,713,47,28,227
+Fish Bajji,Snacks,Non-Veg,352,20,21,123
+Pesarattu + Ginger Chutney,Dinner,Veg,379,11,12,125
+Onion Dosai,Breakfast,Veg,345,9,7,91
+Margherita Pizza,Fast Food,Veg,812,20,29,246
+Kara Pongal + Chutney,Breakfast,Veg,429,12,12,108
+Veg Fried Rice,Fast Food,Veg,461,10,17,125
+Prawn Masala + Rice,Lunch,Non-Veg,524,45,20,421
+Prawn Masala + Rice,Dinner,Non-Veg,530,55,26,332
+French Fries,Fast Food,Veg,489,6,16,155
+Fresh Sugarcane Juice,Snacks,Veg,128,0,0,27
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,818,38,26,208
+Aappam + Veg Stew,Dinner,Veg,366,12,12,131
+Plain Dosai + Chutney,Dinner,Veg,289,9,11,49
+Fish and Chips,Fast Food,Non-Veg,638,32,31,244
+Corn Chaat,Snacks,Veg,235,8,4,43
+Paneer Roll,Snacks,Veg,503,23,24,85
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,262,6,18,35
+Aloo Bonda,Snacks,Veg,256,8,17,26
+Bread + Omelette,Breakfast,Veg,358,11,19,90
+Egg Curry + Rice,Dinner,Non-Veg,443,24,14,133
+Chicken Burger,Fast Food,Non-Veg,530,31,22,276
+Kottu Parotta (Chicken),Dinner,Non-Veg,793,41,19,272
+Ghee Dosai,Breakfast,Veg,355,11,22,105
+Cheese Veg Burger,Fast Food,Veg,476,21,25,247
+Masala Omelette + Parotta,Breakfast,Non-Veg,553,24,32,165
+Paneer Roll,Snacks,Veg,514,18,15,129
+Idiyappam + Kurma,Dinner,Veg,390,11,15,117
+Aloo Bonda,Snacks,Veg,344,7,21,61
+Idly + Sambar,Dinner,Veg,227,10,5,61
+Prawn Biryani,Lunch,Non-Veg,620,42,21,466
+Chicken Lollipop,Snacks,Non-Veg,359,32,26,205
+Kottu Parotta (Chicken),Dinner,Non-Veg,555,47,22,168
+Tomato Rice,Lunch,Veg,370,10,17,105
+Rose Milk,Snacks,Veg,257,5,6,59
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,714,39,32,237
+Parotta + Veg Salna,Breakfast,Veg,573,14,31,83
+Veg Burger,Fast Food,Veg,388,11,24,200
+Tender Coconut Water,Snacks,Veg,91,1,0,73
+Masala Omelette + Parotta,Breakfast,Non-Veg,567,29,22,169
+Sundal (Kadala/Peas),Snacks,Veg,245,9,6,21
+Chappatti + Kurma,Breakfast,Veg,507,14,17,104
+Bonda + Chutney,Snacks,Veg,311,6,19,30
+Variety Rice (Festival Special),Lunch,Veg,499,12,22,135
+Masala Dosai,Breakfast,Veg,351,14,13,98
+Masala Vada Pav,Fast Food,Veg,400,11,21,84
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,96,1,4,44
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,568,47,33,201
+Set Dosai + Sambar,Breakfast,Veg,343,11,9,88
+Tamarind Rice (Puliyodharai),Lunch,Veg,356,6,8,83
+Pani Puri (TN Style),Snacks,Veg,244,4,12,73
+Masala Dosai,Breakfast,Veg,302,10,18,65
+Veg Fried Rice,Fast Food,Veg,471,8,17,205
+Omelette + Bread,Breakfast,Non-Veg,328,18,14,66
+Kozhukattai,Snacks,Veg,229,7,6,50
+Plain Dosai + Chutney,Breakfast,Veg,316,10,11,76
+Veg Burger,Fast Food,Veg,523,13,21,186
+Idiyappam + Coconut Milk,Breakfast,Veg,377,6,11,100
+Puttu + Kadala Curry,Breakfast,Veg,507,20,11,126
+Chicken Burger,Fast Food,Non-Veg,530,41,27,277
+Mutton Seekh Roll,Fast Food,Non-Veg,652,47,25,375
+Mutton Biryani,Dinner,Non-Veg,921,54,42,301
+Mutton Biryani,Lunch,Non-Veg,829,49,36,298
+Bajji (Onion/Plantain),Snacks,Veg,277,8,14,49
+Mutton Samosa,Snacks,Non-Veg,418,15,15,56
+Parotta + Chicken Salna,Dinner,Non-Veg,618,49,37,222
+Bread + Omelette,Breakfast,Veg,336,13,16,84
+Mutton Meals (Full),Lunch,Non-Veg,882,50,40,337
+Chicken Momos,Fast Food,Non-Veg,465,27,10,185
+Upma + Chutney,Breakfast,Veg,250,7,9,53
+Paal Pongal,Breakfast,Veg,374,10,19,117
+Fish Bajji,Snacks,Non-Veg,373,18,24,102
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,329,12,4,62
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,402,11,9,61
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,597,32,16,196
+Poriyal + Rice + Dal,Lunch,Veg,494,14,11,121
+Upma + Chutney,Breakfast,Veg,315,9,10,63
+Egg Curry + Rice,Dinner,Non-Veg,601,25,25,167
+Masala Vada Pav,Fast Food,Veg,440,6,13,116
+Parotta + Chicken Salna,Lunch,Non-Veg,705,36,38,139
+Fish Biryani,Lunch,Non-Veg,807,50,29,259
+Chappatti + Kurma,Dinner,Veg,423,17,8,88
+Chicken Puff,Snacks,Non-Veg,343,22,23,69
+Upma + Chutney,Breakfast,Veg,239,6,14,74
+Egg Biryani,Lunch,Non-Veg,691,23,17,174
+Chappatti + Kurma,Dinner,Veg,413,15,13,82
+Cheese Veg Burger,Fast Food,Veg,660,21,25,189
+Tomato Rice,Lunch,Veg,409,6,17,115
+Medu Vada + Sambar,Breakfast,Veg,327,11,10,50
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,712,32,23,279
+Fish Curry + Rice,Dinner,Non-Veg,482,45,17,149
+Rava Dosai,Breakfast,Veg,364,10,9,117
+Mutton Meals (Full),Lunch,Non-Veg,1096,60,44,343
+Chicken Zinger Burger,Fast Food,Non-Veg,724,35,34,192
+Tomato Rice,Dinner,Veg,349,8,9,73
+Parotta + Mutton Salna,Lunch,Non-Veg,967,58,50,296
+Paneer Roll,Snacks,Veg,491,26,19,143
+Curd Rice + Pickle,Dinner,Veg,352,9,14,71
+Egg Pongal,Breakfast,Non-Veg,423,28,18,144
+Parotta + Chicken Salna,Lunch,Non-Veg,636,43,34,159
+Samosa,Snacks,Veg,326,5,18,21
+Parotta + Mutton Salna,Dinner,Non-Veg,973,46,44,329
+Mango Juice,Breakfast,Veg,187,1,0,107
+Paal Pongal,Breakfast,Veg,400,13,19,77
+Coconut Rice,Lunch,Veg,518,7,13,111
+Fresh Lemon Juice,Snacks,Veg,40,0,1,25
+Veg Briyani,Lunch,Veg,489,13,18,180
+Mango Juice,Breakfast,Veg,177,1,1,108
+Fresh Sugarcane Juice,Snacks,Veg,101,1,1,41
+Margherita Pizza,Fast Food,Veg,689,26,25,376
+Keerai Dosai,Breakfast,Veg,316,7,10,102
+Chappatti + Kurma,Dinner,Veg,485,11,10,118
+Murukku,Snacks,Veg,297,8,21,39
+Parotta + Veg Salna,Breakfast,Veg,530,13,36,123
+Margherita Pizza,Fast Food,Veg,679,28,31,246
+Filter Coffee,Breakfast,Veg,70,3,3,35
+Mutton Biryani,Dinner,Non-Veg,958,51,38,438
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,224,8,11,19
+Filter Coffee,Breakfast,Veg,46,3,6,33
+Kottu Parotta (Chicken),Lunch,Non-Veg,724,51,31,292
+Kottu Parotta (Chicken),Lunch,Non-Veg,566,54,26,228
+Keerai Dosai,Breakfast,Veg,288,8,6,71
+Veg Fried Rice,Fast Food,Veg,542,14,12,173
+Chicken Puff,Snacks,Non-Veg,410,21,18,68
+Fish Biryani,Lunch,Non-Veg,714,50,20,256
+Mango Juice,Breakfast,Veg,197,3,2,68
+Vada + Sambar,Snacks,Veg,330,10,20,56
+Corn Chaat,Snacks,Veg,219,5,9,55
+Peas Pulao + Raita,Lunch,Veg,512,15,16,165
+Curd Rice + Pickle,Lunch,Veg,342,10,7,70
+Sambar Rice,Lunch,Veg,364,14,6,89
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,702,43,25,388
+Paniyaram + Chutney,Breakfast,Veg,404,11,18,96
+Upma + Chutney,Breakfast,Veg,221,8,7,49
+Mutton Biryani,Lunch,Non-Veg,891,56,32,305
+Paneer Roll,Fast Food,Veg,456,20,25,170
+Chicken Tikka Pizza,Fast Food,Non-Veg,942,46,46,566
+Pongal + Chutney,Dinner,Veg,306,14,18,51
+Chicken Momos,Fast Food,Non-Veg,328,29,22,139
+Chettinad Chicken + Rice,Dinner,Non-Veg,556,55,19,172
+Mutton Biryani,Dinner,Non-Veg,763,47,41,406
+Mutton Biryani,Dinner,Non-Veg,1000,50,27,328
+Chettinad Chicken + Rice,Dinner,Non-Veg,718,48,26,184
+Egg Fried Rice,Fast Food,Non-Veg,501,31,24,228
+Coconut Rice,Lunch,Veg,370,8,16,128
+Lemon Rice,Lunch,Veg,464,10,15,111
+Poori + Kurma,Breakfast,Veg,513,12,25,74
+Medu Vada + Sambar,Breakfast,Veg,274,13,11,86
+Egg Pongal,Breakfast,Non-Veg,403,20,14,95
+Coconut Rice,Lunch,Veg,396,11,14,120
+Idiyappam + Coconut Milk,Breakfast,Veg,344,7,7,90
+Vada + Sambar,Snacks,Veg,272,12,11,60
+Plain Dosai + Chutney,Dinner,Veg,208,8,14,63
+Veg Momos,Fast Food,Veg,344,14,13,142
+Fish Curry + Rice,Dinner,Non-Veg,618,35,15,120
+Curd Rice + Pickle,Lunch,Veg,428,13,7,78
+Egg Curry + Rice,Dinner,Non-Veg,439,25,26,124
+Curd Rice + Pickle,Lunch,Veg,379,14,9,72
+Prawn Biryani,Lunch,Non-Veg,688,60,19,474
+Egg Puff,Snacks,Non-Veg,399,13,22,71
+Curd Rice + Pickle,Lunch,Veg,327,11,9,93
+Egg Biryani,Lunch,Non-Veg,682,23,15,236
+Bonda + Chutney,Snacks,Veg,309,6,22,21
+Upma + Chutney,Breakfast,Veg,306,5,9,87
+Meals (Full Thali),Lunch,Veg,808,28,23,231
+Chicken Burger,Fast Food,Non-Veg,466,40,18,255
+Squid Fry + Rice,Lunch,Non-Veg,576,34,20,291
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,273,6,18,30
+Kottu Parotta (Veg),Dinner,Veg,541,14,23,135
+Aappam + Veg Stew,Dinner,Veg,428,9,14,97
+Sugarcane Juice,Breakfast,Veg,106,2,0,37
+Poriyal + Rice + Dal,Lunch,Veg,532,15,9,74
+Chappatti + Kurma,Dinner,Veg,419,14,17,106
+Aappam + Veg Stew,Dinner,Veg,382,7,7,161
+Kottu Parotta (Veg),Lunch,Veg,541,17,24,163
+Fish Biryani,Dinner,Non-Veg,870,50,23,235
+Chicken Zinger Burger,Fast Food,Non-Veg,673,48,35,170
+Fresh Lemon Juice,Snacks,Veg,78,0,0,50
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,622,57,25,220
+Tender Coconut Water,Snacks,Veg,53,1,0,68
+Bonda + Chutney,Snacks,Veg,308,9,22,49
+Masala Vada Pav,Fast Food,Veg,440,6,16,86
+Chicken Noodles,Fast Food,Non-Veg,545,33,23,281
+Squid Fry + Rice,Lunch,Non-Veg,562,47,14,271
+Kottu Parotta (Chicken),Lunch,Non-Veg,562,52,26,215
+Kozhukattai,Snacks,Veg,228,7,7,72
+Chicken Zinger Burger,Fast Food,Non-Veg,617,43,29,315
+Sundal (Kadala/Peas),Snacks,Veg,171,14,5,23
+Chicken Lollipop,Snacks,Non-Veg,381,36,22,185
+Egg Dosai,Breakfast,Non-Veg,336,19,21,127
+Masala Vada Pav,Fast Food,Veg,391,6,19,64
+Egg Curry + Rice,Dinner,Non-Veg,551,33,18,161
+Pani Puri (TN Style),Snacks,Veg,223,6,8,56
+Fresh Fruit Juice,Breakfast,Veg,143,1,1,45
+Puttu + Kadala Curry,Breakfast,Veg,508,17,11,137
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,401,12,10,60
+Ghee Dosai,Breakfast,Veg,473,9,22,88
+Chicken Noodles,Fast Food,Non-Veg,580,30,24,262
+Meals (Full Thali),Lunch,Veg,875,30,23,121
+Variety Rice (Festival Special),Lunch,Veg,423,15,21,86
+Parotta + Mutton Salna,Lunch,Non-Veg,725,56,47,233
+Idly + Chicken Kurma,Dinner,Non-Veg,480,33,24,121
+Paal Pongal,Breakfast,Veg,383,14,10,115
+Egg Fried Rice,Fast Food,Non-Veg,544,21,17,224
+Coconut Rice,Lunch,Veg,396,10,12,115
+Chicken Fried Rice,Fast Food,Non-Veg,615,40,20,151
+Tamarind Rice (Puliyodharai),Lunch,Veg,342,9,11,97
+Cheese Veg Burger,Fast Food,Veg,534,16,32,206
+Mutton Meals (Full),Lunch,Non-Veg,803,54,48,367
+Kozhukattai,Snacks,Veg,187,5,8,60
+Parotta + Chicken Salna,Lunch,Non-Veg,629,48,27,228
+Chicken Kadai + Idly,Breakfast,Non-Veg,471,43,14,227
+Tender Coconut Water,Snacks,Veg,100,1,0,49
+Kottu Parotta (Chicken),Dinner,Non-Veg,657,49,34,193
+Fish Biryani,Lunch,Non-Veg,839,48,30,400
+Plain Dosai + Chutney,Dinner,Veg,315,6,5,58
+Chicken Puff,Snacks,Non-Veg,400,24,27,110
+Bajji (Onion/Plantain),Snacks,Veg,200,5,13,64
+Masala Dosai,Breakfast,Veg,287,9,18,125
+Jigarthanda,Snacks,Veg,310,7,11,91
+Idiyappam + Kurma,Dinner,Veg,391,12,15,146
+Fish and Chips,Fast Food,Non-Veg,598,34,26,298
+Chappatti + Kurma,Dinner,Veg,502,15,10,119
+Sambar Rice,Lunch,Veg,386,14,6,102
+Idiyappam + Kurma,Dinner,Veg,471,10,7,156
+Corn Chaat,Snacks,Veg,241,4,7,48
+Prawn Bajji,Snacks,Non-Veg,342,20,23,162
+Pesarattu + Ginger Chutney,Dinner,Veg,333,13,11,80
+Fresh Sugarcane Juice,Snacks,Veg,137,1,1,34
+Fish Biryani,Lunch,Non-Veg,637,50,23,240
+Masala Dosai,Breakfast,Veg,381,14,15,90
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,622,48,27,162
+Margherita Pizza,Fast Food,Veg,734,19,22,480
+Kottu Parotta (Chicken),Dinner,Non-Veg,610,44,22,223
+Chicken Fried Rice,Fast Food,Non-Veg,625,34,21,206
+Bread + Omelette,Breakfast,Veg,314,12,19,80
+Chicken Meals (Full),Lunch,Non-Veg,953,41,31,192
+Corn Chaat,Snacks,Veg,211,8,7,61
+Kottu Parotta (Chicken),Dinner,Non-Veg,728,35,20,268
+Chicken Biryani,Dinner,Non-Veg,822,48,29,279
+Pongal + Sambar + Chutney,Breakfast,Veg,385,11,13,55
+Vada + Sambar,Snacks,Veg,365,7,12,50
+Mutton Meals (Full),Lunch,Non-Veg,1047,55,30,350
+Parotta + Chicken Salna,Dinner,Non-Veg,817,46,27,162
+Egg Puff,Snacks,Non-Veg,342,13,24,62
+Sambar Rice,Lunch,Veg,377,19,13,85
+Pongal + Chutney,Dinner,Veg,415,11,15,68
+Bajji (Onion/Plantain),Snacks,Veg,227,9,10,36
+Chicken Noodles,Fast Food,Non-Veg,556,42,22,279
+Curd Rice + Pickle,Lunch,Veg,409,13,11,71
+Keerai Dosai,Breakfast,Veg,255,9,11,77
+Fresh Sugarcane Juice,Snacks,Veg,109,0,1,44
+Chicken 65,Snacks,Non-Veg,492,33,29,125
+Pani Puri (TN Style),Snacks,Veg,191,7,5,79
+Samosa,Snacks,Veg,238,6,21,49
+Chicken Lollipop,Snacks,Non-Veg,366,34,26,133
+Veg Burger,Fast Food,Veg,490,18,26,188
+Margherita Pizza,Fast Food,Veg,791,23,38,287
+Egg Puff,Snacks,Non-Veg,334,16,24,51
+Prawn Bajji,Snacks,Non-Veg,379,26,18,141
+Tomato Rice,Lunch,Veg,414,8,11,61
+Crab Curry + Rice,Lunch,Non-Veg,496,43,12,500
+Omelette + Bread,Breakfast,Non-Veg,402,22,24,127
+Jigarthanda,Snacks,Veg,447,7,11,130
+Bonda + Chutney,Snacks,Veg,274,10,10,27
+Chicken Tikka Pizza,Fast Food,Non-Veg,1060,49,34,460
+Kozhukattai,Snacks,Veg,218,8,4,65
+Curd Rice + Pickle,Lunch,Veg,437,14,9,83
+Fresh Lemon Juice,Snacks,Veg,98,0,1,34
+Mutton Biryani,Lunch,Non-Veg,827,44,27,384
+Chappatti + Kurma,Dinner,Veg,387,14,10,129
+Kottu Parotta (Mutton),Lunch,Non-Veg,912,56,28,302
+Sambar Rice,Lunch,Veg,455,18,9,121
+Sambar Rice,Dinner,Veg,455,16,14,126
+Lemon Rice,Lunch,Veg,434,11,16,63
+Sundal (Kadala/Peas),Snacks,Veg,193,8,6,54
+Crab Curry + Rice,Lunch,Non-Veg,577,37,18,387
+Chicken 65,Snacks,Non-Veg,386,38,18,125
+Sugarcane Juice,Breakfast,Veg,115,0,0,30
+Coconut Rice,Lunch,Veg,370,7,10,108
+Veg Burger,Fast Food,Veg,421,11,15,101
+Poha (Aval) + Chutney,Snacks,Veg,312,10,14,69
+Paneer Roll,Fast Food,Veg,413,28,15,169
+Parotta + Chicken Salna,Dinner,Non-Veg,675,35,22,166
+Mutton Seekh Roll,Fast Food,Non-Veg,564,39,24,290
+Meals (Light),Dinner,Veg,577,15,11,128
+Upma + Chutney,Breakfast,Veg,215,6,6,53
+Mango Juice,Breakfast,Veg,136,3,0,116
+Murukku,Snacks,Veg,389,7,21,48
+Veg Briyani,Lunch,Veg,610,17,21,122
+Veg Fried Rice,Fast Food,Veg,432,11,12,170
+Parotta + Chicken Salna,Dinner,Non-Veg,747,50,40,161
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,190,8,4,65
+Corn Chaat,Snacks,Veg,241,7,9,75
+Masala Vada Pav,Fast Food,Veg,380,6,15,88
+Chicken Puff,Snacks,Non-Veg,442,30,17,107
+Mutton Seekh Roll,Fast Food,Non-Veg,559,51,23,369
+Paneer Tikka Pizza,Fast Food,Veg,722,32,39,445
+Mutton Seekh Roll,Fast Food,Non-Veg,750,46,29,239
+Tender Coconut Water,Snacks,Veg,95,1,0,34
+Curd Rice + Pickle,Dinner,Veg,344,14,12,87
+Parotta + Mutton Salna,Lunch,Non-Veg,719,45,38,346
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,676,48,22,265
+Parotta + Veg Salna,Lunch,Veg,591,11,30,94
+Parotta + Veg Salna,Dinner,Veg,525,11,20,147
+Chicken Tikka Pizza,Fast Food,Non-Veg,844,52,42,477
+Fish and Chips,Fast Food,Non-Veg,642,40,25,400
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,801,54,29,348
+Prawn Bajji,Snacks,Non-Veg,315,26,28,98
+Tomato Rice,Dinner,Veg,322,12,11,93
+Bonda + Chutney,Snacks,Veg,278,5,10,36
+Egg Fried Rice,Fast Food,Non-Veg,642,21,19,183
+Parotta + Chicken Salna,Lunch,Non-Veg,738,47,30,202
+Idly + Chicken Kurma,Dinner,Non-Veg,517,32,20,181
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,561,38,15,273
+Tomato Rice,Lunch,Veg,331,6,11,52
+Nannari Sherbet,Breakfast,Veg,134,1,0,62
+Fish Biryani,Lunch,Non-Veg,797,49,26,282
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,740,45,29,255
+Prawn Biryani,Lunch,Non-Veg,854,55,34,483
+Sugarcane Juice,Breakfast,Veg,89,1,1,47
+Samosa,Snacks,Veg,339,5,15,25
+Sambar Rice,Dinner,Veg,510,17,7,116
+Parotta + Veg Salna,Breakfast,Veg,654,12,24,153
+Veg Briyani,Lunch,Veg,670,14,13,122
+Parotta + Veg Salna,Dinner,Veg,508,13,29,95
+Aloo Bonda,Snacks,Veg,282,5,14,51
+Peas Pulao + Raita,Lunch,Veg,565,15,15,166
+Meals (Light),Dinner,Veg,480,16,15,83
+Kottu Parotta (Veg),Lunch,Veg,487,14,14,179
+Dosai + Chicken Curry,Dinner,Non-Veg,663,32,14,214
+Paniyaram + Chutney,Breakfast,Veg,365,8,16,105
+Cheese Veg Burger,Fast Food,Veg,570,21,26,199
+Egg Dosai,Breakfast,Non-Veg,347,27,21,137
+Masala Vada Pav,Fast Food,Veg,325,7,21,102
+Paniyaram + Chutney,Breakfast,Veg,393,8,14,56
+Fresh Fruit Juice,Breakfast,Veg,133,3,1,74
+Chicken Momos,Fast Food,Non-Veg,423,25,17,181
+Mutton Meals (Full),Lunch,Non-Veg,904,60,34,379
+Keema Parotta,Breakfast,Non-Veg,554,36,28,151
+Plain Dosai + Chutney,Breakfast,Veg,226,5,14,59
+Kozhukattai,Snacks,Veg,282,6,6,48
+Rava Dosai,Breakfast,Veg,309,5,13,81
+Tomato Rice,Dinner,Veg,358,6,16,75
+Egg Fried Rice,Fast Food,Non-Veg,584,28,12,182
+Ghee Dosai,Breakfast,Veg,381,7,27,139
+Variety Rice (Festival Special),Lunch,Veg,457,13,21,90
+Sundal (Kadala/Peas),Snacks,Veg,213,10,7,48
+Sugarcane Juice,Breakfast,Veg,111,1,1,33
+Chicken 65,Snacks,Non-Veg,470,39,22,104
+Peas Pulao + Raita,Lunch,Veg,473,16,14,155
+Mutton Samosa,Snacks,Non-Veg,400,21,14,40
+Chicken Meals (Full),Lunch,Non-Veg,862,48,25,225
+Parotta + Mutton Salna,Dinner,Non-Veg,700,43,33,236
+Kottu Parotta (Chicken),Dinner,Non-Veg,673,55,18,291
+Egg Curry + Rice,Dinner,Non-Veg,491,24,26,134
+Upma + Chutney,Breakfast,Veg,210,7,11,63
+Poha (Aval) + Chutney,Snacks,Veg,218,8,6,61
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,75,1,4,59
+Chicken Momos,Fast Food,Non-Veg,436,33,14,251
+Meals (Full Thali),Lunch,Veg,995,25,21,246
+Chicken Lollipop,Snacks,Non-Veg,413,27,25,175
+Fish Fry + Rice,Lunch,Non-Veg,748,51,17,169
+Poha (Aval) + Chutney,Snacks,Veg,207,6,9,73
+Chicken Kadai + Idly,Breakfast,Non-Veg,424,39,22,178
+Parotta + Veg Salna,Lunch,Veg,693,11,30,87
+Pongal + Sambar + Chutney,Breakfast,Veg,347,15,10,78
+Egg Biryani,Lunch,Non-Veg,669,24,20,212
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,188,6,8,30
+Parotta + Chicken Salna,Lunch,Non-Veg,707,37,30,140
+Pongal + Sambar + Chutney,Breakfast,Veg,440,13,10,54
+Paneer Roll,Fast Food,Veg,486,18,26,168
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,686,21,9,119
+Parotta + Mutton Salna,Lunch,Non-Veg,756,53,31,209
+Coconut Rice,Lunch,Veg,484,10,20,89
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,706,35,19,228
+Parotta + Mutton Salna,Lunch,Non-Veg,955,52,42,209
+Parotta + Veg Salna,Dinner,Veg,697,18,32,131
+Kottu Parotta (Veg),Lunch,Veg,649,14,16,138
+Chicken Fried Rice,Fast Food,Non-Veg,705,42,21,239
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,622,57,28,383
+Onion Dosai,Breakfast,Veg,290,8,13,99
+Chettinad Chicken + Rice,Dinner,Non-Veg,759,50,19,151
+Chappatti + Kurma,Dinner,Veg,442,14,15,65
+Pongal + Vada + Sambar,Dinner,Veg,402,12,16,107
+Pesarattu + Ginger Chutney,Dinner,Veg,315,10,11,113
+Chicken Burger,Fast Food,Non-Veg,527,40,28,197
+Set Dosai + Sambar,Breakfast,Veg,314,11,14,102
+Sundal (Kadala/Peas),Snacks,Veg,190,9,5,44
+Crab Curry + Rice,Lunch,Non-Veg,663,48,23,483
+Meals (Full Thali),Lunch,Veg,858,19,20,192
+Corn Chaat,Snacks,Veg,251,4,8,44
+Pesarattu + Ginger Chutney,Dinner,Veg,339,14,8,120
+Fish and Chips,Fast Food,Non-Veg,772,40,26,379
+Chicken Burger,Fast Food,Non-Veg,643,32,15,131
+Tender Coconut Water,Snacks,Veg,91,2,1,68
+Pongal + Vada + Sambar,Dinner,Veg,564,20,21,156
+Egg Puff,Snacks,Non-Veg,265,18,16,47
+Filter Coffee,Breakfast,Veg,114,1,3,22
+Samosa,Snacks,Veg,340,5,11,59
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,667,44,14,132
+Pongal + Vada + Sambar,Dinner,Veg,547,14,17,151
+Poori + Kurma,Breakfast,Veg,488,14,29,88
+Prawn Masala + Rice,Lunch,Non-Veg,671,46,22,304
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,608,50,18,258
+Fish Biryani,Dinner,Non-Veg,779,41,20,276
+Vada + Sambar,Snacks,Veg,294,9,21,67
+Chappatti + Kurma,Dinner,Veg,383,18,18,81
+Veg Burger,Fast Food,Veg,352,10,24,109
+Parotta + Mutton Salna,Dinner,Non-Veg,777,38,30,309
+Paneer Roll,Snacks,Veg,461,24,22,180
+Chicken 65,Snacks,Non-Veg,399,41,28,143
+Chappatti + Kurma,Breakfast,Veg,466,11,10,101
+Chicken Lollipop,Snacks,Non-Veg,469,25,21,133
+Lemon Rice,Lunch,Veg,388,6,16,103
+Coconut Rice,Lunch,Veg,401,7,13,111
+Masala Omelette + Parotta,Breakfast,Non-Veg,468,26,23,147
+Chicken Tikka Pizza,Fast Food,Non-Veg,1071,34,33,502
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,249,10,16,32
+Corn Chaat,Snacks,Veg,210,6,10,56
+Fish Curry + Rice,Dinner,Non-Veg,584,36,17,254
+Fish and Chips,Fast Food,Non-Veg,640,32,31,457
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,581,48,18,191
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,84,2,6,59
+Paneer Tikka Pizza,Fast Food,Veg,722,35,29,475
+Chicken Momos,Fast Food,Non-Veg,360,23,10,222
+Fish Biryani,Dinner,Non-Veg,610,48,22,205
+Murukku,Snacks,Veg,253,8,22,28
+Squid Fry + Rice,Lunch,Non-Veg,662,41,17,303
+Filter Coffee,Breakfast,Veg,83,2,5,44
+Fish Curry + Rice,Dinner,Non-Veg,639,50,20,230
+Cheese Veg Burger,Fast Food,Veg,673,17,31,154
+Fresh Sugarcane Juice,Snacks,Veg,148,1,1,49
+Margherita Pizza,Fast Food,Veg,834,28,33,397
+Fish Curry + Rice,Lunch,Non-Veg,657,35,15,233
+Curd Rice + Pickle,Dinner,Veg,425,8,14,60
+Filter Coffee,Breakfast,Veg,79,2,5,25
+Kottu Parotta (Chicken),Lunch,Non-Veg,552,36,25,176
+Set Dosai + Sambar,Breakfast,Veg,362,10,11,78
+Chicken 65,Snacks,Non-Veg,382,39,17,206
+Parotta + Mutton Salna,Lunch,Non-Veg,899,50,35,296
+Keerai Dosai,Breakfast,Veg,359,6,12,51
+Paneer Roll,Snacks,Veg,517,18,23,170
+Prawn Masala + Rice,Dinner,Non-Veg,611,39,21,383
+Fish and Chips,Fast Food,Non-Veg,783,29,35,381
+Idiyappam + Coconut Milk,Breakfast,Veg,289,7,12,90
+Puttu + Kadala Curry,Breakfast,Veg,431,18,13,116
+Chicken Lollipop,Snacks,Non-Veg,474,27,26,161
+Parotta + Veg Salna,Dinner,Veg,508,18,32,156
+Murukku,Snacks,Veg,352,5,12,45
+Fresh Fruit Juice,Breakfast,Veg,87,2,0,78
+Curd Rice + Pickle,Dinner,Veg,353,8,14,87
+Egg Dosai,Breakfast,Non-Veg,361,18,10,136
+Veg Momos,Fast Food,Veg,307,11,8,169
+Paneer Roll,Fast Food,Veg,495,18,26,150
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,778,56,29,364
+Idiyappam + Coconut Milk,Breakfast,Veg,368,7,6,88
+Jigarthanda,Snacks,Veg,359,11,14,84
+Mutton Seekh Roll,Fast Food,Non-Veg,734,35,31,277
+Fresh Lemon Juice,Snacks,Veg,76,0,0,46
+Egg Pongal,Breakfast,Non-Veg,471,21,14,143
+Keerai Dosai,Breakfast,Veg,221,6,6,75
+Egg Dosai,Breakfast,Non-Veg,357,27,22,101
+Chicken Lollipop,Snacks,Non-Veg,316,24,16,153
+Meals (Light),Dinner,Veg,676,15,8,88
+Rava Dosai,Breakfast,Veg,336,10,13,67
+Paneer Tikka Pizza,Fast Food,Veg,814,29,36,489
+Chicken Lollipop,Snacks,Non-Veg,354,24,24,237
+Meals (Light),Dinner,Veg,680,13,15,78
+Tamarind Rice (Puliyodharai),Lunch,Veg,454,10,8,63
+Sambar Rice,Dinner,Veg,385,18,10,127
+Chicken Puff,Snacks,Non-Veg,414,20,22,72
+Chappatti + Kurma,Breakfast,Veg,514,13,11,92
+Filter Coffee,Breakfast,Veg,80,3,6,55
+Kottu Parotta (Chicken),Dinner,Non-Veg,800,47,32,225
+Masala Dosai,Breakfast,Veg,286,10,8,98
+Kottu Parotta (Chicken),Dinner,Non-Veg,795,45,29,173
+Parotta + Chicken Salna,Lunch,Non-Veg,752,46,26,159
+Coconut Rice,Lunch,Veg,380,9,12,103
+Margherita Pizza,Fast Food,Veg,665,28,27,447
+Fresh Lemon Juice,Snacks,Veg,53,1,1,45
+Parotta + Chicken Salna,Lunch,Non-Veg,685,36,39,153
+Veg Noodles,Fast Food,Veg,498,14,11,128
+Kottu Parotta (Chicken),Dinner,Non-Veg,735,53,27,271
+Mutton Biryani,Dinner,Non-Veg,700,56,28,274
+Egg Fried Rice,Fast Food,Non-Veg,453,23,24,157
+Coconut Rice,Lunch,Veg,497,9,21,78
+Bonda + Chutney,Snacks,Veg,239,9,14,24
+Prawn Bajji,Snacks,Non-Veg,350,18,22,162
+Idly + Chicken Kurma,Dinner,Non-Veg,525,41,14,227
+Chicken Fried Rice,Fast Food,Non-Veg,746,36,23,201
+Masala Vada Pav,Fast Food,Veg,438,7,16,67
+Kottu Parotta (Chicken),Dinner,Non-Veg,787,35,22,209
+Parotta + Chicken Salna,Dinner,Non-Veg,759,33,31,154
+Kottu Parotta (Veg),Lunch,Veg,653,12,20,118
+Fish Curry + Rice,Lunch,Non-Veg,627,47,26,200
+Fresh Fruit Juice,Breakfast,Veg,154,2,2,59
+Chicken Zinger Burger,Fast Food,Non-Veg,564,42,37,306
+Keerai Dosai,Breakfast,Veg,310,6,9,67
+Kottu Parotta (Veg),Dinner,Veg,473,18,18,179
+Fresh Sugarcane Juice,Snacks,Veg,148,0,1,58
+Pongal + Vada + Sambar,Dinner,Veg,447,17,24,107
+Sambar Rice,Lunch,Veg,375,12,10,65
+Bread + Omelette,Breakfast,Veg,348,13,11,61
+Chettinad Chicken + Rice,Dinner,Non-Veg,709,39,32,154
+Aappam + Veg Stew,Dinner,Veg,435,8,16,131
+Curd Rice + Pickle,Lunch,Veg,433,12,14,119
+Variety Rice (Festival Special),Lunch,Veg,469,15,10,153
+Dosai + Chicken Curry,Dinner,Non-Veg,645,40,25,218
+Mutton Seekh Roll,Fast Food,Non-Veg,580,44,31,195
+Fish Bajji,Snacks,Non-Veg,390,26,15,110
+Aloo Bonda,Snacks,Veg,295,8,21,56
+Cheese Veg Burger,Fast Food,Veg,614,16,21,252
+Fresh Fruit Juice,Breakfast,Veg,144,1,0,41
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,691,53,22,262
+Dosai + Chicken Curry,Dinner,Non-Veg,499,35,20,132
+Fish Biryani,Dinner,Non-Veg,621,44,21,250
+Parotta + Mutton Salna,Dinner,Non-Veg,939,40,39,313
+Samosa,Snacks,Veg,267,8,12,40
+Keerai Dosai,Breakfast,Veg,264,11,12,68
+Fish and Chips,Fast Food,Non-Veg,800,39,34,257
+Fish Bajji,Snacks,Non-Veg,416,20,20,127
+Paneer Roll,Fast Food,Veg,502,21,17,235
+Rava Dosai,Breakfast,Veg,262,8,15,104
+Paal Pongal,Breakfast,Veg,449,8,14,65
+Poha (Aval) + Chutney,Snacks,Veg,254,10,8,38
+Parotta + Veg Salna,Lunch,Veg,604,10,32,99
+Veg Momos,Fast Food,Veg,331,14,14,156
+Chicken Lollipop,Snacks,Non-Veg,457,36,14,182
+Chicken Tikka Pizza,Fast Food,Non-Veg,921,49,47,656
+Keerai Dosai,Breakfast,Veg,236,9,14,94
+Mutton Samosa,Snacks,Non-Veg,312,24,16,72
+Fish Bajji,Snacks,Non-Veg,292,18,23,75
+Thengai Paal Dosai,Breakfast,Veg,315,10,16,103
+Parotta + Chicken Salna,Dinner,Non-Veg,719,36,35,205
+Poha (Aval) + Chutney,Snacks,Veg,277,10,8,66
+Fresh Lemon Juice,Snacks,Veg,43,0,0,43
+Parotta + Veg Salna,Breakfast,Veg,598,14,31,110
+Masala Vada Pav,Fast Food,Veg,369,8,13,105
+Margherita Pizza,Fast Food,Veg,689,18,31,340
+Corn Chaat,Snacks,Veg,292,6,6,61
+Masala Vada Pav,Fast Food,Veg,347,8,16,113
+Poriyal + Rice + Dal,Lunch,Veg,573,16,6,102
+Idiyappam + Kurma,Dinner,Veg,417,8,11,84
+Fish Curry + Rice,Lunch,Non-Veg,589,32,25,153
+Parotta + Veg Salna,Breakfast,Veg,679,11,30,87
+Chettinad Chicken + Rice,Dinner,Non-Veg,665,42,23,255
+Curd Rice + Pickle,Dinner,Veg,301,10,14,55
+Pongal + Vada + Sambar,Dinner,Veg,485,13,26,84
+Parotta + Chicken Salna,Lunch,Non-Veg,734,43,39,176
+Chappatti + Kurma,Dinner,Veg,508,12,8,84
+Veg Noodles,Fast Food,Veg,485,9,17,195
+Fish and Chips,Fast Food,Non-Veg,780,29,27,329
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,839,54,24,388
+Rose Milk,Snacks,Veg,213,6,8,64
+Kottu Parotta (Chicken),Lunch,Non-Veg,729,48,22,284
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,698,46,22,203
+Ven Pongal,Breakfast,Veg,355,15,14,68
+Mutton Samosa,Snacks,Non-Veg,400,15,22,63
+Parotta + Mutton Salna,Dinner,Non-Veg,846,53,35,293
+Jigarthanda,Snacks,Veg,407,12,13,124
+Paneer Roll,Snacks,Veg,415,24,19,87
+Variety Rice (Festival Special),Lunch,Veg,421,8,18,154
+Kottu Parotta (Chicken),Lunch,Non-Veg,776,39,33,293
+Chicken Lollipop,Snacks,Non-Veg,326,33,28,144
+Kara Pongal + Chutney,Breakfast,Veg,404,13,18,81
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,135,1,5,54
+Pongal + Sambar + Chutney,Breakfast,Veg,333,15,10,91
+Chicken Kadai + Idly,Breakfast,Non-Veg,618,45,15,226
+Kottu Parotta (Veg),Dinner,Veg,471,14,15,120
+Chappatti + Kurma,Breakfast,Veg,393,12,9,112
+Omelette + Bread,Breakfast,Non-Veg,351,25,24,94
+Pongal + Vada + Sambar,Dinner,Veg,585,19,23,113
+Mutton Biryani,Dinner,Non-Veg,918,51,36,333
+Chicken Fried Rice,Fast Food,Non-Veg,717,41,23,300
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,532,40,17,234
+Bread + Omelette,Breakfast,Veg,401,8,11,101
+Pongal + Sambar + Chutney,Breakfast,Veg,458,15,14,66
+Murukku,Snacks,Veg,291,6,12,59
+Peas Pulao + Raita,Lunch,Veg,451,13,12,103
+Veg Noodles,Fast Food,Veg,408,8,17,172
+Bajji (Onion/Plantain),Snacks,Veg,245,4,18,66
+Curd Rice + Pickle,Lunch,Veg,393,15,14,89
+Mutton Seekh Roll,Fast Food,Non-Veg,554,42,25,284
+Poha (Aval) + Chutney,Snacks,Veg,288,7,10,40
+Margherita Pizza,Fast Food,Veg,606,27,32,442
+Chicken Tikka Pizza,Fast Food,Non-Veg,852,43,43,661
+Chicken Lollipop,Snacks,Non-Veg,338,33,21,220
+Mutton Seekh Roll,Fast Food,Non-Veg,704,49,27,317
+Margherita Pizza,Fast Food,Veg,699,26,33,255
+Cheese Veg Burger,Fast Food,Veg,635,15,24,264
+Paal Pongal,Breakfast,Veg,352,15,20,85
+Fish Biryani,Dinner,Non-Veg,730,42,25,201
+Filter Coffee,Breakfast,Veg,75,1,2,59
+Plain Dosai + Chutney,Breakfast,Veg,206,6,14,70
+Tomato Rice,Dinner,Veg,339,8,14,54
+Lemon Rice,Lunch,Veg,475,11,18,120
+Pani Puri (TN Style),Snacks,Veg,232,6,4,58
+Paniyaram + Chutney,Breakfast,Veg,284,13,10,102
+Mutton Biryani,Lunch,Non-Veg,895,57,37,284
+Chicken Zinger Burger,Fast Food,Non-Veg,739,33,23,239
+Fish Bajji,Snacks,Non-Veg,421,26,24,99
+Kozhukattai,Snacks,Veg,282,5,4,76
+Kottu Parotta (Veg),Dinner,Veg,652,14,18,106
+Mutton Biryani,Dinner,Non-Veg,914,49,31,272
+Poriyal + Rice + Dal,Lunch,Veg,574,16,13,112
+Paneer Tikka Pizza,Fast Food,Veg,965,25,24,386
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,122,1,4,69
+Curd Rice + Pickle,Lunch,Veg,317,9,10,86
+Parotta + Mutton Salna,Lunch,Non-Veg,947,58,37,295
+Chicken 65,Snacks,Non-Veg,426,36,26,127
+Veg Noodles,Fast Food,Veg,446,14,17,163
+Peas Pulao + Raita,Lunch,Veg,425,18,11,119
+Parotta + Chicken Salna,Dinner,Non-Veg,794,39,32,128
+Filter Coffee,Breakfast,Veg,60,1,5,40
+Chettinad Chicken + Rice,Dinner,Non-Veg,671,55,27,282
+Fish Curry + Rice,Dinner,Non-Veg,504,38,23,140
+Pongal + Chutney,Dinner,Veg,385,8,14,91
+Meals (Light),Dinner,Veg,494,20,16,112
+Egg Biryani,Lunch,Non-Veg,714,35,19,126
+Idly + Chicken Kurma,Dinner,Non-Veg,506,39,23,225
+Veg Fried Rice,Fast Food,Veg,529,11,22,106
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,627,51,25,263
+Plain Dosai + Chutney,Dinner,Veg,294,8,10,75
+Puttu + Kadala Curry,Breakfast,Veg,448,14,12,149
+Egg Biryani,Lunch,Non-Veg,500,28,16,201
+Paneer Tikka Pizza,Fast Food,Veg,745,30,37,451
+Egg Biryani,Lunch,Non-Veg,637,34,18,214
+Curd Rice + Pickle,Dinner,Veg,414,12,7,81
+Paneer Tikka Pizza,Fast Food,Veg,723,22,36,535
+Dosai + Chicken Curry,Dinner,Non-Veg,607,29,25,176
+Idly + Chicken Kurma,Dinner,Non-Veg,555,45,20,197
+Kozhukattai,Snacks,Veg,187,7,7,49
+Plain Dosai + Chutney,Breakfast,Veg,246,8,9,51
+Set Dosai + Sambar,Breakfast,Veg,414,14,6,97
+Chappatti + Kurma,Breakfast,Veg,368,11,11,111
+Variety Rice (Festival Special),Lunch,Veg,540,9,18,130
+Set Dosai + Sambar,Breakfast,Veg,352,8,9,118
+Kottu Parotta (Veg),Dinner,Veg,562,14,23,104
+Tender Coconut Water,Snacks,Veg,71,1,1,78
+Puttu + Kadala Curry,Breakfast,Veg,440,17,14,92
+Omelette + Bread,Breakfast,Non-Veg,439,24,22,120
+Plain Dosai + Chutney,Dinner,Veg,217,8,5,58
+Paneer Roll,Fast Food,Veg,537,24,16,223
+Meals (Full Thali),Lunch,Veg,872,24,23,228
+Chicken Lollipop,Snacks,Non-Veg,357,29,17,230
+Plain Dosai + Chutney,Breakfast,Veg,255,5,5,72
+Murukku,Snacks,Veg,305,6,21,23
+Rava Dosai,Breakfast,Veg,379,6,14,99
+Kottu Parotta (Veg),Dinner,Veg,516,13,28,150
+Chappatti + Kurma,Breakfast,Veg,468,12,10,101
+Fish Biryani,Dinner,Non-Veg,801,45,27,353
+Fish and Chips,Fast Food,Non-Veg,713,33,28,416
+Paal Pongal,Breakfast,Veg,394,14,11,127
+Aloo Bonda,Snacks,Veg,352,7,21,44
+Parotta + Veg Salna,Lunch,Veg,656,17,33,135
+Veg Noodles,Fast Food,Veg,460,11,19,125
+Fish Curry + Rice,Dinner,Non-Veg,558,50,22,155
+Kozhukattai,Snacks,Veg,191,5,7,69
+Parotta + Mutton Salna,Lunch,Non-Veg,768,49,41,215
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,280,6,2,58
+Tomato Rice,Lunch,Veg,386,8,10,106
+Chicken Zinger Burger,Fast Food,Non-Veg,756,32,38,235
+Meals (Full Thali),Lunch,Veg,736,26,22,158
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,278,7,8,50
+Rasam Rice,Lunch,Veg,284,8,6,87
+Mutton Seekh Roll,Fast Food,Non-Veg,611,35,34,282
+Paal Pongal,Breakfast,Veg,462,8,15,63
+French Fries,Fast Food,Veg,418,8,25,149
+Poori + Kurma,Breakfast,Veg,448,14,28,104
+Tamarind Rice (Puliyodharai),Lunch,Veg,387,7,11,116
+Egg Biryani,Lunch,Non-Veg,504,29,27,193
+Pongal + Chutney,Dinner,Veg,315,10,13,82
+Pongal + Chutney,Dinner,Veg,450,11,16,89
+Peas Pulao + Raita,Lunch,Veg,598,15,9,143
+Keerai Dosai,Breakfast,Veg,350,7,5,86
+Chicken Meals (Full),Lunch,Non-Veg,957,45,30,244
+Prawn Bajji,Snacks,Non-Veg,327,25,22,152
+Corn Chaat,Snacks,Veg,190,7,3,72
+Chicken Momos,Fast Food,Non-Veg,471,31,19,246
+Veg Momos,Fast Food,Veg,303,13,12,108
+Corn Chaat,Snacks,Veg,243,7,10,75
+Keerai Dosai,Breakfast,Veg,299,12,13,104
+Paneer Roll,Fast Food,Veg,453,28,15,129
+Chicken Biryani,Dinner,Non-Veg,741,42,25,181
+Medu Vada + Sambar,Breakfast,Veg,338,9,17,107
+Prawn Bajji,Snacks,Non-Veg,421,27,18,132
+Bonda + Chutney,Snacks,Veg,249,8,12,22
+Parotta + Mutton Salna,Lunch,Non-Veg,957,57,32,191
+Tender Coconut Water,Snacks,Veg,75,2,0,63
+Prawn Bajji,Snacks,Non-Veg,372,24,18,96
+Fresh Fruit Juice,Breakfast,Veg,125,1,0,95
+Rasam Rice,Lunch,Veg,354,14,6,71
+Tomato Rice,Lunch,Veg,366,7,15,119
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,297,9,12,24
+Crab Curry + Rice,Lunch,Non-Veg,571,39,13,337
+Tomato Rice,Lunch,Veg,424,7,10,53
+Margherita Pizza,Fast Food,Veg,612,26,28,462
+Veg Burger,Fast Food,Veg,484,13,20,196
+Fish Curry + Rice,Dinner,Non-Veg,575,42,14,159
+Corn Chaat,Snacks,Veg,192,4,10,56
+Prawn Masala + Rice,Dinner,Non-Veg,687,50,26,316
+Prawn Masala + Rice,Lunch,Non-Veg,657,37,20,326
+Veg Momos,Fast Food,Veg,350,13,12,152
+Coconut Rice,Lunch,Veg,505,12,20,125
+Prawn Biryani,Lunch,Non-Veg,848,57,31,487
+Curd Rice + Pickle,Lunch,Veg,343,12,6,93
+Tomato Rice,Lunch,Veg,361,6,15,58
+Fish Curry + Rice,Dinner,Non-Veg,472,46,26,188
+Prawn Biryani,Lunch,Non-Veg,723,55,29,407
+Paneer Roll,Fast Food,Veg,438,23,18,211
+Prawn Bajji,Snacks,Non-Veg,306,23,28,107
+Chicken 65,Snacks,Non-Veg,363,28,20,197
+Tender Coconut Water,Snacks,Veg,77,1,0,68
+Parotta + Mutton Salna,Dinner,Non-Veg,894,57,45,183
+Medu Vada + Sambar,Breakfast,Veg,274,9,22,97
+Murukku,Snacks,Veg,256,8,22,59
+Lemon Rice,Lunch,Veg,362,9,14,79
+Set Dosai + Sambar,Breakfast,Veg,407,12,12,93
+Chicken Biryani,Dinner,Non-Veg,888,36,24,291
+Idly + Chicken Kurma,Dinner,Non-Veg,527,39,19,155
+Mango Juice,Breakfast,Veg,161,1,0,56
+Paneer Tikka Pizza,Fast Food,Veg,794,27,42,437
+Paal Pongal,Breakfast,Veg,416,14,13,89
+Parotta + Mutton Salna,Dinner,Non-Veg,982,56,28,228
+Chicken Lollipop,Snacks,Non-Veg,312,30,25,155
+Veg Fried Rice,Fast Food,Veg,435,15,19,125
+Egg Fried Rice,Fast Food,Non-Veg,565,27,20,222
+Sambar Rice,Dinner,Veg,392,13,6,63
+Aloo Bonda,Snacks,Veg,261,5,17,52
+Cheese Veg Burger,Fast Food,Veg,540,14,31,168
+Prawn Biryani,Lunch,Non-Veg,632,56,26,254
+Kara Pongal + Chutney,Breakfast,Veg,362,13,13,86
+Dosai + Chicken Curry,Dinner,Non-Veg,614,34,17,217
+Chicken Burger,Fast Food,Non-Veg,521,40,14,166
+Parotta + Chicken Salna,Lunch,Non-Veg,686,47,36,238
+Parotta + Veg Salna,Dinner,Veg,575,16,29,103
+Fresh Fruit Juice,Breakfast,Veg,103,3,2,74
+Margherita Pizza,Fast Food,Veg,868,23,34,489
+Prawn Bajji,Snacks,Non-Veg,382,22,21,130
+Sambar Rice,Lunch,Veg,409,16,10,87
+Dosai + Chicken Curry,Dinner,Non-Veg,583,36,25,248
+Margherita Pizza,Fast Food,Veg,663,19,35,297
+Paniyaram + Chutney,Breakfast,Veg,403,11,15,94
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,256,7,18,29
+Pongal + Vada + Sambar,Dinner,Veg,534,20,22,86
+Veg Noodles,Fast Food,Veg,452,12,20,165
+Chicken Zinger Burger,Fast Food,Non-Veg,630,46,37,300
+Bajji (Onion/Plantain),Snacks,Veg,294,5,20,65
+Veg Momos,Fast Food,Veg,252,12,6,84
+Peas Pulao + Raita,Lunch,Veg,554,18,15,115
+Rasam Rice,Lunch,Veg,338,11,6,109
+Chicken Biryani,Dinner,Non-Veg,748,48,28,240
+Squid Fry + Rice,Lunch,Non-Veg,679,39,19,353
+Mutton Seekh Roll,Fast Food,Non-Veg,784,34,30,369
+Fish Biryani,Lunch,Non-Veg,702,45,22,230
+Egg Fried Rice,Fast Food,Non-Veg,558,20,21,166
+Idiyappam + Coconut Milk,Breakfast,Veg,289,6,10,79
+Rasam Rice,Lunch,Veg,312,12,9,88
+Chicken Burger,Fast Food,Non-Veg,650,34,19,241
+Ghee Dosai,Breakfast,Veg,401,7,15,121
+Chicken Fried Rice,Fast Food,Non-Veg,546,37,17,214
+Sambar Rice,Dinner,Veg,488,12,9,117
+Poha (Aval) + Chutney,Snacks,Veg,251,5,9,74
+Parotta + Chicken Salna,Dinner,Non-Veg,600,48,29,241
+Corn Chaat,Snacks,Veg,286,5,7,99
+Mutton Meals (Full),Lunch,Non-Veg,1055,47,47,236
+Chicken Zinger Burger,Fast Food,Non-Veg,752,38,24,279
+Egg Dosai,Breakfast,Non-Veg,308,28,19,123
+Egg Fried Rice,Fast Food,Non-Veg,556,27,13,190
+Parotta + Veg Salna,Breakfast,Veg,670,12,21,104
+Meals (Light),Dinner,Veg,553,15,13,107
+Veg Fried Rice,Fast Food,Veg,444,14,10,151
+Prawn Masala + Rice,Dinner,Non-Veg,542,40,24,306
+Sundal (Kadala/Peas),Snacks,Veg,221,12,8,53
+Egg Pongal,Breakfast,Non-Veg,456,21,21,123
+Veg Fried Rice,Fast Food,Veg,502,14,17,129
+Parotta + Mutton Salna,Dinner,Non-Veg,834,42,45,258
+Sundal (Kadala/Peas),Snacks,Veg,180,13,10,59
+Fish Biryani,Dinner,Non-Veg,655,54,30,351
+Jigarthanda,Snacks,Veg,355,10,18,120
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,397,12,10,63
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,249,12,9,38
+Chettinad Chicken + Rice,Dinner,Non-Veg,673,56,30,247
+Prawn Bajji,Snacks,Non-Veg,407,30,16,173
+Aappam + Stew,Breakfast,Veg,356,10,7,73
+Tomato Rice,Dinner,Veg,338,11,10,88
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,709,51,18,217
+Poha (Aval) + Chutney,Snacks,Veg,216,9,6,65
+Curd Rice + Pickle,Dinner,Veg,342,10,10,86
+Chicken Biryani,Dinner,Non-Veg,832,49,32,259
+Aappam + Veg Stew,Dinner,Veg,385,12,11,134
+Aappam + Stew,Breakfast,Veg,412,8,8,106
+Pongal + Chutney,Dinner,Veg,305,12,15,75
+Rose Milk,Snacks,Veg,265,5,9,35
+Keema Parotta,Breakfast,Non-Veg,568,40,24,208
+Fish Fry + Rice,Lunch,Non-Veg,521,51,16,270
+Pongal + Vada + Sambar,Dinner,Veg,525,18,23,160
+Prawn Biryani,Lunch,Non-Veg,644,52,25,329
+Pesarattu + Ginger Chutney,Dinner,Veg,377,12,6,61
+Chicken Roll / Kathi Roll,Fast Food,Non-Veg,566,40,20,146
+Chicken Meals (Full),Lunch,Non-Veg,972,41,22,204
+Fresh Sugarcane Juice,Snacks,Veg,110,2,0,32
+Chicken Kadai + Idly,Breakfast,Non-Veg,545,40,17,202
+Cheese Veg Burger,Fast Food,Veg,491,20,29,214
+Egg Biryani,Lunch,Non-Veg,636,22,16,120
+Chicken Puff,Snacks,Non-Veg,413,26,27,113
+Tomato Rice,Dinner,Veg,389,6,16,55
+Chicken 65,Snacks,Non-Veg,436,32,21,132
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,369,13,8,57
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,268,12,5,66
+Curd Rice + Pickle,Lunch,Veg,430,10,11,77
+Parotta + Veg Salna,Breakfast,Veg,592,15,29,134
+Sundal (Kadala/Peas),Snacks,Veg,227,8,10,30
+Prawn Bajji,Snacks,Non-Veg,437,26,18,133
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,659,39,29,319
+Paneer Roll,Fast Food,Veg,445,23,19,260
+Chappatti + Kurma,Dinner,Veg,468,15,10,86
+Chicken Puff,Snacks,Non-Veg,388,29,21,106
+Chappatti + Kurma,Dinner,Veg,360,10,8,89
+Rose Milk,Snacks,Veg,213,7,8,45
+Fresh Sugarcane Juice,Snacks,Veg,139,1,0,53
+Upma + Chutney,Breakfast,Veg,201,9,8,88
+Coconut Rice,Lunch,Veg,392,8,17,64
+Set Dosai + Sambar,Breakfast,Veg,314,11,14,102
+Plain Dosai + Chutney,Dinner,Veg,271,9,9,74
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,107,1,4,43
+Kottu Parotta (Chicken),Dinner,Non-Veg,637,42,29,274
+Pongal + Chutney,Dinner,Veg,439,8,9,97
+Fresh Lemon Juice,Snacks,Veg,94,0,0,23
+Crab Curry + Rice,Lunch,Non-Veg,530,34,14,494
+French Fries,Fast Food,Veg,488,6,19,146
+Fresh Lemon Juice,Snacks,Veg,50,0,0,49
+Ven Pongal,Breakfast,Veg,444,14,10,60
+Mutton Biryani,Lunch,Non-Veg,718,52,35,357
+Set Dosai + Sambar,Breakfast,Veg,459,13,11,63
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,724,37,24,210
+Fresh Lemon Juice,Snacks,Veg,91,0,0,22
+Kottu Parotta (Veg),Lunch,Veg,640,14,24,126
+Kottu Parotta (Chicken),Dinner,Non-Veg,776,48,20,218
+Mutton Seekh Roll,Fast Food,Non-Veg,692,36,21,258
+Corn Chaat,Snacks,Veg,240,6,6,41
+Curd Rice + Pickle,Lunch,Veg,383,15,10,104
+Chicken Puff,Snacks,Non-Veg,354,28,19,82
+Chicken Noodles,Fast Food,Non-Veg,526,29,22,165
+Idiyappam + Coconut Milk,Breakfast,Veg,281,9,11,87
+Set Dosai + Sambar,Breakfast,Veg,423,9,14,104
+Medu Vada + Sambar,Breakfast,Veg,309,13,19,82
+Set Dosai + Sambar,Breakfast,Veg,311,9,12,61
+Veg Burger,Fast Food,Veg,464,11,26,128
+Aappam + Veg Stew,Dinner,Veg,429,9,11,150
+Aappam + Stew,Breakfast,Veg,378,10,10,127
+Thengai Paal Dosai,Breakfast,Veg,334,9,14,100
+Mutton Seekh Roll,Fast Food,Non-Veg,682,39,21,337
+Sugarcane Juice,Breakfast,Veg,111,0,1,36
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,212,9,5,34
+Onion Dosai,Breakfast,Veg,344,7,9,103
+Fish Biryani,Dinner,Non-Veg,780,41,20,371
+Chicken Fried Rice,Fast Food,Non-Veg,512,40,14,316
+Parotta + Mutton Salna,Dinner,Non-Veg,994,48,39,234
+Cheese Veg Burger,Fast Food,Veg,470,20,22,293
+Crab Curry + Rice,Lunch,Non-Veg,527,46,23,499
+Mutton Seekh Roll,Fast Food,Non-Veg,656,33,31,209
+Sundal (Kadala/Peas),Snacks,Veg,233,13,4,23
+Rose Milk,Snacks,Veg,271,7,8,44
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,387,17,5,70
+Pani Puri (TN Style),Snacks,Veg,217,7,9,30
+Curd Rice + Pickle,Lunch,Veg,371,10,9,75
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,430,16,5,61
+Egg Dosai,Breakfast,Non-Veg,440,25,14,95
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,202,10,5,33
+Veg Burger,Fast Food,Veg,466,18,14,107
+Puttu + Kadala Curry,Breakfast,Veg,357,13,6,83
+Keema Parotta,Breakfast,Non-Veg,762,44,23,210
+Chappatti + Kurma,Dinner,Veg,455,11,11,82
+Tomato Rice,Lunch,Veg,406,11,9,60
+Mango Juice,Breakfast,Veg,211,3,1,65
+Chicken Meals (Full),Lunch,Non-Veg,751,56,34,230
+Chicken 65,Snacks,Non-Veg,386,35,23,122
+Fish Curry + Rice,Dinner,Non-Veg,482,47,22,232
+Masala Omelette + Parotta,Breakfast,Non-Veg,472,29,20,120
+Vada + Sambar,Snacks,Veg,330,13,15,40
+Idly + Chicken Kurma,Dinner,Non-Veg,557,34,21,180
+Filter Coffee,Breakfast,Veg,84,3,5,53
+Idiyappam + Coconut Milk,Breakfast,Veg,411,7,5,85
+Squid Fry + Rice,Lunch,Non-Veg,541,30,18,389
+Variety Rice (Festival Special),Lunch,Veg,475,14,10,113
+Fish Biryani,Lunch,Non-Veg,878,48,22,377
+Bajji (Onion/Plantain),Snacks,Veg,308,5,22,33
+Aloo Bonda,Snacks,Veg,320,4,20,37
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,770,50,18,151
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,120,3,4,41
+Masala Dosai,Breakfast,Veg,397,13,12,126
+Fresh Fruit Juice,Breakfast,Veg,100,2,2,95
+Mutton Kuzhambu + Rice,Lunch,Non-Veg,753,57,25,325
+Rose Milk,Snacks,Veg,263,5,8,53
+Veg Momos,Fast Food,Veg,325,14,12,173
+Veg Burger,Fast Food,Veg,361,14,24,214
+Curd Rice + Pickle,Dinner,Veg,373,15,7,113
+Aappam + Veg Stew,Dinner,Veg,453,11,9,153
+Chicken Momos,Fast Food,Non-Veg,466,25,11,157
+Vada + Sambar,Snacks,Veg,332,8,15,46
+Parotta + Veg Salna,Dinner,Veg,503,18,21,141
+Chappatti + Kurma,Dinner,Veg,443,18,10,67
+Ven Pongal,Breakfast,Veg,378,8,11,108
+Fish Fry + Rice,Lunch,Non-Veg,629,48,28,292
+Chicken Kadai + Idly,Breakfast,Non-Veg,486,45,23,222
+Aappam + Stew,Breakfast,Veg,329,9,9,77
+Curd Rice + Pickle,Dinner,Veg,315,14,14,116
+Mutton Seekh Roll,Fast Food,Non-Veg,650,49,18,291
+Veg Noodles,Fast Food,Veg,413,15,20,213
+Sambar Rice,Dinner,Veg,506,20,12,60
+Paneer Roll,Snacks,Veg,492,23,16,87
+Chappatti + Kurma,Dinner,Veg,433,12,15,112
+Prawn Masala + Rice,Dinner,Non-Veg,622,53,16,367
+Parotta + Veg Salna,Lunch,Veg,552,11,35,155
+Fish Curry + Rice,Lunch,Non-Veg,478,39,23,245
+Veg Burger,Fast Food,Veg,394,15,26,161
+Mutton Seekh Roll,Fast Food,Non-Veg,660,37,25,252
+Chicken Lollipop,Snacks,Non-Veg,386,36,19,176
+Chappatti + Kurma,Dinner,Veg,427,17,16,93
+Idiyappam + Coconut Milk,Breakfast,Veg,365,7,9,114
+Fresh Fruit Juice,Breakfast,Veg,126,3,0,90
+Chappatti + Kurma,Breakfast,Veg,450,18,16,118
+Paneer Roll,Snacks,Veg,512,22,14,143
+Pesarattu + Ginger Chutney,Dinner,Veg,317,10,13,61
+Bonda + Chutney,Snacks,Veg,283,6,20,35
+Parotta + Mutton Salna,Dinner,Non-Veg,859,51,47,192
+Chappatti + Kurma,Dinner,Veg,493,13,12,80
+Plain Dosai + Chutney,Dinner,Veg,272,7,8,80
+Veg Momos,Fast Food,Veg,284,14,10,171
+Masala Dosai,Breakfast,Veg,303,11,17,79
+Chicken Burger,Fast Food,Non-Veg,469,45,15,145
+Egg Fried Rice,Fast Food,Non-Veg,635,26,18,202
+Tamarind Rice (Puliyodharai),Lunch,Veg,336,12,12,88
+Parotta + Kurma,Breakfast,Veg,570,12,22,92
+Mango Juice,Breakfast,Veg,196,2,1,88
+Filter Coffee,Breakfast,Veg,57,1,4,39
+Bajji (Onion/Plantain),Snacks,Veg,309,4,11,43
+Chicken Biryani (Dindigul Style),Lunch,Non-Veg,699,38,20,205
+Veg Burger,Fast Food,Veg,473,13,19,131
+Egg Pongal,Breakfast,Non-Veg,387,18,23,76
+Chicken Noodles,Fast Food,Non-Veg,654,41,17,320
+Parotta + Mutton Salna,Dinner,Non-Veg,958,54,42,190
+Pani Puri (TN Style),Snacks,Veg,280,7,11,80
+Masala Dosai,Breakfast,Veg,373,14,8,95
+Chappatti + Dal Fry,Lunch,Veg,406,16,11,88
+Mango Juice,Breakfast,Veg,126,2,1,72
+Chicken Kadai + Idly,Breakfast,Non-Veg,543,30,20,233
+Paneer Roll,Fast Food,Veg,573,21,23,166
+Meals (Light),Dinner,Veg,589,16,9,86
+Aappam + Veg Stew,Dinner,Veg,338,11,11,162
+Egg Biryani,Lunch,Non-Veg,511,32,23,212
+Sundal (Kadala/Peas),Snacks,Veg,231,11,5,52
+Chicken Puff,Snacks,Non-Veg,305,20,17,117
+Pongal + Vada + Sambar,Dinner,Veg,561,16,13,100
+Tomato Rice,Lunch,Veg,432,6,12,93
+Chicken Tikka Pizza,Fast Food,Non-Veg,1089,51,33,643
+Chettinad Chicken + Rice,Dinner,Non-Veg,725,47,28,251
+Chicken Momos,Fast Food,Non-Veg,452,27,12,203
+Margherita Pizza,Fast Food,Veg,777,28,37,484
+Mutton Samosa,Snacks,Non-Veg,405,23,23,59
+French Fries,Fast Food,Veg,341,8,14,191
+Vada + Sambar,Snacks,Veg,255,10,20,69
+Keerai Dosai,Breakfast,Veg,338,8,6,87
+Aappam + Veg Stew,Dinner,Veg,439,9,8,114
+Chicken Zinger Burger,Fast Food,Non-Veg,693,41,22,212
+Nannari Sherbet,Breakfast,Veg,95,0,1,32
+Chicken Burger,Fast Food,Non-Veg,600,29,18,148
+Nannari Sherbet,Breakfast,Veg,150,0,1,47
+Onion Dosai,Breakfast,Veg,328,9,16,97
+Egg Fried Rice,Fast Food,Non-Veg,506,23,23,157
+Tender Coconut Water,Snacks,Veg,70,1,1,69
+Aloo Bonda,Snacks,Veg,305,8,13,47
+Poori + Kurma,Breakfast,Veg,408,10,26,66
+Tomato Rice,Lunch,Veg,433,11,17,98
+Curd Rice + Pickle,Lunch,Veg,302,12,10,93
+Rose Milk,Snacks,Veg,181,6,9,66
+Coconut Rice,Lunch,Veg,434,6,15,64
+Masala Dosai,Breakfast,Veg,345,13,16,70
+Sambar Rice,Dinner,Veg,418,18,14,72
+Fish Bajji,Snacks,Non-Veg,392,23,21,83
+Egg Pongal,Breakfast,Non-Veg,411,27,16,132
+"Meals (Sambar, Rasam, Kootu, Rice, Papad, Pickle)",Lunch,Veg,640,16,16,135
+Parotta + Chicken Salna,Dinner,Non-Veg,698,38,34,148
+Fish Bajji,Snacks,Non-Veg,395,21,13,140
+Tomato Rice,Lunch,Veg,370,8,10,61
+Fish Biryani,Lunch,Non-Veg,681,57,32,277
+Tomato Rice,Dinner,Veg,439,11,11,109
+Fish Biryani,Dinner,Non-Veg,713,54,31,292
+Lemon Rice,Lunch,Veg,392,12,8,103
+Masala Vada Pav,Fast Food,Veg,341,11,11,59
+Fresh Fruit Juice,Breakfast,Veg,138,3,0,75
+Mutton Samosa,Snacks,Non-Veg,333,14,28,38
+Chicken Kadai + Idly,Breakfast,Non-Veg,475,33,21,234
+Meals (Full Thali),Lunch,Veg,710,26,15,147
+Kottu Parotta (Chicken),Dinner,Non-Veg,657,35,34,194
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,256,7,13,28
+Veg Noodles,Fast Food,Veg,546,10,22,159
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,121,3,3,58
+Margherita Pizza,Fast Food,Veg,824,18,37,277
+Chicken 65,Snacks,Non-Veg,360,42,27,206
+Pongal + Chutney,Dinner,Veg,386,10,10,104
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,253,6,3,32
+Prawn Masala + Rice,Dinner,Non-Veg,543,43,24,392
+Cheese Veg Burger,Fast Food,Veg,472,15,26,280
+Mutton Samosa,Snacks,Non-Veg,332,15,20,69
+Veg Burger,Fast Food,Veg,524,16,19,156
+Prawn Masala + Rice,Lunch,Non-Veg,557,51,22,251
+Tender Coconut Water,Snacks,Veg,52,1,1,64
+Omelette + Bread,Breakfast,Non-Veg,385,22,20,86
+Fish and Chips,Fast Food,Non-Veg,742,39,36,277
+Variety Rice (Festival Special),Lunch,Veg,490,15,18,136
+Variety Rice (Festival Special),Lunch,Veg,523,12,20,89
+Fish Biryani,Dinner,Non-Veg,864,54,19,262
+Veg Noodles,Fast Food,Veg,492,14,21,122
+Chicken Momos,Fast Food,Non-Veg,430,31,19,228
+Tomato Rice,Dinner,Veg,410,11,16,113
+Aappam + Stew,Breakfast,Veg,324,7,9,130
+Parotta + Chicken Salna,Dinner,Non-Veg,644,40,37,169
+Curd Rice + Pickle,Lunch,Veg,434,12,8,85
+Bonda + Chutney,Snacks,Veg,277,7,16,30
+Chicken Lollipop,Snacks,Non-Veg,419,22,23,170
+Chappatti + Dal Fry,Lunch,Veg,397,22,18,124
+Coconut Rice,Lunch,Veg,366,7,22,76
+Rose Milk,Snacks,Veg,244,8,6,35
+Egg Curry + Rice,Dinner,Non-Veg,440,29,18,198
+Squid Fry + Rice,Lunch,Non-Veg,456,42,16,209
+Meals (Light),Dinner,Veg,595,14,15,131
+Fish Biryani,Dinner,Non-Veg,760,42,31,389
+Sambar Rice,Lunch,Veg,497,19,14,81
+Kozhukattai,Snacks,Veg,185,6,4,76
+Masala Omelette + Parotta,Breakfast,Non-Veg,615,24,29,169
+Squid Fry + Rice,Lunch,Non-Veg,596,50,20,368
+Paneer Roll,Fast Food,Veg,557,18,25,194
+Curd Rice + Pickle,Lunch,Veg,350,12,13,84
+Idly (4 pcs) + Sambar + Chutney,Breakfast,Veg,342,13,3,66
+Thengai Paal Dosai,Breakfast,Veg,344,12,22,115
+Poriyal + Rice + Dal,Lunch,Veg,513,15,6,98
+Poha (Aval) + Chutney,Snacks,Veg,232,5,11,77
+Pongal + Vada + Sambar,Dinner,Veg,466,13,24,89
+Idiyappam + Coconut Milk,Breakfast,Veg,319,10,10,100
+Thengai Paal Dosai,Breakfast,Veg,417,9,15,82
+Masala Vada Pav,Fast Food,Veg,362,9,18,119
+Chettinad Chicken Curry + Rice,Lunch,Non-Veg,706,41,32,153
+Variety Rice (Festival Special),Lunch,Veg,479,14,10,96
+Veg Fried Rice,Fast Food,Veg,572,14,16,190
+Chicken Lollipop,Snacks,Non-Veg,338,31,15,257
+Veg Momos,Fast Food,Veg,303,11,9,125
+Cheese Veg Burger,Fast Food,Veg,554,18,29,173
+Mutton Seekh Roll,Fast Food,Non-Veg,625,34,19,344
+Idly (2 pcs) + Sambar + Chutney,Breakfast,Veg,181,7,3,54
+Kottu Parotta (Chicken),Dinner,Non-Veg,583,40,32,278
+Dosai + Chicken Curry,Dinner,Non-Veg,635,29,20,234
+Fish Curry + Rice,Dinner,Non-Veg,668,35,24,224
+Paneer Roll,Snacks,Veg,440,19,20,178
+Parotta + Veg Salna,Dinner,Veg,556,16,35,110
+Masala Vada Pav,Fast Food,Veg,305,9,17,77
+Thaen Kaapi (Honey Coffee),Breakfast,Veg,123,3,4,44
+Chappatti + Kurma,Dinner,Veg,422,17,15,105
+Chicken 65,Snacks,Non-Veg,405,41,29,101
+Tender Coconut Water,Snacks,Veg,82,1,1,50
+Fresh Fruit Juice,Breakfast,Veg,178,2,2,67
+Cheese Veg Burger,Fast Food,Veg,502,14,25,237
+Kottu Parotta (Veg),Dinner,Veg,547,17,25,175
+Fish and Chips,Fast Food,Non-Veg,790,44,37,343
+Egg Dosai,Breakfast,Non-Veg,319,20,10,72
+Rava Dosai,Breakfast,Veg,343,5,10,81
+Fish Biryani,Dinner,Non-Veg,876,43,29,377
+Tomato Rice,Dinner,Veg,477,11,11,58
+Chappatti + Kurma,Breakfast,Veg,383,14,8,118
+Peas Pulao + Raita,Lunch,Veg,459,14,11,175
+Mutton Meals (Full),Lunch,Non-Veg,1079,51,48,385
+Samosa,Snacks,Veg,239,4,21,35
+Jigarthanda,Snacks,Veg,302,11,9,116
+Kottu Parotta (Veg),Dinner,Veg,478,13,26,151
+Cheese Veg Burger,Fast Food,Veg,537,20,30,266
+Chicken Momos,Fast Food,Non-Veg,375,22,22,254
+Puttu + Kadala Curry,Breakfast,Veg,430,12,14,77
+Tomato Rice,Dinner,Veg,419,9,9,107
+Idiyappam + Coconut Milk,Breakfast,Veg,356,5,6,65
+Paniyaram + Chutney,Breakfast,Veg,393,9,17,55
+Chicken Tikka Pizza,Fast Food,Non-Veg,808,51,35,674
+Set Dosai + Sambar,Breakfast,Veg,335,11,10,92
+Chappatti + Dal Fry,Lunch,Veg,487,18,16,148
+Kottu Parotta (Veg),Dinner,Veg,504,14,24,193
+Parotta + Mutton Salna,Dinner,Non-Veg,701,47,29,208
+Idiyappam + Kurma,Dinner,Veg,400,11,13,159
+Fish Biryani,Dinner,Non-Veg,639,44,30,205
+Kottu Parotta (Veg),Dinner,Veg,629,18,17,200
+Plain Dosai + Chutney,Breakfast,Veg,266,6,11,44
+Parotta + Kurma,Breakfast,Veg,643,11,19,70
+Kottu Parotta (Chicken),Dinner,Non-Veg,717,45,24,226
+Curd Rice + Pickle,Dinner,Veg,438,9,6,115
+Bonda + Chutney,Snacks,Veg,297,7,10,54
+Fish Fry + Rice,Lunch,Non-Veg,693,39,23,195
+Idly + Chicken Kurma,Dinner,Non-Veg,435,32,20,151
+Mutton Samosa,Snacks,Non-Veg,388,14,26,58
+Fish and Chips,Fast Food,Non-Veg,623,43,36,349
+Parotta + Chicken Salna,Dinner,Non-Veg,640,45,28,148
+Fish Fry + Rice,Lunch,Non-Veg,646,41,27,272
+Egg Fried Rice,Fast Food,Non-Veg,543,23,17,185
+Paneer Tikka Pizza,Fast Food,Veg,882,34,37,303
+Idly + Chicken Kurma,Dinner,Non-Veg,577,44,12,216
+Peas Pulao + Raita,Lunch,Veg,556,15,10,127
+French Fries,Fast Food,Veg,459,4,18,166
+Chicken 65,Snacks,Non-Veg,391,42,21,206
+Paneer Tikka Pizza,Fast Food,Veg,995,30,24,577
+Parotta + Chicken Salna,Lunch,Non-Veg,622,47,39,235
+Pongal + Vada + Sambar,Dinner,Veg,570,14,18,141
+Chappatti + Kurma,Dinner,Veg,478,11,14,69
+Chicken Biryani (Ambur Style),Lunch,Non-Veg,884,51,26,219
+Curd Rice + Pickle,Lunch,Veg,361,10,8,107
+Egg Pongal,Breakfast,Non-Veg,432,24,19,81
+Keema Parotta,Breakfast,Non-Veg,610,36,29,121
+Masala Dosai,Breakfast,Veg,385,10,18,111
+Plain Dosai + Chutney,Dinner,Veg,313,6,9,47
+Keerai Dosai,Breakfast,Veg,274,10,9,70
+Chicken Biryani,Dinner,Non-Veg,618,47,29,166
+Egg Pongal,Breakfast,Non-Veg,476,23,16,76
+Sundal (Kadala/Peas),Snacks,Veg,201,11,6,58
+Pongal + Vada + Sambar,Dinner,Veg,527,13,22,96
+Plain Dosai + Chutney,Breakfast,Veg,231,7,10,66
+Chicken Tikka Pizza,Fast Food,Non-Veg,1095,35,41,665
+Tamarind Rice (Puliyodharai),Lunch,Veg,447,12,9,120
+Veg Noodles,Fast Food,Veg,431,10,17,214
+Meals (Full Thali),Lunch,Veg,734,23,13,171
+Tamarind Rice (Puliyodharai),Lunch,Veg,435,6,15,96
+Parotta + Mutton Salna,Dinner,Non-Veg,763,56,37,210
+Kadalai Mittai (Peanut Chikki),Snacks,Veg,305,11,8,16
+Paneer Roll,Fast Food,Veg,495,18,14,234
+Fish Biryani,Lunch,Non-Veg,837,41,26,251
+Prawn Masala + Rice,Lunch,Non-Veg,610,51,22,347
+Chicken Kadai + Idly,Breakfast,Non-Veg,603,36,23,228
+Pani Puri (TN Style),Snacks,Veg,154,4,11,67
+Kara Pongal + Chutney,Breakfast,Veg,379,13,18,104
+Pongal + Sambar + Chutney,Breakfast,Veg,323,10,10,108
+Chicken Puff,Snacks,Non-Veg,440,25,20,92
+Veg Fried Rice,Fast Food,Veg,551,8,14,188
+Egg Curry + Rice,Dinner,Non-Veg,598,34,24,150
+Veg Burger,Fast Food,Veg,470,17,25,153
+Fish Curry + Rice,Lunch,Non-Veg,477,50,21,148
+Veg Fried Rice,Fast Food,Veg,449,10,10,176
+Veg Burger,Fast Food,Veg,387,10,18,196
+Ven Pongal,Breakfast,Veg,334,14,10,94
+Jigarthanda,Snacks,Veg,339,7,15,65
+Kottu Parotta (Chicken),Dinner,Non-Veg,757,35,30,277
+Chicken Burger,Fast Food,Non-Veg,595,37,26,274
+Masala Omelette + Parotta,Breakfast,Non-Veg,475,29,26,99
